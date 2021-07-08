@@ -69,3 +69,5 @@ try:
   crewDF.to_csv('./files/output-matrix.csv') 
 except ValueError:
   print("Error in saving the results." )  
+
+input("Press enter to exit ")
