@@ -2,35 +2,60 @@ import pandas as pd
 import numpy as np
 from datetime import datetime
 
+
 FinalValues= []
 results=[]
 
 now = datetime.now()
 # read file
 try: 
-  print("Start reading file at " + now.strftime("%H:%M:%S"))
+  print("Start reading the file at " + now.strftime("%H:%M:%S"))
   df = pd.read_excel ("./files/input.xlsx" , sheet_name=0)
   dflen = len(df)
-  print(" Number of rows in file: " + str(dflen) )
+  print("Number of rows in the file: " + str(dflen) )  
 except ValueError:
-  print("File or path could not find.The file name should be inpout.xlsx and it must be located in the folder is called files.")
+  print("File or path could not find. The file name should be inpout.xlsx, and it must be located in the folder is called files.")
   input("Press enter to exit ")
  
 # remove duplicat rows 
-try: 
-  print("Start removing the  duplicates." )
-  df.drop_duplicates(inplace=True)  
-  dfremovedlen=  len(df)
-  print(str(dflen - dfremovedlen ) + " duplicate rows is found and deleted.")
+try:
+  print("Start finding movies or crews without code.")
+  is_NaN = df.isnull()
+  row_has_NaN = is_NaN.any(axis=1)
+  rows_with_NaN = df[row_has_NaN]
+  if(len(rows_with_NaN) > 0) : 
+    print("Please checklist bellow and update new code or MovieCode values with the correct number: ")
+    print(rows_with_NaN)
+    input("Press enter to exit ")    
 except ValueError:
-  print("Error in removing duplicte records.")
+  print("Error in finding movies or crews without code.")
+  input("Press enter to exit ")
+
+try:
+  crewGroup = df.groupby('newcode')
+  filteredDf= df[~df['newcode'].isin(crewGroup.filter(lambda x: len(x) == 1)["newcode"])]
+  dflen = len(filteredDf)
+  print ("The number of rows for processing: " + str(dflen))
+except ValueError:
+  print("Error in cleansing crews with only one film.")
+  input("Press enter to exit ")
+
+# remove duplicat rows 
+try: 
+  print("Start removing the duplicates." )
+  filteredDf.drop_duplicates(inplace=True)  
+  dfremovedlen=  len(filteredDf)
+  print(str(dflen - dfremovedlen ) + " duplicate rows are found and deleted.")
+except ValueError:
+  print("Error in removing duplicate records.")
   input("Press enter to exit ")
  
 # create unique lists of movies and crews
 try:
-  movieLists = df['Movie'].unique()
+  filteredDf = filteredDf.sort_values(by=['MovieCode', 'newcode'])
+  movieLists = filteredDf['MovieCode'].unique()
   movieQty = len(movieLists)
-  crewLists = df['newcode'].unique()
+  
   crewDF={}
 except ValueError:
   print("Error in Finding unique movies and crews.")
@@ -40,8 +65,8 @@ except ValueError:
 try:
   y=0
   z=0
-  dt = df.groupby(['Movie' ])
-  print("Start Processing data of " + str(movieQty) + " movies")
+  dt = filteredDf.groupby(['MovieCode' ])
+  print("Start processing data of " + str(movieQty) + " movies")
   
   for x in movieLists:
     if( (z % 10)==0 ):
@@ -88,7 +113,7 @@ try:
       row[7]=tieval
       results.append(row)
 except ValueError:
-  print("Error in preaparing final results." )
+  print("Error in preparing  final results." )
   input("Press enter to exit ")
 
 # save matrix and final result in file  
