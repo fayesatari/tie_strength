@@ -1,1339 +1,679 @@
-,Movie,MovieCode,Year,Crew 1_name,Code 1,Crew 2_name,Code2,Tie strength
+,Movie,MovieCode,Year,Code 1,Crew 1_name,Code2,Crew 2_name,Tie strength
 0,Corpse Bride_2005,21000268,2005,30033839,"August, John (I)",30083861,"Bonham Carter, Helena",3
 1,Corpse Bride_2005,21000268,2005,30033839,"August, John (I)",30114716,"Burton, Tim (I)",3
 2,Corpse Bride_2005,21000268,2005,30033839,"August, John (I)",30243631,"Elfman, Danny",3
 3,Corpse Bride_2005,21000268,2005,30033839,"August, John (I)",30284905,"Frey, Derek",2
 4,Corpse Bride_2005,21000268,2005,30033839,"August, John (I)",30481927,"Lebenzon, Chris",3
 5,Corpse Bride_2005,21000268,2005,30033839,"August, John (I)",30552567,"McDowell, Alex (I)",2
-6,Corpse Bride_2005,21000268,2005,30083861,"Bonham Carter, Helena",30033839,"August, John (I)",2
-7,Corpse Bride_2005,21000268,2005,30083861,"Bonham Carter, Helena",30114716,"Burton, Tim (I)",4
-8,Corpse Bride_2005,21000268,2005,30083861,"Bonham Carter, Helena",30243631,"Elfman, Danny",4
-9,Corpse Bride_2005,21000268,2005,30083861,"Bonham Carter, Helena",30284905,"Frey, Derek",2
-10,Corpse Bride_2005,21000268,2005,30083861,"Bonham Carter, Helena",30481927,"Lebenzon, Chris",4
-11,Corpse Bride_2005,21000268,2005,30083861,"Bonham Carter, Helena",30552567,"McDowell, Alex (I)",2
-12,Corpse Bride_2005,21000268,2005,30114716,"Burton, Tim (I)",30033839,"August, John (I)",2
-13,Corpse Bride_2005,21000268,2005,30114716,"Burton, Tim (I)",30083861,"Bonham Carter, Helena",4
-14,Corpse Bride_2005,21000268,2005,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
-15,Corpse Bride_2005,21000268,2005,30114716,"Burton, Tim (I)",30284905,"Frey, Derek",2
-16,Corpse Bride_2005,21000268,2005,30114716,"Burton, Tim (I)",30459639,"Kozachik, Pete",2
-17,Corpse Bride_2005,21000268,2005,30114716,"Burton, Tim (I)",30481927,"Lebenzon, Chris",8
-18,Corpse Bride_2005,21000268,2005,30114716,"Burton, Tim (I)",30511906,"Lumley, Joanna",2
-19,Corpse Bride_2005,21000268,2005,30114716,"Burton, Tim (I)",30552567,"McDowell, Alex (I)",2
-20,Corpse Bride_2005,21000268,2005,30114716,"Burton, Tim (I)",30840372,"Thompson, Caroline (I)",3
-21,Corpse Bride_2005,21000268,2005,30243631,"Elfman, Danny",30033839,"August, John (I)",2
-22,Corpse Bride_2005,21000268,2005,30243631,"Elfman, Danny",30083861,"Bonham Carter, Helena",4
-23,Corpse Bride_2005,21000268,2005,30243631,"Elfman, Danny",30114716,"Burton, Tim (I)",12
-24,Corpse Bride_2005,21000268,2005,30243631,"Elfman, Danny",30284905,"Frey, Derek",2
-25,Corpse Bride_2005,21000268,2005,30243631,"Elfman, Danny",30481927,"Lebenzon, Chris",7
-26,Corpse Bride_2005,21000268,2005,30243631,"Elfman, Danny",30552567,"McDowell, Alex (I)",2
-27,Corpse Bride_2005,21000268,2005,30243631,"Elfman, Danny",30840372,"Thompson, Caroline (I)",3
-28,Corpse Bride_2005,21000268,2005,30284905,"Frey, Derek",30083861,"Bonham Carter, Helena",2
-29,Corpse Bride_2005,21000268,2005,30284905,"Frey, Derek",30114716,"Burton, Tim (I)",2
-30,Corpse Bride_2005,21000268,2005,30284905,"Frey, Derek",30243631,"Elfman, Danny",2
-31,Corpse Bride_2005,21000268,2005,30284905,"Frey, Derek",30481927,"Lebenzon, Chris",2
-32,Corpse Bride_2005,21000268,2005,30284905,"Frey, Derek",30552567,"McDowell, Alex (I)",2
-33,Corpse Bride_2005,21000268,2005,30459639,"Kozachik, Pete",30114716,"Burton, Tim (I)",2
-34,Corpse Bride_2005,21000268,2005,30459639,"Kozachik, Pete",30511906,"Lumley, Joanna",2
-35,Corpse Bride_2005,21000268,2005,30481927,"Lebenzon, Chris",30033839,"August, John (I)",2
-36,Corpse Bride_2005,21000268,2005,30481927,"Lebenzon, Chris",30083861,"Bonham Carter, Helena",4
-37,Corpse Bride_2005,21000268,2005,30481927,"Lebenzon, Chris",30114716,"Burton, Tim (I)",8
-38,Corpse Bride_2005,21000268,2005,30481927,"Lebenzon, Chris",30243631,"Elfman, Danny",7
-39,Corpse Bride_2005,21000268,2005,30481927,"Lebenzon, Chris",30284905,"Frey, Derek",2
-40,Corpse Bride_2005,21000268,2005,30481927,"Lebenzon, Chris",30552567,"McDowell, Alex (I)",2
-41,Corpse Bride_2005,21000268,2005,30511906,"Lumley, Joanna",30114716,"Burton, Tim (I)",2
-42,Corpse Bride_2005,21000268,2005,30511906,"Lumley, Joanna",30459639,"Kozachik, Pete",2
-43,Corpse Bride_2005,21000268,2005,30552567,"McDowell, Alex (I)",30083861,"Bonham Carter, Helena",2
-44,Corpse Bride_2005,21000268,2005,30552567,"McDowell, Alex (I)",30114716,"Burton, Tim (I)",2
-45,Corpse Bride_2005,21000268,2005,30552567,"McDowell, Alex (I)",30243631,"Elfman, Danny",2
-46,Corpse Bride_2005,21000268,2005,30552567,"McDowell, Alex (I)",30284905,"Frey, Derek",2
-47,Corpse Bride_2005,21000268,2005,30552567,"McDowell, Alex (I)",30481927,"Lebenzon, Chris",2
-48,Corpse Bride_2005,21000268,2005,30840372,"Thompson, Caroline (I)",30114716,"Burton, Tim (I)",3
-49,Corpse Bride_2005,21000268,2005,30840372,"Thompson, Caroline (I)",30243631,"Elfman, Danny",3
-50,Pee-wee's Big Adventure_1985,21001006,1985,30088594,"Bow, Simmy",30114716,"Burton, Tim (I)",2
-51,Pee-wee's Big Adventure_1985,21001006,1985,30088594,"Bow, Simmy",30243631,"Elfman, Danny",2
-52,Pee-wee's Big Adventure_1985,21001006,1985,30088594,"Bow, Simmy",30266601,"Filpi, Carmen",2
-53,Pee-wee's Big Adventure_1985,21001006,1985,30114716,"Burton, Tim (I)",30088594,"Bow, Simmy",2
-54,Pee-wee's Big Adventure_1985,21001006,1985,30114716,"Burton, Tim (I)",30193322,Darla (II),2
-55,Pee-wee's Big Adventure_1985,21001006,1985,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
-56,Pee-wee's Big Adventure_1985,21001006,1985,30114716,"Burton, Tim (I)",30266601,"Filpi, Carmen",3
-57,Pee-wee's Big Adventure_1985,21001006,1985,30114716,"Burton, Tim (I)",30383381,"Hooks, Jan",2
-58,Pee-wee's Big Adventure_1985,21001006,1985,30114716,"Burton, Tim (I)",30700467,"Reubens, Paul",2
-59,Pee-wee's Big Adventure_1985,21001006,1985,30114716,"Burton, Tim (I)",30738831,"Salinger, Diane",2
-60,Pee-wee's Big Adventure_1985,21001006,1985,30193322,Darla (II),30114716,"Burton, Tim (I)",2
-61,Pee-wee's Big Adventure_1985,21001006,1985,30193322,Darla (II),30243631,"Elfman, Danny",2
-62,Pee-wee's Big Adventure_1985,21001006,1985,30193322,Darla (II),30383381,"Hooks, Jan",2
-63,Pee-wee's Big Adventure_1985,21001006,1985,30193322,Darla (II),30700467,"Reubens, Paul",2
-64,Pee-wee's Big Adventure_1985,21001006,1985,30193322,Darla (II),30738831,"Salinger, Diane",2
-65,Pee-wee's Big Adventure_1985,21001006,1985,30243631,"Elfman, Danny",30088594,"Bow, Simmy",2
-66,Pee-wee's Big Adventure_1985,21001006,1985,30243631,"Elfman, Danny",30114716,"Burton, Tim (I)",12
-67,Pee-wee's Big Adventure_1985,21001006,1985,30243631,"Elfman, Danny",30193322,Darla (II),2
-68,Pee-wee's Big Adventure_1985,21001006,1985,30243631,"Elfman, Danny",30266601,"Filpi, Carmen",2
-69,Pee-wee's Big Adventure_1985,21001006,1985,30243631,"Elfman, Danny",30383381,"Hooks, Jan",2
-70,Pee-wee's Big Adventure_1985,21001006,1985,30243631,"Elfman, Danny",30700467,"Reubens, Paul",2
-71,Pee-wee's Big Adventure_1985,21001006,1985,30243631,"Elfman, Danny",30738831,"Salinger, Diane",2
-72,Pee-wee's Big Adventure_1985,21001006,1985,30266601,"Filpi, Carmen",30114716,"Burton, Tim (I)",3
-73,Pee-wee's Big Adventure_1985,21001006,1985,30266601,"Filpi, Carmen",30243631,"Elfman, Danny",2
-74,Pee-wee's Big Adventure_1985,21001006,1985,30383381,"Hooks, Jan",30114716,"Burton, Tim (I)",2
-75,Pee-wee's Big Adventure_1985,21001006,1985,30383381,"Hooks, Jan",30193322,Darla (II),2
-76,Pee-wee's Big Adventure_1985,21001006,1985,30383381,"Hooks, Jan",30243631,"Elfman, Danny",2
-77,Pee-wee's Big Adventure_1985,21001006,1985,30383381,"Hooks, Jan",30700467,"Reubens, Paul",2
-78,Pee-wee's Big Adventure_1985,21001006,1985,30383381,"Hooks, Jan",30738831,"Salinger, Diane",2
-79,Pee-wee's Big Adventure_1985,21001006,1985,30700467,"Reubens, Paul",30114716,"Burton, Tim (I)",2
-80,Pee-wee's Big Adventure_1985,21001006,1985,30700467,"Reubens, Paul",30193322,Darla (II),2
-81,Pee-wee's Big Adventure_1985,21001006,1985,30700467,"Reubens, Paul",30243631,"Elfman, Danny",2
-82,Pee-wee's Big Adventure_1985,21001006,1985,30700467,"Reubens, Paul",30383381,"Hooks, Jan",2
-83,Pee-wee's Big Adventure_1985,21001006,1985,30700467,"Reubens, Paul",30738831,"Salinger, Diane",2
-84,Pee-wee's Big Adventure_1985,21001006,1985,30738831,"Salinger, Diane",30114716,"Burton, Tim (I)",2
-85,Pee-wee's Big Adventure_1985,21001006,1985,30738831,"Salinger, Diane",30193322,Darla (II),2
-86,Pee-wee's Big Adventure_1985,21001006,1985,30738831,"Salinger, Diane",30243631,"Elfman, Danny",2
-87,Pee-wee's Big Adventure_1985,21001006,1985,30738831,"Salinger, Diane",30383381,"Hooks, Jan",2
-88,Pee-wee's Big Adventure_1985,21001006,1985,30738831,"Salinger, Diane",30700467,"Reubens, Paul",2
-89,Beetlejuice_1988,21001308,1988,30088594,"Bow, Simmy",30114716,"Burton, Tim (I)",2
-90,Beetlejuice_1988,21001308,1988,30088594,"Bow, Simmy",30243631,"Elfman, Danny",2
-91,Beetlejuice_1988,21001308,1988,30088594,"Bow, Simmy",30266601,"Filpi, Carmen",2
-92,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30088594,"Bow, Simmy",2
-93,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
-94,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30266601,"Filpi, Carmen",3
-95,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30356721,"Hashimoto, Richard",3
-96,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30420536,"Jones, Jeffrey (I)",3
-97,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30435271,"Keaton, Michael",3
-98,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30552643,"McDowell, Michael (I)",2
-99,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30627117,"O'Hara, Catherine (I)",2
-100,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30734668,"Ryder, Winona",2
-101,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30764994,"Shadix, Glenn",2
-102,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30775989,"Sidney, Sylvia (I)",2
-103,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30783008,"Skaaren, Warren",2
-104,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30895051,"Welch, Bo",3
-105,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30088594,"Bow, Simmy",2
-106,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30114716,"Burton, Tim (I)",12
-107,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30266601,"Filpi, Carmen",2
-108,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30356721,"Hashimoto, Richard",2
-109,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30420536,"Jones, Jeffrey (I)",2
-110,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30435271,"Keaton, Michael",3
-111,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30552643,"McDowell, Michael (I)",2
-112,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30627117,"O'Hara, Catherine (I)",2
-113,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30734668,"Ryder, Winona",2
-114,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30764994,"Shadix, Glenn",2
-115,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30775989,"Sidney, Sylvia (I)",2
-116,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30783008,"Skaaren, Warren",2
-117,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30895051,"Welch, Bo",3
-118,Beetlejuice_1988,21001308,1988,30266601,"Filpi, Carmen",30114716,"Burton, Tim (I)",3
-119,Beetlejuice_1988,21001308,1988,30266601,"Filpi, Carmen",30243631,"Elfman, Danny",2
-120,Beetlejuice_1988,21001308,1988,30266601,"Filpi, Carmen",30420536,"Jones, Jeffrey (I)",2
-121,Beetlejuice_1988,21001308,1988,30356721,"Hashimoto, Richard",30114716,"Burton, Tim (I)",3
-122,Beetlejuice_1988,21001308,1988,30356721,"Hashimoto, Richard",30243631,"Elfman, Danny",2
-123,Beetlejuice_1988,21001308,1988,30356721,"Hashimoto, Richard",30734668,"Ryder, Winona",2
-124,Beetlejuice_1988,21001308,1988,30356721,"Hashimoto, Richard",30895051,"Welch, Bo",2
-125,Beetlejuice_1988,21001308,1988,30420536,"Jones, Jeffrey (I)",30114716,"Burton, Tim (I)",3
-126,Beetlejuice_1988,21001308,1988,30420536,"Jones, Jeffrey (I)",30243631,"Elfman, Danny",2
-127,Beetlejuice_1988,21001308,1988,30420536,"Jones, Jeffrey (I)",30266601,"Filpi, Carmen",2
-128,Beetlejuice_1988,21001308,1988,30435271,"Keaton, Michael",30114716,"Burton, Tim (I)",3
-129,Beetlejuice_1988,21001308,1988,30435271,"Keaton, Michael",30243631,"Elfman, Danny",3
-130,Beetlejuice_1988,21001308,1988,30435271,"Keaton, Michael",30783008,"Skaaren, Warren",2
-131,Beetlejuice_1988,21001308,1988,30435271,"Keaton, Michael",30895051,"Welch, Bo",2
-132,Beetlejuice_1988,21001308,1988,30552643,"McDowell, Michael (I)",30114716,"Burton, Tim (I)",2
-133,Beetlejuice_1988,21001308,1988,30552643,"McDowell, Michael (I)",30243631,"Elfman, Danny",2
-134,Beetlejuice_1988,21001308,1988,30552643,"McDowell, Michael (I)",30627117,"O'Hara, Catherine (I)",2
-135,Beetlejuice_1988,21001308,1988,30627117,"O'Hara, Catherine (I)",30114716,"Burton, Tim (I)",2
-136,Beetlejuice_1988,21001308,1988,30627117,"O'Hara, Catherine (I)",30243631,"Elfman, Danny",2
-137,Beetlejuice_1988,21001308,1988,30627117,"O'Hara, Catherine (I)",30552643,"McDowell, Michael (I)",2
-138,Beetlejuice_1988,21001308,1988,30734668,"Ryder, Winona",30114716,"Burton, Tim (I)",2
-139,Beetlejuice_1988,21001308,1988,30734668,"Ryder, Winona",30243631,"Elfman, Danny",2
-140,Beetlejuice_1988,21001308,1988,30734668,"Ryder, Winona",30356721,"Hashimoto, Richard",2
-141,Beetlejuice_1988,21001308,1988,30734668,"Ryder, Winona",30895051,"Welch, Bo",2
-142,Beetlejuice_1988,21001308,1988,30764994,"Shadix, Glenn",30114716,"Burton, Tim (I)",2
-143,Beetlejuice_1988,21001308,1988,30764994,"Shadix, Glenn",30243631,"Elfman, Danny",2
-144,Beetlejuice_1988,21001308,1988,30775989,"Sidney, Sylvia (I)",30114716,"Burton, Tim (I)",2
-145,Beetlejuice_1988,21001308,1988,30775989,"Sidney, Sylvia (I)",30243631,"Elfman, Danny",2
-146,Beetlejuice_1988,21001308,1988,30783008,"Skaaren, Warren",30114716,"Burton, Tim (I)",2
-147,Beetlejuice_1988,21001308,1988,30783008,"Skaaren, Warren",30243631,"Elfman, Danny",2
-148,Beetlejuice_1988,21001308,1988,30783008,"Skaaren, Warren",30435271,"Keaton, Michael",2
-149,Beetlejuice_1988,21001308,1988,30895051,"Welch, Bo",30114716,"Burton, Tim (I)",3
-150,Beetlejuice_1988,21001308,1988,30895051,"Welch, Bo",30243631,"Elfman, Danny",3
-151,Beetlejuice_1988,21001308,1988,30895051,"Welch, Bo",30356721,"Hashimoto, Richard",2
-152,Beetlejuice_1988,21001308,1988,30895051,"Welch, Bo",30435271,"Keaton, Michael",2
-153,Beetlejuice_1988,21001308,1988,30895051,"Welch, Bo",30734668,"Ryder, Winona",2
-154,Planet of the Apes_2001,21001876,2001,30083861,"Bonham Carter, Helena",30114716,"Burton, Tim (I)",4
-155,Planet of the Apes_2001,21001876,2001,30083861,"Bonham Carter, Helena",30243631,"Elfman, Danny",4
-156,Planet of the Apes_2001,21001876,2001,30083861,"Bonham Carter, Helena",30282593,"Frauenfelder, Katterli",3
-157,Planet of the Apes_2001,21001876,2001,30083861,"Bonham Carter, Helena",30481927,"Lebenzon, Chris",4
-158,Planet of the Apes_2001,21001876,2001,30083861,"Bonham Carter, Helena",30727445,"Rousselot, Philippe",3
-159,Planet of the Apes_2001,21001876,2001,30083861,"Bonham Carter, Helena",30728300,"Roy, Deep",3
-160,Planet of the Apes_2001,21001876,2001,30083861,"Bonham Carter, Helena",30932653,"Zanuck, Richard D.",3
-161,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30083861,"Bonham Carter, Helena",4
-162,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
-163,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30282593,"Frauenfelder, Katterli",3
-164,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30304562,"Giamatti, Paul",2
-165,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30329866,"Grevioux, Kevin",2
-166,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30363542,"Heinrichs, Rick",2
-167,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30481927,"Lebenzon, Chris",8
-168,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30530473,"Marie, Lisa (I)",4
-169,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30727445,"Rousselot, Philippe",3
-170,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30728300,"Roy, Deep",3
-171,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30764994,"Shadix, Glenn",2
-172,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30828925,"Tan, Philip",2
-173,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30932653,"Zanuck, Richard D.",3
-174,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30083861,"Bonham Carter, Helena",4
-175,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30114716,"Burton, Tim (I)",12
-176,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30282593,"Frauenfelder, Katterli",3
-177,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30363542,"Heinrichs, Rick",2
-178,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30481927,"Lebenzon, Chris",7
-179,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30530473,"Marie, Lisa (I)",3
-180,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30727445,"Rousselot, Philippe",3
-181,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30728300,"Roy, Deep",3
-182,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30764994,"Shadix, Glenn",2
-183,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30828925,"Tan, Philip",2
-184,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30932653,"Zanuck, Richard D.",3
-185,Planet of the Apes_2001,21001876,2001,30282593,"Frauenfelder, Katterli",30083861,"Bonham Carter, Helena",2
-186,Planet of the Apes_2001,21001876,2001,30282593,"Frauenfelder, Katterli",30114716,"Burton, Tim (I)",3
-187,Planet of the Apes_2001,21001876,2001,30282593,"Frauenfelder, Katterli",30243631,"Elfman, Danny",3
-188,Planet of the Apes_2001,21001876,2001,30282593,"Frauenfelder, Katterli",30481927,"Lebenzon, Chris",3
-189,Planet of the Apes_2001,21001876,2001,30282593,"Frauenfelder, Katterli",30727445,"Rousselot, Philippe",3
-190,Planet of the Apes_2001,21001876,2001,30282593,"Frauenfelder, Katterli",30728300,"Roy, Deep",3
-191,Planet of the Apes_2001,21001876,2001,30282593,"Frauenfelder, Katterli",30932653,"Zanuck, Richard D.",3
-192,Planet of the Apes_2001,21001876,2001,30304562,"Giamatti, Paul",30114716,"Burton, Tim (I)",2
-193,Planet of the Apes_2001,21001876,2001,30329866,"Grevioux, Kevin",30114716,"Burton, Tim (I)",2
-194,Planet of the Apes_2001,21001876,2001,30363542,"Heinrichs, Rick",30114716,"Burton, Tim (I)",2
-195,Planet of the Apes_2001,21001876,2001,30363542,"Heinrichs, Rick",30243631,"Elfman, Danny",2
-196,Planet of the Apes_2001,21001876,2001,30363542,"Heinrichs, Rick",30481927,"Lebenzon, Chris",2
-197,Planet of the Apes_2001,21001876,2001,30363542,"Heinrichs, Rick",30530473,"Marie, Lisa (I)",2
-198,Planet of the Apes_2001,21001876,2001,30481927,"Lebenzon, Chris",30083861,"Bonham Carter, Helena",4
-199,Planet of the Apes_2001,21001876,2001,30481927,"Lebenzon, Chris",30114716,"Burton, Tim (I)",8
-200,Planet of the Apes_2001,21001876,2001,30481927,"Lebenzon, Chris",30243631,"Elfman, Danny",7
-201,Planet of the Apes_2001,21001876,2001,30481927,"Lebenzon, Chris",30282593,"Frauenfelder, Katterli",3
-202,Planet of the Apes_2001,21001876,2001,30481927,"Lebenzon, Chris",30363542,"Heinrichs, Rick",2
-203,Planet of the Apes_2001,21001876,2001,30481927,"Lebenzon, Chris",30530473,"Marie, Lisa (I)",4
-204,Planet of the Apes_2001,21001876,2001,30481927,"Lebenzon, Chris",30727445,"Rousselot, Philippe",3
-205,Planet of the Apes_2001,21001876,2001,30481927,"Lebenzon, Chris",30728300,"Roy, Deep",3
-206,Planet of the Apes_2001,21001876,2001,30481927,"Lebenzon, Chris",30932653,"Zanuck, Richard D.",3
-207,Planet of the Apes_2001,21001876,2001,30530473,"Marie, Lisa (I)",30114716,"Burton, Tim (I)",4
-208,Planet of the Apes_2001,21001876,2001,30530473,"Marie, Lisa (I)",30243631,"Elfman, Danny",3
-209,Planet of the Apes_2001,21001876,2001,30530473,"Marie, Lisa (I)",30363542,"Heinrichs, Rick",2
-210,Planet of the Apes_2001,21001876,2001,30530473,"Marie, Lisa (I)",30481927,"Lebenzon, Chris",4
-211,Planet of the Apes_2001,21001876,2001,30727445,"Rousselot, Philippe",30083861,"Bonham Carter, Helena",2
-212,Planet of the Apes_2001,21001876,2001,30727445,"Rousselot, Philippe",30114716,"Burton, Tim (I)",3
-213,Planet of the Apes_2001,21001876,2001,30727445,"Rousselot, Philippe",30243631,"Elfman, Danny",3
-214,Planet of the Apes_2001,21001876,2001,30727445,"Rousselot, Philippe",30282593,"Frauenfelder, Katterli",3
-215,Planet of the Apes_2001,21001876,2001,30727445,"Rousselot, Philippe",30481927,"Lebenzon, Chris",3
-216,Planet of the Apes_2001,21001876,2001,30727445,"Rousselot, Philippe",30728300,"Roy, Deep",3
-217,Planet of the Apes_2001,21001876,2001,30727445,"Rousselot, Philippe",30932653,"Zanuck, Richard D.",3
-218,Planet of the Apes_2001,21001876,2001,30728300,"Roy, Deep",30083861,"Bonham Carter, Helena",2
-219,Planet of the Apes_2001,21001876,2001,30728300,"Roy, Deep",30114716,"Burton, Tim (I)",3
-220,Planet of the Apes_2001,21001876,2001,30728300,"Roy, Deep",30243631,"Elfman, Danny",3
-221,Planet of the Apes_2001,21001876,2001,30728300,"Roy, Deep",30282593,"Frauenfelder, Katterli",3
-222,Planet of the Apes_2001,21001876,2001,30728300,"Roy, Deep",30481927,"Lebenzon, Chris",3
-223,Planet of the Apes_2001,21001876,2001,30728300,"Roy, Deep",30727445,"Rousselot, Philippe",3
-224,Planet of the Apes_2001,21001876,2001,30728300,"Roy, Deep",30932653,"Zanuck, Richard D.",3
-225,Planet of the Apes_2001,21001876,2001,30764994,"Shadix, Glenn",30114716,"Burton, Tim (I)",2
-226,Planet of the Apes_2001,21001876,2001,30764994,"Shadix, Glenn",30243631,"Elfman, Danny",2
-227,Planet of the Apes_2001,21001876,2001,30828925,"Tan, Philip",30114716,"Burton, Tim (I)",2
-228,Planet of the Apes_2001,21001876,2001,30828925,"Tan, Philip",30243631,"Elfman, Danny",2
-229,Planet of the Apes_2001,21001876,2001,30932653,"Zanuck, Richard D.",30083861,"Bonham Carter, Helena",2
-230,Planet of the Apes_2001,21001876,2001,30932653,"Zanuck, Richard D.",30114716,"Burton, Tim (I)",3
-231,Planet of the Apes_2001,21001876,2001,30932653,"Zanuck, Richard D.",30243631,"Elfman, Danny",3
-232,Planet of the Apes_2001,21001876,2001,30932653,"Zanuck, Richard D.",30282593,"Frauenfelder, Katterli",3
-233,Planet of the Apes_2001,21001876,2001,30932653,"Zanuck, Richard D.",30481927,"Lebenzon, Chris",3
-234,Planet of the Apes_2001,21001876,2001,30932653,"Zanuck, Richard D.",30727445,"Rousselot, Philippe",3
-235,Planet of the Apes_2001,21001876,2001,30932653,"Zanuck, Richard D.",30728300,"Roy, Deep",3
-236,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30083861,"Bonham Carter, Helena",3
-237,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30114716,"Burton, Tim (I)",3
-238,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30243631,"Elfman, Danny",3
-239,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30282593,"Frauenfelder, Katterli",2
-240,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30481927,"Lebenzon, Chris",3
-241,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30682325,"Pyle, Missi",2
-242,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30727445,"Rousselot, Philippe",2
-243,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30728300,"Roy, Deep",2
-244,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30932653,"Zanuck, Richard D.",2
-245,Big Fish_2003,21004171,2003,30083861,"Bonham Carter, Helena",30033839,"August, John (I)",2
-246,Big Fish_2003,21004171,2003,30083861,"Bonham Carter, Helena",30114716,"Burton, Tim (I)",4
-247,Big Fish_2003,21004171,2003,30083861,"Bonham Carter, Helena",30243631,"Elfman, Danny",4
-248,Big Fish_2003,21004171,2003,30083861,"Bonham Carter, Helena",30282593,"Frauenfelder, Katterli",3
-249,Big Fish_2003,21004171,2003,30083861,"Bonham Carter, Helena",30481927,"Lebenzon, Chris",4
-250,Big Fish_2003,21004171,2003,30083861,"Bonham Carter, Helena",30682325,"Pyle, Missi",2
-251,Big Fish_2003,21004171,2003,30083861,"Bonham Carter, Helena",30727445,"Rousselot, Philippe",3
-252,Big Fish_2003,21004171,2003,30083861,"Bonham Carter, Helena",30728300,"Roy, Deep",3
-253,Big Fish_2003,21004171,2003,30083861,"Bonham Carter, Helena",30932653,"Zanuck, Richard D.",3
-254,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30033839,"August, John (I)",2
-255,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30083861,"Bonham Carter, Helena",4
-256,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30213196,"DeVito, Danny",4
-257,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
-258,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30282593,"Frauenfelder, Katterli",3
-259,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30481927,"Lebenzon, Chris",8
-260,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30682325,"Pyle, Missi",2
-261,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30727445,"Rousselot, Philippe",3
-262,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30728300,"Roy, Deep",3
-263,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30827397,"Tai, Ada",2
-264,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30827398,"Tai, Arlene",2
-265,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30932653,"Zanuck, Richard D.",3
-266,Big Fish_2003,21004171,2003,30213196,"DeVito, Danny",30114716,"Burton, Tim (I)",4
-267,Big Fish_2003,21004171,2003,30213196,"DeVito, Danny",30243631,"Elfman, Danny",3
-268,Big Fish_2003,21004171,2003,30213196,"DeVito, Danny",30481927,"Lebenzon, Chris",3
-269,Big Fish_2003,21004171,2003,30243631,"Elfman, Danny",30033839,"August, John (I)",2
-270,Big Fish_2003,21004171,2003,30243631,"Elfman, Danny",30083861,"Bonham Carter, Helena",4
-271,Big Fish_2003,21004171,2003,30243631,"Elfman, Danny",30114716,"Burton, Tim (I)",12
-272,Big Fish_2003,21004171,2003,30243631,"Elfman, Danny",30213196,"DeVito, Danny",3
-273,Big Fish_2003,21004171,2003,30243631,"Elfman, Danny",30282593,"Frauenfelder, Katterli",3
-274,Big Fish_2003,21004171,2003,30243631,"Elfman, Danny",30481927,"Lebenzon, Chris",7
-275,Big Fish_2003,21004171,2003,30243631,"Elfman, Danny",30682325,"Pyle, Missi",2
-276,Big Fish_2003,21004171,2003,30243631,"Elfman, Danny",30727445,"Rousselot, Philippe",3
-277,Big Fish_2003,21004171,2003,30243631,"Elfman, Danny",30728300,"Roy, Deep",3
-278,Big Fish_2003,21004171,2003,30243631,"Elfman, Danny",30932653,"Zanuck, Richard D.",3
-279,Big Fish_2003,21004171,2003,30282593,"Frauenfelder, Katterli",30033839,"August, John (I)",2
-280,Big Fish_2003,21004171,2003,30282593,"Frauenfelder, Katterli",30083861,"Bonham Carter, Helena",2
-281,Big Fish_2003,21004171,2003,30282593,"Frauenfelder, Katterli",30114716,"Burton, Tim (I)",3
-282,Big Fish_2003,21004171,2003,30282593,"Frauenfelder, Katterli",30243631,"Elfman, Danny",3
-283,Big Fish_2003,21004171,2003,30282593,"Frauenfelder, Katterli",30481927,"Lebenzon, Chris",3
-284,Big Fish_2003,21004171,2003,30282593,"Frauenfelder, Katterli",30682325,"Pyle, Missi",2
-285,Big Fish_2003,21004171,2003,30282593,"Frauenfelder, Katterli",30727445,"Rousselot, Philippe",3
-286,Big Fish_2003,21004171,2003,30282593,"Frauenfelder, Katterli",30728300,"Roy, Deep",3
-287,Big Fish_2003,21004171,2003,30282593,"Frauenfelder, Katterli",30932653,"Zanuck, Richard D.",3
-288,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30033839,"August, John (I)",2
-289,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30083861,"Bonham Carter, Helena",4
-290,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30114716,"Burton, Tim (I)",8
-291,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30213196,"DeVito, Danny",3
-292,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30243631,"Elfman, Danny",7
-293,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30282593,"Frauenfelder, Katterli",3
-294,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30682325,"Pyle, Missi",2
-295,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30727445,"Rousselot, Philippe",3
-296,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30728300,"Roy, Deep",3
-297,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30827397,"Tai, Ada",2
-298,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30827398,"Tai, Arlene",2
-299,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30932653,"Zanuck, Richard D.",3
-300,Big Fish_2003,21004171,2003,30682325,"Pyle, Missi",30083861,"Bonham Carter, Helena",2
-301,Big Fish_2003,21004171,2003,30682325,"Pyle, Missi",30114716,"Burton, Tim (I)",2
-302,Big Fish_2003,21004171,2003,30682325,"Pyle, Missi",30243631,"Elfman, Danny",2
-303,Big Fish_2003,21004171,2003,30682325,"Pyle, Missi",30282593,"Frauenfelder, Katterli",2
-304,Big Fish_2003,21004171,2003,30682325,"Pyle, Missi",30481927,"Lebenzon, Chris",2
-305,Big Fish_2003,21004171,2003,30682325,"Pyle, Missi",30727445,"Rousselot, Philippe",2
-306,Big Fish_2003,21004171,2003,30682325,"Pyle, Missi",30728300,"Roy, Deep",2
-307,Big Fish_2003,21004171,2003,30682325,"Pyle, Missi",30932653,"Zanuck, Richard D.",2
-308,Big Fish_2003,21004171,2003,30727445,"Rousselot, Philippe",30033839,"August, John (I)",2
-309,Big Fish_2003,21004171,2003,30727445,"Rousselot, Philippe",30083861,"Bonham Carter, Helena",2
-310,Big Fish_2003,21004171,2003,30727445,"Rousselot, Philippe",30114716,"Burton, Tim (I)",3
-311,Big Fish_2003,21004171,2003,30727445,"Rousselot, Philippe",30243631,"Elfman, Danny",3
-312,Big Fish_2003,21004171,2003,30727445,"Rousselot, Philippe",30282593,"Frauenfelder, Katterli",3
-313,Big Fish_2003,21004171,2003,30727445,"Rousselot, Philippe",30481927,"Lebenzon, Chris",3
-314,Big Fish_2003,21004171,2003,30727445,"Rousselot, Philippe",30682325,"Pyle, Missi",2
-315,Big Fish_2003,21004171,2003,30727445,"Rousselot, Philippe",30728300,"Roy, Deep",3
-316,Big Fish_2003,21004171,2003,30727445,"Rousselot, Philippe",30932653,"Zanuck, Richard D.",3
-317,Big Fish_2003,21004171,2003,30728300,"Roy, Deep",30033839,"August, John (I)",2
-318,Big Fish_2003,21004171,2003,30728300,"Roy, Deep",30083861,"Bonham Carter, Helena",2
-319,Big Fish_2003,21004171,2003,30728300,"Roy, Deep",30114716,"Burton, Tim (I)",3
-320,Big Fish_2003,21004171,2003,30728300,"Roy, Deep",30243631,"Elfman, Danny",3
-321,Big Fish_2003,21004171,2003,30728300,"Roy, Deep",30282593,"Frauenfelder, Katterli",3
-322,Big Fish_2003,21004171,2003,30728300,"Roy, Deep",30481927,"Lebenzon, Chris",3
-323,Big Fish_2003,21004171,2003,30728300,"Roy, Deep",30682325,"Pyle, Missi",2
-324,Big Fish_2003,21004171,2003,30728300,"Roy, Deep",30727445,"Rousselot, Philippe",3
-325,Big Fish_2003,21004171,2003,30728300,"Roy, Deep",30932653,"Zanuck, Richard D.",3
-326,Big Fish_2003,21004171,2003,30827397,"Tai, Ada",30114716,"Burton, Tim (I)",2
-327,Big Fish_2003,21004171,2003,30827397,"Tai, Ada",30481927,"Lebenzon, Chris",2
-328,Big Fish_2003,21004171,2003,30827397,"Tai, Ada",30827398,"Tai, Arlene",2
-329,Big Fish_2003,21004171,2003,30827398,"Tai, Arlene",30114716,"Burton, Tim (I)",2
-330,Big Fish_2003,21004171,2003,30827398,"Tai, Arlene",30481927,"Lebenzon, Chris",2
-331,Big Fish_2003,21004171,2003,30827398,"Tai, Arlene",30827397,"Tai, Ada",2
-332,Big Fish_2003,21004171,2003,30932653,"Zanuck, Richard D.",30033839,"August, John (I)",2
-333,Big Fish_2003,21004171,2003,30932653,"Zanuck, Richard D.",30083861,"Bonham Carter, Helena",2
-334,Big Fish_2003,21004171,2003,30932653,"Zanuck, Richard D.",30114716,"Burton, Tim (I)",3
-335,Big Fish_2003,21004171,2003,30932653,"Zanuck, Richard D.",30243631,"Elfman, Danny",3
-336,Big Fish_2003,21004171,2003,30932653,"Zanuck, Richard D.",30282593,"Frauenfelder, Katterli",3
-337,Big Fish_2003,21004171,2003,30932653,"Zanuck, Richard D.",30481927,"Lebenzon, Chris",3
-338,Big Fish_2003,21004171,2003,30932653,"Zanuck, Richard D.",30682325,"Pyle, Missi",2
-339,Big Fish_2003,21004171,2003,30932653,"Zanuck, Richard D.",30727445,"Rousselot, Philippe",3
-340,Big Fish_2003,21004171,2003,30932653,"Zanuck, Richard D.",30728300,"Roy, Deep",3
-341,Ed Wood_1994,21004201,1994,30044414,"Banks, Lena",30114716,"Burton, Tim (I)",2
-342,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30044414,"Banks, Lena",2
-343,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30115210,"Bush, Tommy (I)",2
-344,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30187389,"Czapsky, Stefan",3
-345,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30210840,"Depp, Johnny",4
-346,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30214482,"Di Novi, Denise",6
-347,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30228865,"Drescher, Adam (I)",2
-348,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30266601,"Filpi, Carmen",3
-349,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30387714,"Howard, Rance",2
-350,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30420536,"Jones, Jeffrey (I)",3
-351,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30471448,"Landau, Martin",2
-352,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30481927,"Lebenzon, Chris",8
-353,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30530473,"Marie, Lisa (I)",4
-354,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30645369,"Parker, Sarah Jessica",2
-355,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30805549,"Starr, Mike (I)",3
-356,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30827397,"Tai, Ada",2
-357,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30827398,"Tai, Arlene",2
-358,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30884312,"Walters, Melora",2
-359,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30926784,"Yeager, Biff (I)",3
-360,Ed Wood_1994,21004201,1994,30115210,"Bush, Tommy (I)",30114716,"Burton, Tim (I)",2
-361,Ed Wood_1994,21004201,1994,30115210,"Bush, Tommy (I)",30387714,"Howard, Rance",2
-362,Ed Wood_1994,21004201,1994,30115210,"Bush, Tommy (I)",30481927,"Lebenzon, Chris",2
-363,Ed Wood_1994,21004201,1994,30115210,"Bush, Tommy (I)",30530473,"Marie, Lisa (I)",2
-364,Ed Wood_1994,21004201,1994,30115210,"Bush, Tommy (I)",30645369,"Parker, Sarah Jessica",2
-365,Ed Wood_1994,21004201,1994,30187389,"Czapsky, Stefan",30114716,"Burton, Tim (I)",3
-366,Ed Wood_1994,21004201,1994,30187389,"Czapsky, Stefan",30210840,"Depp, Johnny",2
-367,Ed Wood_1994,21004201,1994,30187389,"Czapsky, Stefan",30214482,"Di Novi, Denise",3
-368,Ed Wood_1994,21004201,1994,30187389,"Czapsky, Stefan",30228865,"Drescher, Adam (I)",2
-369,Ed Wood_1994,21004201,1994,30187389,"Czapsky, Stefan",30481927,"Lebenzon, Chris",2
-370,Ed Wood_1994,21004201,1994,30187389,"Czapsky, Stefan",30926784,"Yeager, Biff (I)",3
-371,Ed Wood_1994,21004201,1994,30210840,"Depp, Johnny",30114716,"Burton, Tim (I)",4
-372,Ed Wood_1994,21004201,1994,30210840,"Depp, Johnny",30187389,"Czapsky, Stefan",2
-373,Ed Wood_1994,21004201,1994,30210840,"Depp, Johnny",30214482,"Di Novi, Denise",2
-374,Ed Wood_1994,21004201,1994,30210840,"Depp, Johnny",30420536,"Jones, Jeffrey (I)",2
-375,Ed Wood_1994,21004201,1994,30210840,"Depp, Johnny",30471448,"Landau, Martin",2
-376,Ed Wood_1994,21004201,1994,30210840,"Depp, Johnny",30481927,"Lebenzon, Chris",3
-377,Ed Wood_1994,21004201,1994,30210840,"Depp, Johnny",30530473,"Marie, Lisa (I)",2
-378,Ed Wood_1994,21004201,1994,30210840,"Depp, Johnny",30926784,"Yeager, Biff (I)",2
-379,Ed Wood_1994,21004201,1994,30214482,"Di Novi, Denise",30114716,"Burton, Tim (I)",6
-380,Ed Wood_1994,21004201,1994,30214482,"Di Novi, Denise",30187389,"Czapsky, Stefan",3
-381,Ed Wood_1994,21004201,1994,30214482,"Di Novi, Denise",30210840,"Depp, Johnny",2
-382,Ed Wood_1994,21004201,1994,30214482,"Di Novi, Denise",30228865,"Drescher, Adam (I)",2
-383,Ed Wood_1994,21004201,1994,30214482,"Di Novi, Denise",30481927,"Lebenzon, Chris",2
-384,Ed Wood_1994,21004201,1994,30214482,"Di Novi, Denise",30805549,"Starr, Mike (I)",3
-385,Ed Wood_1994,21004201,1994,30214482,"Di Novi, Denise",30884312,"Walters, Melora",2
-386,Ed Wood_1994,21004201,1994,30214482,"Di Novi, Denise",30926784,"Yeager, Biff (I)",3
-387,Ed Wood_1994,21004201,1994,30228865,"Drescher, Adam (I)",30114716,"Burton, Tim (I)",2
-388,Ed Wood_1994,21004201,1994,30228865,"Drescher, Adam (I)",30187389,"Czapsky, Stefan",2
-389,Ed Wood_1994,21004201,1994,30228865,"Drescher, Adam (I)",30214482,"Di Novi, Denise",2
-390,Ed Wood_1994,21004201,1994,30228865,"Drescher, Adam (I)",30481927,"Lebenzon, Chris",2
-391,Ed Wood_1994,21004201,1994,30228865,"Drescher, Adam (I)",30926784,"Yeager, Biff (I)",2
-392,Ed Wood_1994,21004201,1994,30266601,"Filpi, Carmen",30114716,"Burton, Tim (I)",3
-393,Ed Wood_1994,21004201,1994,30266601,"Filpi, Carmen",30420536,"Jones, Jeffrey (I)",2
-394,Ed Wood_1994,21004201,1994,30387714,"Howard, Rance",30114716,"Burton, Tim (I)",2
-395,Ed Wood_1994,21004201,1994,30387714,"Howard, Rance",30115210,"Bush, Tommy (I)",2
-396,Ed Wood_1994,21004201,1994,30387714,"Howard, Rance",30481927,"Lebenzon, Chris",2
-397,Ed Wood_1994,21004201,1994,30387714,"Howard, Rance",30530473,"Marie, Lisa (I)",2
-398,Ed Wood_1994,21004201,1994,30387714,"Howard, Rance",30645369,"Parker, Sarah Jessica",2
-399,Ed Wood_1994,21004201,1994,30420536,"Jones, Jeffrey (I)",30114716,"Burton, Tim (I)",3
-400,Ed Wood_1994,21004201,1994,30420536,"Jones, Jeffrey (I)",30210840,"Depp, Johnny",2
-401,Ed Wood_1994,21004201,1994,30420536,"Jones, Jeffrey (I)",30266601,"Filpi, Carmen",2
-402,Ed Wood_1994,21004201,1994,30420536,"Jones, Jeffrey (I)",30471448,"Landau, Martin",2
-403,Ed Wood_1994,21004201,1994,30420536,"Jones, Jeffrey (I)",30481927,"Lebenzon, Chris",2
-404,Ed Wood_1994,21004201,1994,30420536,"Jones, Jeffrey (I)",30530473,"Marie, Lisa (I)",2
-405,Ed Wood_1994,21004201,1994,30471448,"Landau, Martin",30114716,"Burton, Tim (I)",2
-406,Ed Wood_1994,21004201,1994,30471448,"Landau, Martin",30210840,"Depp, Johnny",2
-407,Ed Wood_1994,21004201,1994,30471448,"Landau, Martin",30420536,"Jones, Jeffrey (I)",2
-408,Ed Wood_1994,21004201,1994,30471448,"Landau, Martin",30481927,"Lebenzon, Chris",2
-409,Ed Wood_1994,21004201,1994,30471448,"Landau, Martin",30530473,"Marie, Lisa (I)",2
-410,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30114716,"Burton, Tim (I)",8
-411,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30115210,"Bush, Tommy (I)",2
-412,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30187389,"Czapsky, Stefan",2
-413,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30210840,"Depp, Johnny",3
-414,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30214482,"Di Novi, Denise",2
-415,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30228865,"Drescher, Adam (I)",2
-416,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30387714,"Howard, Rance",2
-417,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30420536,"Jones, Jeffrey (I)",2
-418,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30471448,"Landau, Martin",2
-419,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30530473,"Marie, Lisa (I)",4
-420,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30645369,"Parker, Sarah Jessica",2
-421,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30827397,"Tai, Ada",2
-422,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30827398,"Tai, Arlene",2
-423,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30926784,"Yeager, Biff (I)",2
-424,Ed Wood_1994,21004201,1994,30530473,"Marie, Lisa (I)",30114716,"Burton, Tim (I)",4
-425,Ed Wood_1994,21004201,1994,30530473,"Marie, Lisa (I)",30115210,"Bush, Tommy (I)",2
-426,Ed Wood_1994,21004201,1994,30530473,"Marie, Lisa (I)",30210840,"Depp, Johnny",2
-427,Ed Wood_1994,21004201,1994,30530473,"Marie, Lisa (I)",30387714,"Howard, Rance",2
-428,Ed Wood_1994,21004201,1994,30530473,"Marie, Lisa (I)",30420536,"Jones, Jeffrey (I)",2
-429,Ed Wood_1994,21004201,1994,30530473,"Marie, Lisa (I)",30471448,"Landau, Martin",2
-430,Ed Wood_1994,21004201,1994,30530473,"Marie, Lisa (I)",30481927,"Lebenzon, Chris",4
-431,Ed Wood_1994,21004201,1994,30530473,"Marie, Lisa (I)",30645369,"Parker, Sarah Jessica",2
-432,Ed Wood_1994,21004201,1994,30645369,"Parker, Sarah Jessica",30114716,"Burton, Tim (I)",2
-433,Ed Wood_1994,21004201,1994,30645369,"Parker, Sarah Jessica",30115210,"Bush, Tommy (I)",2
-434,Ed Wood_1994,21004201,1994,30645369,"Parker, Sarah Jessica",30387714,"Howard, Rance",2
-435,Ed Wood_1994,21004201,1994,30645369,"Parker, Sarah Jessica",30481927,"Lebenzon, Chris",2
-436,Ed Wood_1994,21004201,1994,30645369,"Parker, Sarah Jessica",30530473,"Marie, Lisa (I)",2
-437,Ed Wood_1994,21004201,1994,30805549,"Starr, Mike (I)",30114716,"Burton, Tim (I)",3
-438,Ed Wood_1994,21004201,1994,30805549,"Starr, Mike (I)",30214482,"Di Novi, Denise",3
-439,Ed Wood_1994,21004201,1994,30805549,"Starr, Mike (I)",30884312,"Walters, Melora",2
-440,Ed Wood_1994,21004201,1994,30827397,"Tai, Ada",30114716,"Burton, Tim (I)",2
-441,Ed Wood_1994,21004201,1994,30827397,"Tai, Ada",30481927,"Lebenzon, Chris",2
-442,Ed Wood_1994,21004201,1994,30827397,"Tai, Ada",30827398,"Tai, Arlene",2
-443,Ed Wood_1994,21004201,1994,30827398,"Tai, Arlene",30114716,"Burton, Tim (I)",2
-444,Ed Wood_1994,21004201,1994,30827398,"Tai, Arlene",30481927,"Lebenzon, Chris",2
-445,Ed Wood_1994,21004201,1994,30827398,"Tai, Arlene",30827397,"Tai, Ada",2
-446,Ed Wood_1994,21004201,1994,30884312,"Walters, Melora",30114716,"Burton, Tim (I)",2
-447,Ed Wood_1994,21004201,1994,30884312,"Walters, Melora",30214482,"Di Novi, Denise",2
-448,Ed Wood_1994,21004201,1994,30884312,"Walters, Melora",30805549,"Starr, Mike (I)",2
-449,Ed Wood_1994,21004201,1994,30926784,"Yeager, Biff (I)",30114716,"Burton, Tim (I)",3
-450,Ed Wood_1994,21004201,1994,30926784,"Yeager, Biff (I)",30187389,"Czapsky, Stefan",3
-451,Ed Wood_1994,21004201,1994,30926784,"Yeager, Biff (I)",30210840,"Depp, Johnny",2
-452,Ed Wood_1994,21004201,1994,30926784,"Yeager, Biff (I)",30214482,"Di Novi, Denise",3
-453,Ed Wood_1994,21004201,1994,30926784,"Yeager, Biff (I)",30228865,"Drescher, Adam (I)",2
-454,Ed Wood_1994,21004201,1994,30926784,"Yeager, Biff (I)",30481927,"Lebenzon, Chris",2
-455,Edward Scissorhands_1990,21004410,1990,30098032,"Brill, Steven (I)",30114716,"Burton, Tim (I)",2
-456,Edward Scissorhands_1990,21004410,1990,30098032,"Brill, Steven (I)",30187389,"Czapsky, Stefan",2
-457,Edward Scissorhands_1990,21004410,1990,30098032,"Brill, Steven (I)",30214482,"Di Novi, Denise",2
-458,Edward Scissorhands_1990,21004410,1990,30098032,"Brill, Steven (I)",30243631,"Elfman, Danny",2
-459,Edward Scissorhands_1990,21004410,1990,30098032,"Brill, Steven (I)",30471205,"Lancaster, Stuart (I)",2
-460,Edward Scissorhands_1990,21004410,1990,30098032,"Brill, Steven (I)",30895051,"Welch, Bo",2
-461,Edward Scissorhands_1990,21004410,1990,30098032,"Brill, Steven (I)",30926784,"Yeager, Biff (I)",2
-462,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30098032,"Brill, Steven (I)",2
-463,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30187389,"Czapsky, Stefan",3
-464,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30210840,"Depp, Johnny",4
-465,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30214482,"Di Novi, Denise",6
-466,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
-467,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30356721,"Hashimoto, Richard",3
-468,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30421463,"Jones, O-Lan",2
-469,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30471205,"Lancaster, Stuart (I)",2
-470,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30734668,"Ryder, Winona",2
-471,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30840372,"Thompson, Caroline (I)",3
-472,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30895051,"Welch, Bo",3
-473,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30926784,"Yeager, Biff (I)",3
-474,Edward Scissorhands_1990,21004410,1990,30187389,"Czapsky, Stefan",30098032,"Brill, Steven (I)",2
-475,Edward Scissorhands_1990,21004410,1990,30187389,"Czapsky, Stefan",30114716,"Burton, Tim (I)",3
-476,Edward Scissorhands_1990,21004410,1990,30187389,"Czapsky, Stefan",30210840,"Depp, Johnny",2
-477,Edward Scissorhands_1990,21004410,1990,30187389,"Czapsky, Stefan",30214482,"Di Novi, Denise",3
-478,Edward Scissorhands_1990,21004410,1990,30187389,"Czapsky, Stefan",30243631,"Elfman, Danny",2
-479,Edward Scissorhands_1990,21004410,1990,30187389,"Czapsky, Stefan",30471205,"Lancaster, Stuart (I)",2
-480,Edward Scissorhands_1990,21004410,1990,30187389,"Czapsky, Stefan",30895051,"Welch, Bo",2
-481,Edward Scissorhands_1990,21004410,1990,30187389,"Czapsky, Stefan",30926784,"Yeager, Biff (I)",3
-482,Edward Scissorhands_1990,21004410,1990,30210840,"Depp, Johnny",30114716,"Burton, Tim (I)",4
-483,Edward Scissorhands_1990,21004410,1990,30210840,"Depp, Johnny",30187389,"Czapsky, Stefan",2
-484,Edward Scissorhands_1990,21004410,1990,30210840,"Depp, Johnny",30214482,"Di Novi, Denise",2
-485,Edward Scissorhands_1990,21004410,1990,30210840,"Depp, Johnny",30243631,"Elfman, Danny",3
-486,Edward Scissorhands_1990,21004410,1990,30210840,"Depp, Johnny",30926784,"Yeager, Biff (I)",2
-487,Edward Scissorhands_1990,21004410,1990,30214482,"Di Novi, Denise",30098032,"Brill, Steven (I)",2
-488,Edward Scissorhands_1990,21004410,1990,30214482,"Di Novi, Denise",30114716,"Burton, Tim (I)",6
-489,Edward Scissorhands_1990,21004410,1990,30214482,"Di Novi, Denise",30187389,"Czapsky, Stefan",3
-490,Edward Scissorhands_1990,21004410,1990,30214482,"Di Novi, Denise",30210840,"Depp, Johnny",2
-491,Edward Scissorhands_1990,21004410,1990,30214482,"Di Novi, Denise",30243631,"Elfman, Danny",3
-492,Edward Scissorhands_1990,21004410,1990,30214482,"Di Novi, Denise",30471205,"Lancaster, Stuart (I)",2
-493,Edward Scissorhands_1990,21004410,1990,30214482,"Di Novi, Denise",30840372,"Thompson, Caroline (I)",2
-494,Edward Scissorhands_1990,21004410,1990,30214482,"Di Novi, Denise",30895051,"Welch, Bo",2
-495,Edward Scissorhands_1990,21004410,1990,30214482,"Di Novi, Denise",30926784,"Yeager, Biff (I)",3
-496,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30098032,"Brill, Steven (I)",2
-497,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30114716,"Burton, Tim (I)",12
-498,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30187389,"Czapsky, Stefan",2
-499,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30210840,"Depp, Johnny",3
-500,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30214482,"Di Novi, Denise",3
-501,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30356721,"Hashimoto, Richard",2
-502,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30421463,"Jones, O-Lan",2
-503,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30471205,"Lancaster, Stuart (I)",2
-504,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30734668,"Ryder, Winona",2
-505,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30840372,"Thompson, Caroline (I)",3
-506,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30895051,"Welch, Bo",3
-507,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30926784,"Yeager, Biff (I)",2
-508,Edward Scissorhands_1990,21004410,1990,30356721,"Hashimoto, Richard",30114716,"Burton, Tim (I)",3
-509,Edward Scissorhands_1990,21004410,1990,30356721,"Hashimoto, Richard",30243631,"Elfman, Danny",2
-510,Edward Scissorhands_1990,21004410,1990,30356721,"Hashimoto, Richard",30734668,"Ryder, Winona",2
-511,Edward Scissorhands_1990,21004410,1990,30356721,"Hashimoto, Richard",30895051,"Welch, Bo",2
-512,Edward Scissorhands_1990,21004410,1990,30421463,"Jones, O-Lan",30114716,"Burton, Tim (I)",2
-513,Edward Scissorhands_1990,21004410,1990,30421463,"Jones, O-Lan",30243631,"Elfman, Danny",2
-514,Edward Scissorhands_1990,21004410,1990,30471205,"Lancaster, Stuart (I)",30114716,"Burton, Tim (I)",2
-515,Edward Scissorhands_1990,21004410,1990,30471205,"Lancaster, Stuart (I)",30187389,"Czapsky, Stefan",2
-516,Edward Scissorhands_1990,21004410,1990,30471205,"Lancaster, Stuart (I)",30214482,"Di Novi, Denise",2
-517,Edward Scissorhands_1990,21004410,1990,30471205,"Lancaster, Stuart (I)",30243631,"Elfman, Danny",2
-518,Edward Scissorhands_1990,21004410,1990,30471205,"Lancaster, Stuart (I)",30895051,"Welch, Bo",2
-519,Edward Scissorhands_1990,21004410,1990,30471205,"Lancaster, Stuart (I)",30926784,"Yeager, Biff (I)",2
-520,Edward Scissorhands_1990,21004410,1990,30734668,"Ryder, Winona",30114716,"Burton, Tim (I)",2
-521,Edward Scissorhands_1990,21004410,1990,30734668,"Ryder, Winona",30243631,"Elfman, Danny",2
-522,Edward Scissorhands_1990,21004410,1990,30734668,"Ryder, Winona",30356721,"Hashimoto, Richard",2
-523,Edward Scissorhands_1990,21004410,1990,30734668,"Ryder, Winona",30895051,"Welch, Bo",2
-524,Edward Scissorhands_1990,21004410,1990,30840372,"Thompson, Caroline (I)",30114716,"Burton, Tim (I)",3
-525,Edward Scissorhands_1990,21004410,1990,30840372,"Thompson, Caroline (I)",30214482,"Di Novi, Denise",2
-526,Edward Scissorhands_1990,21004410,1990,30840372,"Thompson, Caroline (I)",30243631,"Elfman, Danny",3
-527,Edward Scissorhands_1990,21004410,1990,30895051,"Welch, Bo",30098032,"Brill, Steven (I)",2
-528,Edward Scissorhands_1990,21004410,1990,30895051,"Welch, Bo",30114716,"Burton, Tim (I)",3
-529,Edward Scissorhands_1990,21004410,1990,30895051,"Welch, Bo",30187389,"Czapsky, Stefan",2
-530,Edward Scissorhands_1990,21004410,1990,30895051,"Welch, Bo",30214482,"Di Novi, Denise",2
-531,Edward Scissorhands_1990,21004410,1990,30895051,"Welch, Bo",30243631,"Elfman, Danny",3
-532,Edward Scissorhands_1990,21004410,1990,30895051,"Welch, Bo",30356721,"Hashimoto, Richard",2
-533,Edward Scissorhands_1990,21004410,1990,30895051,"Welch, Bo",30471205,"Lancaster, Stuart (I)",2
-534,Edward Scissorhands_1990,21004410,1990,30895051,"Welch, Bo",30734668,"Ryder, Winona",2
-535,Edward Scissorhands_1990,21004410,1990,30895051,"Welch, Bo",30926784,"Yeager, Biff (I)",2
-536,Edward Scissorhands_1990,21004410,1990,30926784,"Yeager, Biff (I)",30098032,"Brill, Steven (I)",2
-537,Edward Scissorhands_1990,21004410,1990,30926784,"Yeager, Biff (I)",30114716,"Burton, Tim (I)",3
-538,Edward Scissorhands_1990,21004410,1990,30926784,"Yeager, Biff (I)",30187389,"Czapsky, Stefan",3
-539,Edward Scissorhands_1990,21004410,1990,30926784,"Yeager, Biff (I)",30210840,"Depp, Johnny",2
-540,Edward Scissorhands_1990,21004410,1990,30926784,"Yeager, Biff (I)",30214482,"Di Novi, Denise",3
-541,Edward Scissorhands_1990,21004410,1990,30926784,"Yeager, Biff (I)",30243631,"Elfman, Danny",2
-542,Edward Scissorhands_1990,21004410,1990,30926784,"Yeager, Biff (I)",30471205,"Lancaster, Stuart (I)",2
-543,Edward Scissorhands_1990,21004410,1990,30926784,"Yeager, Biff (I)",30895051,"Welch, Bo",2
-544,Hoffa_1992,21006120,1992,30044414,"Banks, Lena",30114716,"Burton, Tim (I)",2
-545,Hoffa_1992,21006120,1992,30114716,"Burton, Tim (I)",30044414,"Banks, Lena",2
-546,Hoffa_1992,21006120,1992,30114716,"Burton, Tim (I)",30213196,"DeVito, Danny",4
-547,Hoffa_1992,21006120,1992,30114716,"Burton, Tim (I)",30259891,"Favreau, Jon",2
-548,Hoffa_1992,21006120,1992,30114716,"Burton, Tim (I)",30615205,"Nicholson, Jack (I)",3
-549,Hoffa_1992,21006120,1992,30114716,"Burton, Tim (I)",30916412,"Witting, Steve",2
-550,Hoffa_1992,21006120,1992,30213196,"DeVito, Danny",30114716,"Burton, Tim (I)",4
-551,Hoffa_1992,21006120,1992,30213196,"DeVito, Danny",30615205,"Nicholson, Jack (I)",2
-552,Hoffa_1992,21006120,1992,30213196,"DeVito, Danny",30916412,"Witting, Steve",2
-553,Hoffa_1992,21006120,1992,30259891,"Favreau, Jon",30114716,"Burton, Tim (I)",2
-554,Hoffa_1992,21006120,1992,30615205,"Nicholson, Jack (I)",30114716,"Burton, Tim (I)",3
-555,Hoffa_1992,21006120,1992,30615205,"Nicholson, Jack (I)",30213196,"DeVito, Danny",2
-556,Hoffa_1992,21006120,1992,30916412,"Witting, Steve",30114716,"Burton, Tim (I)",2
-557,Hoffa_1992,21006120,1992,30916412,"Witting, Steve",30213196,"DeVito, Danny",2
-558,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30115210,"Bush, Tommy (I)",2
-559,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30213196,"DeVito, Danny",4
-560,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
-561,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30280931,"Franco, Larry J.",3
-562,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30387714,"Howard, Rance",2
-563,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30421463,"Jones, O-Lan",2
-564,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30481927,"Lebenzon, Chris",8
-565,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30530473,"Marie, Lisa (I)",4
-566,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30615205,"Nicholson, Jack (I)",3
-567,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30645369,"Parker, Sarah Jessica",2
-568,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30775989,"Sidney, Sylvia (I)",2
-569,Mars Attacks!_1996,21008546,1996,30115210,"Bush, Tommy (I)",30114716,"Burton, Tim (I)",2
-570,Mars Attacks!_1996,21008546,1996,30115210,"Bush, Tommy (I)",30387714,"Howard, Rance",2
-571,Mars Attacks!_1996,21008546,1996,30115210,"Bush, Tommy (I)",30481927,"Lebenzon, Chris",2
-572,Mars Attacks!_1996,21008546,1996,30115210,"Bush, Tommy (I)",30530473,"Marie, Lisa (I)",2
-573,Mars Attacks!_1996,21008546,1996,30115210,"Bush, Tommy (I)",30645369,"Parker, Sarah Jessica",2
-574,Mars Attacks!_1996,21008546,1996,30213196,"DeVito, Danny",30114716,"Burton, Tim (I)",4
-575,Mars Attacks!_1996,21008546,1996,30213196,"DeVito, Danny",30243631,"Elfman, Danny",3
-576,Mars Attacks!_1996,21008546,1996,30213196,"DeVito, Danny",30280931,"Franco, Larry J.",2
-577,Mars Attacks!_1996,21008546,1996,30213196,"DeVito, Danny",30481927,"Lebenzon, Chris",3
-578,Mars Attacks!_1996,21008546,1996,30213196,"DeVito, Danny",30615205,"Nicholson, Jack (I)",2
-579,Mars Attacks!_1996,21008546,1996,30243631,"Elfman, Danny",30114716,"Burton, Tim (I)",12
-580,Mars Attacks!_1996,21008546,1996,30243631,"Elfman, Danny",30213196,"DeVito, Danny",3
-581,Mars Attacks!_1996,21008546,1996,30243631,"Elfman, Danny",30280931,"Franco, Larry J.",3
-582,Mars Attacks!_1996,21008546,1996,30243631,"Elfman, Danny",30421463,"Jones, O-Lan",2
-583,Mars Attacks!_1996,21008546,1996,30243631,"Elfman, Danny",30481927,"Lebenzon, Chris",7
-584,Mars Attacks!_1996,21008546,1996,30243631,"Elfman, Danny",30530473,"Marie, Lisa (I)",3
-585,Mars Attacks!_1996,21008546,1996,30243631,"Elfman, Danny",30615205,"Nicholson, Jack (I)",2
-586,Mars Attacks!_1996,21008546,1996,30243631,"Elfman, Danny",30775989,"Sidney, Sylvia (I)",2
-587,Mars Attacks!_1996,21008546,1996,30280931,"Franco, Larry J.",30114716,"Burton, Tim (I)",2
-588,Mars Attacks!_1996,21008546,1996,30280931,"Franco, Larry J.",30213196,"DeVito, Danny",2
-589,Mars Attacks!_1996,21008546,1996,30280931,"Franco, Larry J.",30243631,"Elfman, Danny",3
-590,Mars Attacks!_1996,21008546,1996,30280931,"Franco, Larry J.",30481927,"Lebenzon, Chris",3
-591,Mars Attacks!_1996,21008546,1996,30280931,"Franco, Larry J.",30530473,"Marie, Lisa (I)",2
-592,Mars Attacks!_1996,21008546,1996,30387714,"Howard, Rance",30114716,"Burton, Tim (I)",2
-593,Mars Attacks!_1996,21008546,1996,30387714,"Howard, Rance",30115210,"Bush, Tommy (I)",2
-594,Mars Attacks!_1996,21008546,1996,30387714,"Howard, Rance",30481927,"Lebenzon, Chris",2
-595,Mars Attacks!_1996,21008546,1996,30387714,"Howard, Rance",30530473,"Marie, Lisa (I)",2
-596,Mars Attacks!_1996,21008546,1996,30387714,"Howard, Rance",30645369,"Parker, Sarah Jessica",2
-597,Mars Attacks!_1996,21008546,1996,30421463,"Jones, O-Lan",30114716,"Burton, Tim (I)",2
-598,Mars Attacks!_1996,21008546,1996,30421463,"Jones, O-Lan",30243631,"Elfman, Danny",2
-599,Mars Attacks!_1996,21008546,1996,30481927,"Lebenzon, Chris",30114716,"Burton, Tim (I)",8
-600,Mars Attacks!_1996,21008546,1996,30481927,"Lebenzon, Chris",30115210,"Bush, Tommy (I)",2
-601,Mars Attacks!_1996,21008546,1996,30481927,"Lebenzon, Chris",30213196,"DeVito, Danny",3
-602,Mars Attacks!_1996,21008546,1996,30481927,"Lebenzon, Chris",30243631,"Elfman, Danny",7
-603,Mars Attacks!_1996,21008546,1996,30481927,"Lebenzon, Chris",30280931,"Franco, Larry J.",3
-604,Mars Attacks!_1996,21008546,1996,30481927,"Lebenzon, Chris",30387714,"Howard, Rance",2
-605,Mars Attacks!_1996,21008546,1996,30481927,"Lebenzon, Chris",30530473,"Marie, Lisa (I)",4
-606,Mars Attacks!_1996,21008546,1996,30481927,"Lebenzon, Chris",30645369,"Parker, Sarah Jessica",2
-607,Mars Attacks!_1996,21008546,1996,30530473,"Marie, Lisa (I)",30114716,"Burton, Tim (I)",4
-608,Mars Attacks!_1996,21008546,1996,30530473,"Marie, Lisa (I)",30115210,"Bush, Tommy (I)",2
-609,Mars Attacks!_1996,21008546,1996,30530473,"Marie, Lisa (I)",30243631,"Elfman, Danny",3
-610,Mars Attacks!_1996,21008546,1996,30530473,"Marie, Lisa (I)",30280931,"Franco, Larry J.",2
-611,Mars Attacks!_1996,21008546,1996,30530473,"Marie, Lisa (I)",30387714,"Howard, Rance",2
-612,Mars Attacks!_1996,21008546,1996,30530473,"Marie, Lisa (I)",30481927,"Lebenzon, Chris",4
-613,Mars Attacks!_1996,21008546,1996,30530473,"Marie, Lisa (I)",30645369,"Parker, Sarah Jessica",2
-614,Mars Attacks!_1996,21008546,1996,30615205,"Nicholson, Jack (I)",30114716,"Burton, Tim (I)",3
-615,Mars Attacks!_1996,21008546,1996,30615205,"Nicholson, Jack (I)",30213196,"DeVito, Danny",2
-616,Mars Attacks!_1996,21008546,1996,30615205,"Nicholson, Jack (I)",30243631,"Elfman, Danny",2
-617,Mars Attacks!_1996,21008546,1996,30645369,"Parker, Sarah Jessica",30114716,"Burton, Tim (I)",2
-618,Mars Attacks!_1996,21008546,1996,30645369,"Parker, Sarah Jessica",30115210,"Bush, Tommy (I)",2
-619,Mars Attacks!_1996,21008546,1996,30645369,"Parker, Sarah Jessica",30387714,"Howard, Rance",2
-620,Mars Attacks!_1996,21008546,1996,30645369,"Parker, Sarah Jessica",30481927,"Lebenzon, Chris",2
-621,Mars Attacks!_1996,21008546,1996,30645369,"Parker, Sarah Jessica",30530473,"Marie, Lisa (I)",2
-622,Mars Attacks!_1996,21008546,1996,30775989,"Sidney, Sylvia (I)",30114716,"Burton, Tim (I)",2
-623,Mars Attacks!_1996,21008546,1996,30775989,"Sidney, Sylvia (I)",30243631,"Elfman, Danny",2
-624,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30210840,"Depp, Johnny",4
-625,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
-626,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30280931,"Franco, Larry J.",3
-627,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30320941,"Gough, Michael (I)",4
-628,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30363542,"Heinrichs, Rick",2
-629,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30420536,"Jones, Jeffrey (I)",3
-630,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30471448,"Landau, Martin",2
-631,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30481927,"Lebenzon, Chris",8
-632,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30483213,"Lee, Christopher (I)",2
-633,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30530473,"Marie, Lisa (I)",4
-634,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30880655,"Walken, Christopher",2
-635,Sleepy Hollow_1999,21008750,1999,30210840,"Depp, Johnny",30114716,"Burton, Tim (I)",4
-636,Sleepy Hollow_1999,21008750,1999,30210840,"Depp, Johnny",30243631,"Elfman, Danny",3
-637,Sleepy Hollow_1999,21008750,1999,30210840,"Depp, Johnny",30420536,"Jones, Jeffrey (I)",2
-638,Sleepy Hollow_1999,21008750,1999,30210840,"Depp, Johnny",30471448,"Landau, Martin",2
-639,Sleepy Hollow_1999,21008750,1999,30210840,"Depp, Johnny",30481927,"Lebenzon, Chris",3
-640,Sleepy Hollow_1999,21008750,1999,30210840,"Depp, Johnny",30483213,"Lee, Christopher (I)",2
-641,Sleepy Hollow_1999,21008750,1999,30210840,"Depp, Johnny",30530473,"Marie, Lisa (I)",2
-642,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30114716,"Burton, Tim (I)",12
-643,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30210840,"Depp, Johnny",3
-644,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30280931,"Franco, Larry J.",3
-645,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30320941,"Gough, Michael (I)",3
-646,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30363542,"Heinrichs, Rick",2
-647,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30420536,"Jones, Jeffrey (I)",2
-648,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30481927,"Lebenzon, Chris",7
-649,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30483213,"Lee, Christopher (I)",2
-650,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30530473,"Marie, Lisa (I)",3
-651,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30880655,"Walken, Christopher",2
-652,Sleepy Hollow_1999,21008750,1999,30280931,"Franco, Larry J.",30114716,"Burton, Tim (I)",2
-653,Sleepy Hollow_1999,21008750,1999,30280931,"Franco, Larry J.",30243631,"Elfman, Danny",3
-654,Sleepy Hollow_1999,21008750,1999,30280931,"Franco, Larry J.",30320941,"Gough, Michael (I)",2
-655,Sleepy Hollow_1999,21008750,1999,30280931,"Franco, Larry J.",30481927,"Lebenzon, Chris",3
-656,Sleepy Hollow_1999,21008750,1999,30280931,"Franco, Larry J.",30530473,"Marie, Lisa (I)",2
-657,Sleepy Hollow_1999,21008750,1999,30280931,"Franco, Larry J.",30880655,"Walken, Christopher",2
-658,Sleepy Hollow_1999,21008750,1999,30320941,"Gough, Michael (I)",30114716,"Burton, Tim (I)",3
-659,Sleepy Hollow_1999,21008750,1999,30320941,"Gough, Michael (I)",30243631,"Elfman, Danny",3
-660,Sleepy Hollow_1999,21008750,1999,30320941,"Gough, Michael (I)",30280931,"Franco, Larry J.",2
-661,Sleepy Hollow_1999,21008750,1999,30320941,"Gough, Michael (I)",30481927,"Lebenzon, Chris",2
-662,Sleepy Hollow_1999,21008750,1999,30320941,"Gough, Michael (I)",30880655,"Walken, Christopher",2
-663,Sleepy Hollow_1999,21008750,1999,30363542,"Heinrichs, Rick",30114716,"Burton, Tim (I)",2
-664,Sleepy Hollow_1999,21008750,1999,30363542,"Heinrichs, Rick",30243631,"Elfman, Danny",2
-665,Sleepy Hollow_1999,21008750,1999,30363542,"Heinrichs, Rick",30481927,"Lebenzon, Chris",2
-666,Sleepy Hollow_1999,21008750,1999,30363542,"Heinrichs, Rick",30530473,"Marie, Lisa (I)",2
-667,Sleepy Hollow_1999,21008750,1999,30420536,"Jones, Jeffrey (I)",30114716,"Burton, Tim (I)",3
-668,Sleepy Hollow_1999,21008750,1999,30420536,"Jones, Jeffrey (I)",30210840,"Depp, Johnny",2
-669,Sleepy Hollow_1999,21008750,1999,30420536,"Jones, Jeffrey (I)",30243631,"Elfman, Danny",2
-670,Sleepy Hollow_1999,21008750,1999,30420536,"Jones, Jeffrey (I)",30471448,"Landau, Martin",2
-671,Sleepy Hollow_1999,21008750,1999,30420536,"Jones, Jeffrey (I)",30481927,"Lebenzon, Chris",2
-672,Sleepy Hollow_1999,21008750,1999,30420536,"Jones, Jeffrey (I)",30530473,"Marie, Lisa (I)",2
-673,Sleepy Hollow_1999,21008750,1999,30471448,"Landau, Martin",30114716,"Burton, Tim (I)",2
-674,Sleepy Hollow_1999,21008750,1999,30471448,"Landau, Martin",30210840,"Depp, Johnny",2
-675,Sleepy Hollow_1999,21008750,1999,30471448,"Landau, Martin",30420536,"Jones, Jeffrey (I)",2
-676,Sleepy Hollow_1999,21008750,1999,30471448,"Landau, Martin",30481927,"Lebenzon, Chris",2
-677,Sleepy Hollow_1999,21008750,1999,30471448,"Landau, Martin",30530473,"Marie, Lisa (I)",2
-678,Sleepy Hollow_1999,21008750,1999,30481927,"Lebenzon, Chris",30114716,"Burton, Tim (I)",8
-679,Sleepy Hollow_1999,21008750,1999,30481927,"Lebenzon, Chris",30210840,"Depp, Johnny",3
-680,Sleepy Hollow_1999,21008750,1999,30481927,"Lebenzon, Chris",30243631,"Elfman, Danny",7
-681,Sleepy Hollow_1999,21008750,1999,30481927,"Lebenzon, Chris",30280931,"Franco, Larry J.",3
-682,Sleepy Hollow_1999,21008750,1999,30481927,"Lebenzon, Chris",30320941,"Gough, Michael (I)",2
-683,Sleepy Hollow_1999,21008750,1999,30481927,"Lebenzon, Chris",30363542,"Heinrichs, Rick",2
-684,Sleepy Hollow_1999,21008750,1999,30481927,"Lebenzon, Chris",30420536,"Jones, Jeffrey (I)",2
-685,Sleepy Hollow_1999,21008750,1999,30481927,"Lebenzon, Chris",30471448,"Landau, Martin",2
-686,Sleepy Hollow_1999,21008750,1999,30481927,"Lebenzon, Chris",30483213,"Lee, Christopher (I)",2
-687,Sleepy Hollow_1999,21008750,1999,30481927,"Lebenzon, Chris",30530473,"Marie, Lisa (I)",4
-688,Sleepy Hollow_1999,21008750,1999,30481927,"Lebenzon, Chris",30880655,"Walken, Christopher",2
-689,Sleepy Hollow_1999,21008750,1999,30483213,"Lee, Christopher (I)",30210840,"Depp, Johnny",2
-690,Sleepy Hollow_1999,21008750,1999,30483213,"Lee, Christopher (I)",30243631,"Elfman, Danny",2
-691,Sleepy Hollow_1999,21008750,1999,30483213,"Lee, Christopher (I)",30481927,"Lebenzon, Chris",2
-692,Sleepy Hollow_1999,21008750,1999,30530473,"Marie, Lisa (I)",30114716,"Burton, Tim (I)",4
-693,Sleepy Hollow_1999,21008750,1999,30530473,"Marie, Lisa (I)",30210840,"Depp, Johnny",2
-694,Sleepy Hollow_1999,21008750,1999,30530473,"Marie, Lisa (I)",30243631,"Elfman, Danny",3
-695,Sleepy Hollow_1999,21008750,1999,30530473,"Marie, Lisa (I)",30280931,"Franco, Larry J.",2
-696,Sleepy Hollow_1999,21008750,1999,30530473,"Marie, Lisa (I)",30363542,"Heinrichs, Rick",2
-697,Sleepy Hollow_1999,21008750,1999,30530473,"Marie, Lisa (I)",30420536,"Jones, Jeffrey (I)",2
-698,Sleepy Hollow_1999,21008750,1999,30530473,"Marie, Lisa (I)",30471448,"Landau, Martin",2
-699,Sleepy Hollow_1999,21008750,1999,30530473,"Marie, Lisa (I)",30481927,"Lebenzon, Chris",4
-700,Sleepy Hollow_1999,21008750,1999,30880655,"Walken, Christopher",30243631,"Elfman, Danny",2
-701,Sleepy Hollow_1999,21008750,1999,30880655,"Walken, Christopher",30280931,"Franco, Larry J.",2
-702,Sleepy Hollow_1999,21008750,1999,30880655,"Walken, Christopher",30320941,"Gough, Michael (I)",2
-703,Sleepy Hollow_1999,21008750,1999,30880655,"Walken, Christopher",30481927,"Lebenzon, Chris",2
-704,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30259891,"Favreau, Jon",2
-705,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30320941,"Gough, Michael (I)",4
-706,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30329866,"Grevioux, Kevin",2
-707,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30375224,"Hingle, Pat",3
-708,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30429003,"Kane, Bob (I)",3
-709,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30545712,"Mazar, Debi",2
-710,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30564616,"Melniker, Benjamin",3
-711,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30741904,"Sanders, Elizabeth (I)",2
-712,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30861594,"Uslan, Michael (V)",3
-713,Batman Forever_1995,21009857,1995,30259891,"Favreau, Jon",30114716,"Burton, Tim (I)",2
-714,Batman Forever_1995,21009857,1995,30320941,"Gough, Michael (I)",30114716,"Burton, Tim (I)",3
-715,Batman Forever_1995,21009857,1995,30320941,"Gough, Michael (I)",30375224,"Hingle, Pat",3
-716,Batman Forever_1995,21009857,1995,30320941,"Gough, Michael (I)",30429003,"Kane, Bob (I)",3
-717,Batman Forever_1995,21009857,1995,30320941,"Gough, Michael (I)",30564616,"Melniker, Benjamin",3
-718,Batman Forever_1995,21009857,1995,30320941,"Gough, Michael (I)",30741904,"Sanders, Elizabeth (I)",2
-719,Batman Forever_1995,21009857,1995,30320941,"Gough, Michael (I)",30861594,"Uslan, Michael (V)",3
-720,Batman Forever_1995,21009857,1995,30329866,"Grevioux, Kevin",30114716,"Burton, Tim (I)",2
-721,Batman Forever_1995,21009857,1995,30375224,"Hingle, Pat",30114716,"Burton, Tim (I)",3
-722,Batman Forever_1995,21009857,1995,30375224,"Hingle, Pat",30320941,"Gough, Michael (I)",3
-723,Batman Forever_1995,21009857,1995,30375224,"Hingle, Pat",30429003,"Kane, Bob (I)",3
-724,Batman Forever_1995,21009857,1995,30375224,"Hingle, Pat",30564616,"Melniker, Benjamin",3
-725,Batman Forever_1995,21009857,1995,30375224,"Hingle, Pat",30741904,"Sanders, Elizabeth (I)",2
-726,Batman Forever_1995,21009857,1995,30375224,"Hingle, Pat",30861594,"Uslan, Michael (V)",3
-727,Batman Forever_1995,21009857,1995,30429003,"Kane, Bob (I)",30114716,"Burton, Tim (I)",3
-728,Batman Forever_1995,21009857,1995,30429003,"Kane, Bob (I)",30320941,"Gough, Michael (I)",3
-729,Batman Forever_1995,21009857,1995,30429003,"Kane, Bob (I)",30375224,"Hingle, Pat",3
-730,Batman Forever_1995,21009857,1995,30429003,"Kane, Bob (I)",30564616,"Melniker, Benjamin",3
-731,Batman Forever_1995,21009857,1995,30429003,"Kane, Bob (I)",30741904,"Sanders, Elizabeth (I)",2
-732,Batman Forever_1995,21009857,1995,30429003,"Kane, Bob (I)",30861594,"Uslan, Michael (V)",3
-733,Batman Forever_1995,21009857,1995,30545712,"Mazar, Debi",30114716,"Burton, Tim (I)",2
-734,Batman Forever_1995,21009857,1995,30564616,"Melniker, Benjamin",30114716,"Burton, Tim (I)",3
-735,Batman Forever_1995,21009857,1995,30564616,"Melniker, Benjamin",30320941,"Gough, Michael (I)",3
-736,Batman Forever_1995,21009857,1995,30564616,"Melniker, Benjamin",30375224,"Hingle, Pat",3
-737,Batman Forever_1995,21009857,1995,30564616,"Melniker, Benjamin",30429003,"Kane, Bob (I)",3
-738,Batman Forever_1995,21009857,1995,30564616,"Melniker, Benjamin",30741904,"Sanders, Elizabeth (I)",2
-739,Batman Forever_1995,21009857,1995,30564616,"Melniker, Benjamin",30861594,"Uslan, Michael (V)",3
-740,Batman Forever_1995,21009857,1995,30741904,"Sanders, Elizabeth (I)",30114716,"Burton, Tim (I)",2
-741,Batman Forever_1995,21009857,1995,30741904,"Sanders, Elizabeth (I)",30320941,"Gough, Michael (I)",2
-742,Batman Forever_1995,21009857,1995,30741904,"Sanders, Elizabeth (I)",30375224,"Hingle, Pat",2
-743,Batman Forever_1995,21009857,1995,30741904,"Sanders, Elizabeth (I)",30429003,"Kane, Bob (I)",2
-744,Batman Forever_1995,21009857,1995,30741904,"Sanders, Elizabeth (I)",30564616,"Melniker, Benjamin",2
-745,Batman Forever_1995,21009857,1995,30741904,"Sanders, Elizabeth (I)",30861594,"Uslan, Michael (V)",2
-746,Batman Forever_1995,21009857,1995,30861594,"Uslan, Michael (V)",30114716,"Burton, Tim (I)",3
-747,Batman Forever_1995,21009857,1995,30861594,"Uslan, Michael (V)",30320941,"Gough, Michael (I)",3
-748,Batman Forever_1995,21009857,1995,30861594,"Uslan, Michael (V)",30375224,"Hingle, Pat",3
-749,Batman Forever_1995,21009857,1995,30861594,"Uslan, Michael (V)",30429003,"Kane, Bob (I)",3
-750,Batman Forever_1995,21009857,1995,30861594,"Uslan, Michael (V)",30564616,"Melniker, Benjamin",3
-751,Batman Forever_1995,21009857,1995,30861594,"Uslan, Michael (V)",30741904,"Sanders, Elizabeth (I)",2
-752,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30083861,"Bonham Carter, Helena",3
-753,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30114716,"Burton, Tim (I)",3
-754,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30243631,"Elfman, Danny",3
-755,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30282593,"Frauenfelder, Katterli",2
-756,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30284905,"Frey, Derek",2
-757,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30481927,"Lebenzon, Chris",3
-758,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30552567,"McDowell, Alex (I)",2
-759,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30682325,"Pyle, Missi",2
-760,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30727445,"Rousselot, Philippe",2
-761,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30728300,"Roy, Deep",2
-762,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30932653,"Zanuck, Richard D.",2
-763,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30033839,"August, John (I)",2
-764,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30114716,"Burton, Tim (I)",4
-765,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30243631,"Elfman, Danny",4
-766,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30282593,"Frauenfelder, Katterli",3
-767,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30284905,"Frey, Derek",2
-768,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30481927,"Lebenzon, Chris",4
-769,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30552567,"McDowell, Alex (I)",2
-770,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30682325,"Pyle, Missi",2
-771,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30727445,"Rousselot, Philippe",3
-772,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30728300,"Roy, Deep",3
-773,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30932653,"Zanuck, Richard D.",3
-774,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30033839,"August, John (I)",2
-775,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30083861,"Bonham Carter, Helena",4
-776,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30188514,"Dahl, Roald",2
-777,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30210840,"Depp, Johnny",4
-778,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
-779,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30282593,"Frauenfelder, Katterli",3
-780,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30284905,"Frey, Derek",2
-781,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30340541,"Hagon, Garrick",2
-782,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30481927,"Lebenzon, Chris",8
-783,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30483213,"Lee, Christopher (I)",2
-784,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30552567,"McDowell, Alex (I)",2
-785,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30682325,"Pyle, Missi",2
-786,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30727445,"Rousselot, Philippe",3
-787,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30728300,"Roy, Deep",3
-788,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30932653,"Zanuck, Richard D.",3
-789,Charlie and the Chocolate Factory_2005,21009927,2005,30188514,"Dahl, Roald",30114716,"Burton, Tim (I)",2
-790,Charlie and the Chocolate Factory_2005,21009927,2005,30210840,"Depp, Johnny",30114716,"Burton, Tim (I)",4
-791,Charlie and the Chocolate Factory_2005,21009927,2005,30210840,"Depp, Johnny",30243631,"Elfman, Danny",3
-792,Charlie and the Chocolate Factory_2005,21009927,2005,30210840,"Depp, Johnny",30481927,"Lebenzon, Chris",3
-793,Charlie and the Chocolate Factory_2005,21009927,2005,30210840,"Depp, Johnny",30483213,"Lee, Christopher (I)",2
-794,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30033839,"August, John (I)",2
-795,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30083861,"Bonham Carter, Helena",4
-796,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30114716,"Burton, Tim (I)",12
-797,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30210840,"Depp, Johnny",3
-798,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30282593,"Frauenfelder, Katterli",3
-799,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30284905,"Frey, Derek",2
-800,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30340541,"Hagon, Garrick",2
-801,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30481927,"Lebenzon, Chris",7
-802,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30483213,"Lee, Christopher (I)",2
-803,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30552567,"McDowell, Alex (I)",2
-804,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30682325,"Pyle, Missi",2
-805,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30727445,"Rousselot, Philippe",3
-806,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30728300,"Roy, Deep",3
-807,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30932653,"Zanuck, Richard D.",3
-808,Charlie and the Chocolate Factory_2005,21009927,2005,30282593,"Frauenfelder, Katterli",30033839,"August, John (I)",2
-809,Charlie and the Chocolate Factory_2005,21009927,2005,30282593,"Frauenfelder, Katterli",30083861,"Bonham Carter, Helena",2
-810,Charlie and the Chocolate Factory_2005,21009927,2005,30282593,"Frauenfelder, Katterli",30114716,"Burton, Tim (I)",3
-811,Charlie and the Chocolate Factory_2005,21009927,2005,30282593,"Frauenfelder, Katterli",30243631,"Elfman, Danny",3
-812,Charlie and the Chocolate Factory_2005,21009927,2005,30282593,"Frauenfelder, Katterli",30481927,"Lebenzon, Chris",3
-813,Charlie and the Chocolate Factory_2005,21009927,2005,30282593,"Frauenfelder, Katterli",30682325,"Pyle, Missi",2
-814,Charlie and the Chocolate Factory_2005,21009927,2005,30282593,"Frauenfelder, Katterli",30727445,"Rousselot, Philippe",3
-815,Charlie and the Chocolate Factory_2005,21009927,2005,30282593,"Frauenfelder, Katterli",30728300,"Roy, Deep",3
-816,Charlie and the Chocolate Factory_2005,21009927,2005,30282593,"Frauenfelder, Katterli",30932653,"Zanuck, Richard D.",3
-817,Charlie and the Chocolate Factory_2005,21009927,2005,30284905,"Frey, Derek",30083861,"Bonham Carter, Helena",2
-818,Charlie and the Chocolate Factory_2005,21009927,2005,30284905,"Frey, Derek",30114716,"Burton, Tim (I)",2
-819,Charlie and the Chocolate Factory_2005,21009927,2005,30284905,"Frey, Derek",30243631,"Elfman, Danny",2
-820,Charlie and the Chocolate Factory_2005,21009927,2005,30284905,"Frey, Derek",30481927,"Lebenzon, Chris",2
-821,Charlie and the Chocolate Factory_2005,21009927,2005,30284905,"Frey, Derek",30552567,"McDowell, Alex (I)",2
-822,Charlie and the Chocolate Factory_2005,21009927,2005,30340541,"Hagon, Garrick",30114716,"Burton, Tim (I)",2
-823,Charlie and the Chocolate Factory_2005,21009927,2005,30340541,"Hagon, Garrick",30243631,"Elfman, Danny",2
-824,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30033839,"August, John (I)",2
-825,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30083861,"Bonham Carter, Helena",4
-826,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30114716,"Burton, Tim (I)",8
-827,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30210840,"Depp, Johnny",3
-828,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30243631,"Elfman, Danny",7
-829,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30282593,"Frauenfelder, Katterli",3
-830,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30284905,"Frey, Derek",2
-831,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30483213,"Lee, Christopher (I)",2
-832,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30552567,"McDowell, Alex (I)",2
-833,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30682325,"Pyle, Missi",2
-834,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30727445,"Rousselot, Philippe",3
-835,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30728300,"Roy, Deep",3
-836,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30932653,"Zanuck, Richard D.",3
-837,Charlie and the Chocolate Factory_2005,21009927,2005,30483213,"Lee, Christopher (I)",30210840,"Depp, Johnny",2
-838,Charlie and the Chocolate Factory_2005,21009927,2005,30483213,"Lee, Christopher (I)",30243631,"Elfman, Danny",2
-839,Charlie and the Chocolate Factory_2005,21009927,2005,30483213,"Lee, Christopher (I)",30481927,"Lebenzon, Chris",2
-840,Charlie and the Chocolate Factory_2005,21009927,2005,30552567,"McDowell, Alex (I)",30083861,"Bonham Carter, Helena",2
-841,Charlie and the Chocolate Factory_2005,21009927,2005,30552567,"McDowell, Alex (I)",30114716,"Burton, Tim (I)",2
-842,Charlie and the Chocolate Factory_2005,21009927,2005,30552567,"McDowell, Alex (I)",30243631,"Elfman, Danny",2
-843,Charlie and the Chocolate Factory_2005,21009927,2005,30552567,"McDowell, Alex (I)",30284905,"Frey, Derek",2
-844,Charlie and the Chocolate Factory_2005,21009927,2005,30552567,"McDowell, Alex (I)",30481927,"Lebenzon, Chris",2
-845,Charlie and the Chocolate Factory_2005,21009927,2005,30682325,"Pyle, Missi",30083861,"Bonham Carter, Helena",2
-846,Charlie and the Chocolate Factory_2005,21009927,2005,30682325,"Pyle, Missi",30114716,"Burton, Tim (I)",2
-847,Charlie and the Chocolate Factory_2005,21009927,2005,30682325,"Pyle, Missi",30243631,"Elfman, Danny",2
-848,Charlie and the Chocolate Factory_2005,21009927,2005,30682325,"Pyle, Missi",30282593,"Frauenfelder, Katterli",2
-849,Charlie and the Chocolate Factory_2005,21009927,2005,30682325,"Pyle, Missi",30481927,"Lebenzon, Chris",2
-850,Charlie and the Chocolate Factory_2005,21009927,2005,30682325,"Pyle, Missi",30727445,"Rousselot, Philippe",2
-851,Charlie and the Chocolate Factory_2005,21009927,2005,30682325,"Pyle, Missi",30728300,"Roy, Deep",2
-852,Charlie and the Chocolate Factory_2005,21009927,2005,30682325,"Pyle, Missi",30932653,"Zanuck, Richard D.",2
-853,Charlie and the Chocolate Factory_2005,21009927,2005,30727445,"Rousselot, Philippe",30033839,"August, John (I)",2
-854,Charlie and the Chocolate Factory_2005,21009927,2005,30727445,"Rousselot, Philippe",30083861,"Bonham Carter, Helena",2
-855,Charlie and the Chocolate Factory_2005,21009927,2005,30727445,"Rousselot, Philippe",30114716,"Burton, Tim (I)",3
-856,Charlie and the Chocolate Factory_2005,21009927,2005,30727445,"Rousselot, Philippe",30243631,"Elfman, Danny",3
-857,Charlie and the Chocolate Factory_2005,21009927,2005,30727445,"Rousselot, Philippe",30282593,"Frauenfelder, Katterli",3
-858,Charlie and the Chocolate Factory_2005,21009927,2005,30727445,"Rousselot, Philippe",30481927,"Lebenzon, Chris",3
-859,Charlie and the Chocolate Factory_2005,21009927,2005,30727445,"Rousselot, Philippe",30682325,"Pyle, Missi",2
-860,Charlie and the Chocolate Factory_2005,21009927,2005,30727445,"Rousselot, Philippe",30728300,"Roy, Deep",3
-861,Charlie and the Chocolate Factory_2005,21009927,2005,30727445,"Rousselot, Philippe",30932653,"Zanuck, Richard D.",3
-862,Charlie and the Chocolate Factory_2005,21009927,2005,30728300,"Roy, Deep",30033839,"August, John (I)",2
-863,Charlie and the Chocolate Factory_2005,21009927,2005,30728300,"Roy, Deep",30083861,"Bonham Carter, Helena",2
-864,Charlie and the Chocolate Factory_2005,21009927,2005,30728300,"Roy, Deep",30114716,"Burton, Tim (I)",3
-865,Charlie and the Chocolate Factory_2005,21009927,2005,30728300,"Roy, Deep",30243631,"Elfman, Danny",3
-866,Charlie and the Chocolate Factory_2005,21009927,2005,30728300,"Roy, Deep",30282593,"Frauenfelder, Katterli",3
-867,Charlie and the Chocolate Factory_2005,21009927,2005,30728300,"Roy, Deep",30481927,"Lebenzon, Chris",3
-868,Charlie and the Chocolate Factory_2005,21009927,2005,30728300,"Roy, Deep",30682325,"Pyle, Missi",2
-869,Charlie and the Chocolate Factory_2005,21009927,2005,30728300,"Roy, Deep",30727445,"Rousselot, Philippe",3
-870,Charlie and the Chocolate Factory_2005,21009927,2005,30728300,"Roy, Deep",30932653,"Zanuck, Richard D.",3
-871,Charlie and the Chocolate Factory_2005,21009927,2005,30932653,"Zanuck, Richard D.",30033839,"August, John (I)",2
-872,Charlie and the Chocolate Factory_2005,21009927,2005,30932653,"Zanuck, Richard D.",30083861,"Bonham Carter, Helena",2
-873,Charlie and the Chocolate Factory_2005,21009927,2005,30932653,"Zanuck, Richard D.",30114716,"Burton, Tim (I)",3
-874,Charlie and the Chocolate Factory_2005,21009927,2005,30932653,"Zanuck, Richard D.",30243631,"Elfman, Danny",3
-875,Charlie and the Chocolate Factory_2005,21009927,2005,30932653,"Zanuck, Richard D.",30282593,"Frauenfelder, Katterli",3
-876,Charlie and the Chocolate Factory_2005,21009927,2005,30932653,"Zanuck, Richard D.",30481927,"Lebenzon, Chris",3
-877,Charlie and the Chocolate Factory_2005,21009927,2005,30932653,"Zanuck, Richard D.",30682325,"Pyle, Missi",2
-878,Charlie and the Chocolate Factory_2005,21009927,2005,30932653,"Zanuck, Richard D.",30727445,"Rousselot, Philippe",3
-879,Charlie and the Chocolate Factory_2005,21009927,2005,30932653,"Zanuck, Richard D.",30728300,"Roy, Deep",3
-880,Batman Returns_1992,21010715,1992,30098032,"Brill, Steven (I)",30114716,"Burton, Tim (I)",2
-881,Batman Returns_1992,21010715,1992,30098032,"Brill, Steven (I)",30187389,"Czapsky, Stefan",2
-882,Batman Returns_1992,21010715,1992,30098032,"Brill, Steven (I)",30214482,"Di Novi, Denise",2
-883,Batman Returns_1992,21010715,1992,30098032,"Brill, Steven (I)",30243631,"Elfman, Danny",2
-884,Batman Returns_1992,21010715,1992,30098032,"Brill, Steven (I)",30471205,"Lancaster, Stuart (I)",2
-885,Batman Returns_1992,21010715,1992,30098032,"Brill, Steven (I)",30895051,"Welch, Bo",2
-886,Batman Returns_1992,21010715,1992,30098032,"Brill, Steven (I)",30926784,"Yeager, Biff (I)",2
-887,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30098032,"Brill, Steven (I)",2
-888,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30187389,"Czapsky, Stefan",3
-889,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30193322,Darla (II),2
-890,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30213196,"DeVito, Danny",4
-891,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30214482,"Di Novi, Denise",6
-892,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30228865,"Drescher, Adam (I)",2
-893,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
-894,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30280931,"Franco, Larry J.",3
-895,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30304601,"Giammarco, Joan",2
-896,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30320941,"Gough, Michael (I)",4
-897,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30334403,"Guber, Peter",2
-898,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30345601,"Hamm, Sam",2
-899,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30375224,"Hingle, Pat",3
-900,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30383381,"Hooks, Jan",2
-901,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30429003,"Kane, Bob (I)",3
-902,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30435271,"Keaton, Michael",3
-903,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30471205,"Lancaster, Stuart (I)",2
-904,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30481927,"Lebenzon, Chris",8
-905,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30564616,"Melniker, Benjamin",3
-906,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30659177,"Peters, Jon (I)",2
-907,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30700467,"Reubens, Paul",2
-908,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30738831,"Salinger, Diane",2
-909,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30741904,"Sanders, Elizabeth (I)",2
-910,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30861594,"Uslan, Michael (V)",3
-911,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30880655,"Walken, Christopher",2
-912,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30895051,"Welch, Bo",3
-913,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30916412,"Witting, Steve",2
-914,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30926784,"Yeager, Biff (I)",3
-915,Batman Returns_1992,21010715,1992,30187389,"Czapsky, Stefan",30098032,"Brill, Steven (I)",2
-916,Batman Returns_1992,21010715,1992,30187389,"Czapsky, Stefan",30114716,"Burton, Tim (I)",3
-917,Batman Returns_1992,21010715,1992,30187389,"Czapsky, Stefan",30214482,"Di Novi, Denise",3
-918,Batman Returns_1992,21010715,1992,30187389,"Czapsky, Stefan",30228865,"Drescher, Adam (I)",2
-919,Batman Returns_1992,21010715,1992,30187389,"Czapsky, Stefan",30243631,"Elfman, Danny",2
-920,Batman Returns_1992,21010715,1992,30187389,"Czapsky, Stefan",30471205,"Lancaster, Stuart (I)",2
-921,Batman Returns_1992,21010715,1992,30187389,"Czapsky, Stefan",30481927,"Lebenzon, Chris",2
-922,Batman Returns_1992,21010715,1992,30187389,"Czapsky, Stefan",30895051,"Welch, Bo",2
-923,Batman Returns_1992,21010715,1992,30187389,"Czapsky, Stefan",30926784,"Yeager, Biff (I)",3
-924,Batman Returns_1992,21010715,1992,30193322,Darla (II),30114716,"Burton, Tim (I)",2
-925,Batman Returns_1992,21010715,1992,30193322,Darla (II),30243631,"Elfman, Danny",2
-926,Batman Returns_1992,21010715,1992,30193322,Darla (II),30383381,"Hooks, Jan",2
-927,Batman Returns_1992,21010715,1992,30193322,Darla (II),30700467,"Reubens, Paul",2
-928,Batman Returns_1992,21010715,1992,30193322,Darla (II),30738831,"Salinger, Diane",2
-929,Batman Returns_1992,21010715,1992,30213196,"DeVito, Danny",30114716,"Burton, Tim (I)",4
-930,Batman Returns_1992,21010715,1992,30213196,"DeVito, Danny",30243631,"Elfman, Danny",3
-931,Batman Returns_1992,21010715,1992,30213196,"DeVito, Danny",30280931,"Franco, Larry J.",2
-932,Batman Returns_1992,21010715,1992,30213196,"DeVito, Danny",30481927,"Lebenzon, Chris",3
-933,Batman Returns_1992,21010715,1992,30213196,"DeVito, Danny",30916412,"Witting, Steve",2
-934,Batman Returns_1992,21010715,1992,30214482,"Di Novi, Denise",30098032,"Brill, Steven (I)",2
-935,Batman Returns_1992,21010715,1992,30214482,"Di Novi, Denise",30114716,"Burton, Tim (I)",6
-936,Batman Returns_1992,21010715,1992,30214482,"Di Novi, Denise",30187389,"Czapsky, Stefan",3
-937,Batman Returns_1992,21010715,1992,30214482,"Di Novi, Denise",30228865,"Drescher, Adam (I)",2
-938,Batman Returns_1992,21010715,1992,30214482,"Di Novi, Denise",30243631,"Elfman, Danny",3
-939,Batman Returns_1992,21010715,1992,30214482,"Di Novi, Denise",30471205,"Lancaster, Stuart (I)",2
-940,Batman Returns_1992,21010715,1992,30214482,"Di Novi, Denise",30481927,"Lebenzon, Chris",2
-941,Batman Returns_1992,21010715,1992,30214482,"Di Novi, Denise",30895051,"Welch, Bo",2
-942,Batman Returns_1992,21010715,1992,30214482,"Di Novi, Denise",30926784,"Yeager, Biff (I)",3
-943,Batman Returns_1992,21010715,1992,30228865,"Drescher, Adam (I)",30114716,"Burton, Tim (I)",2
-944,Batman Returns_1992,21010715,1992,30228865,"Drescher, Adam (I)",30187389,"Czapsky, Stefan",2
-945,Batman Returns_1992,21010715,1992,30228865,"Drescher, Adam (I)",30214482,"Di Novi, Denise",2
-946,Batman Returns_1992,21010715,1992,30228865,"Drescher, Adam (I)",30481927,"Lebenzon, Chris",2
-947,Batman Returns_1992,21010715,1992,30228865,"Drescher, Adam (I)",30926784,"Yeager, Biff (I)",2
-948,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30098032,"Brill, Steven (I)",2
-949,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30114716,"Burton, Tim (I)",12
-950,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30187389,"Czapsky, Stefan",2
-951,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30193322,Darla (II),2
-952,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30213196,"DeVito, Danny",3
-953,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30214482,"Di Novi, Denise",3
-954,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30280931,"Franco, Larry J.",3
-955,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30320941,"Gough, Michael (I)",3
-956,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30334403,"Guber, Peter",2
-957,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30345601,"Hamm, Sam",2
-958,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30375224,"Hingle, Pat",2
-959,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30383381,"Hooks, Jan",2
-960,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30429003,"Kane, Bob (I)",2
-961,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30435271,"Keaton, Michael",3
-962,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30471205,"Lancaster, Stuart (I)",2
-963,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30481927,"Lebenzon, Chris",7
-964,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30564616,"Melniker, Benjamin",2
-965,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30659177,"Peters, Jon (I)",2
-966,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30700467,"Reubens, Paul",2
-967,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30738831,"Salinger, Diane",2
-968,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30861594,"Uslan, Michael (V)",2
-969,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30880655,"Walken, Christopher",2
-970,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30895051,"Welch, Bo",3
-971,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30926784,"Yeager, Biff (I)",2
-972,Batman Returns_1992,21010715,1992,30280931,"Franco, Larry J.",30114716,"Burton, Tim (I)",2
-973,Batman Returns_1992,21010715,1992,30280931,"Franco, Larry J.",30213196,"DeVito, Danny",2
-974,Batman Returns_1992,21010715,1992,30280931,"Franco, Larry J.",30243631,"Elfman, Danny",3
-975,Batman Returns_1992,21010715,1992,30280931,"Franco, Larry J.",30320941,"Gough, Michael (I)",2
-976,Batman Returns_1992,21010715,1992,30280931,"Franco, Larry J.",30481927,"Lebenzon, Chris",3
-977,Batman Returns_1992,21010715,1992,30280931,"Franco, Larry J.",30880655,"Walken, Christopher",2
-978,Batman Returns_1992,21010715,1992,30304601,"Giammarco, Joan",30114716,"Burton, Tim (I)",2
-979,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30114716,"Burton, Tim (I)",3
-980,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30243631,"Elfman, Danny",3
-981,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30280931,"Franco, Larry J.",2
-982,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30334403,"Guber, Peter",2
-983,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30345601,"Hamm, Sam",2
-984,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30375224,"Hingle, Pat",3
-985,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30429003,"Kane, Bob (I)",3
-986,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30435271,"Keaton, Michael",2
-987,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30481927,"Lebenzon, Chris",2
-988,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30564616,"Melniker, Benjamin",3
-989,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30659177,"Peters, Jon (I)",2
-990,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30741904,"Sanders, Elizabeth (I)",2
-991,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30861594,"Uslan, Michael (V)",3
-992,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30880655,"Walken, Christopher",2
-993,Batman Returns_1992,21010715,1992,30334403,"Guber, Peter",30114716,"Burton, Tim (I)",2
-994,Batman Returns_1992,21010715,1992,30334403,"Guber, Peter",30243631,"Elfman, Danny",2
-995,Batman Returns_1992,21010715,1992,30334403,"Guber, Peter",30320941,"Gough, Michael (I)",2
-996,Batman Returns_1992,21010715,1992,30334403,"Guber, Peter",30345601,"Hamm, Sam",2
-997,Batman Returns_1992,21010715,1992,30334403,"Guber, Peter",30375224,"Hingle, Pat",2
-998,Batman Returns_1992,21010715,1992,30334403,"Guber, Peter",30429003,"Kane, Bob (I)",2
-999,Batman Returns_1992,21010715,1992,30334403,"Guber, Peter",30435271,"Keaton, Michael",2
-1000,Batman Returns_1992,21010715,1992,30334403,"Guber, Peter",30564616,"Melniker, Benjamin",2
-1001,Batman Returns_1992,21010715,1992,30334403,"Guber, Peter",30659177,"Peters, Jon (I)",2
-1002,Batman Returns_1992,21010715,1992,30334403,"Guber, Peter",30861594,"Uslan, Michael (V)",2
-1003,Batman Returns_1992,21010715,1992,30345601,"Hamm, Sam",30114716,"Burton, Tim (I)",2
-1004,Batman Returns_1992,21010715,1992,30345601,"Hamm, Sam",30243631,"Elfman, Danny",2
-1005,Batman Returns_1992,21010715,1992,30345601,"Hamm, Sam",30320941,"Gough, Michael (I)",2
-1006,Batman Returns_1992,21010715,1992,30345601,"Hamm, Sam",30334403,"Guber, Peter",2
-1007,Batman Returns_1992,21010715,1992,30345601,"Hamm, Sam",30375224,"Hingle, Pat",2
-1008,Batman Returns_1992,21010715,1992,30345601,"Hamm, Sam",30429003,"Kane, Bob (I)",2
-1009,Batman Returns_1992,21010715,1992,30345601,"Hamm, Sam",30435271,"Keaton, Michael",2
-1010,Batman Returns_1992,21010715,1992,30345601,"Hamm, Sam",30564616,"Melniker, Benjamin",2
-1011,Batman Returns_1992,21010715,1992,30345601,"Hamm, Sam",30659177,"Peters, Jon (I)",2
-1012,Batman Returns_1992,21010715,1992,30345601,"Hamm, Sam",30861594,"Uslan, Michael (V)",2
-1013,Batman Returns_1992,21010715,1992,30375224,"Hingle, Pat",30114716,"Burton, Tim (I)",3
-1014,Batman Returns_1992,21010715,1992,30375224,"Hingle, Pat",30243631,"Elfman, Danny",2
-1015,Batman Returns_1992,21010715,1992,30375224,"Hingle, Pat",30320941,"Gough, Michael (I)",3
-1016,Batman Returns_1992,21010715,1992,30375224,"Hingle, Pat",30334403,"Guber, Peter",2
-1017,Batman Returns_1992,21010715,1992,30375224,"Hingle, Pat",30345601,"Hamm, Sam",2
-1018,Batman Returns_1992,21010715,1992,30375224,"Hingle, Pat",30429003,"Kane, Bob (I)",3
-1019,Batman Returns_1992,21010715,1992,30375224,"Hingle, Pat",30435271,"Keaton, Michael",2
-1020,Batman Returns_1992,21010715,1992,30375224,"Hingle, Pat",30564616,"Melniker, Benjamin",3
-1021,Batman Returns_1992,21010715,1992,30375224,"Hingle, Pat",30659177,"Peters, Jon (I)",2
-1022,Batman Returns_1992,21010715,1992,30375224,"Hingle, Pat",30741904,"Sanders, Elizabeth (I)",2
-1023,Batman Returns_1992,21010715,1992,30375224,"Hingle, Pat",30861594,"Uslan, Michael (V)",3
-1024,Batman Returns_1992,21010715,1992,30383381,"Hooks, Jan",30114716,"Burton, Tim (I)",2
-1025,Batman Returns_1992,21010715,1992,30383381,"Hooks, Jan",30193322,Darla (II),2
-1026,Batman Returns_1992,21010715,1992,30383381,"Hooks, Jan",30243631,"Elfman, Danny",2
-1027,Batman Returns_1992,21010715,1992,30383381,"Hooks, Jan",30700467,"Reubens, Paul",2
-1028,Batman Returns_1992,21010715,1992,30383381,"Hooks, Jan",30738831,"Salinger, Diane",2
-1029,Batman Returns_1992,21010715,1992,30429003,"Kane, Bob (I)",30114716,"Burton, Tim (I)",3
-1030,Batman Returns_1992,21010715,1992,30429003,"Kane, Bob (I)",30243631,"Elfman, Danny",2
-1031,Batman Returns_1992,21010715,1992,30429003,"Kane, Bob (I)",30320941,"Gough, Michael (I)",3
-1032,Batman Returns_1992,21010715,1992,30429003,"Kane, Bob (I)",30334403,"Guber, Peter",2
-1033,Batman Returns_1992,21010715,1992,30429003,"Kane, Bob (I)",30345601,"Hamm, Sam",2
-1034,Batman Returns_1992,21010715,1992,30429003,"Kane, Bob (I)",30375224,"Hingle, Pat",3
-1035,Batman Returns_1992,21010715,1992,30429003,"Kane, Bob (I)",30435271,"Keaton, Michael",2
-1036,Batman Returns_1992,21010715,1992,30429003,"Kane, Bob (I)",30564616,"Melniker, Benjamin",3
-1037,Batman Returns_1992,21010715,1992,30429003,"Kane, Bob (I)",30659177,"Peters, Jon (I)",2
-1038,Batman Returns_1992,21010715,1992,30429003,"Kane, Bob (I)",30741904,"Sanders, Elizabeth (I)",2
-1039,Batman Returns_1992,21010715,1992,30429003,"Kane, Bob (I)",30861594,"Uslan, Michael (V)",3
-1040,Batman Returns_1992,21010715,1992,30435271,"Keaton, Michael",30114716,"Burton, Tim (I)",3
-1041,Batman Returns_1992,21010715,1992,30435271,"Keaton, Michael",30243631,"Elfman, Danny",3
-1042,Batman Returns_1992,21010715,1992,30435271,"Keaton, Michael",30320941,"Gough, Michael (I)",2
-1043,Batman Returns_1992,21010715,1992,30435271,"Keaton, Michael",30334403,"Guber, Peter",2
-1044,Batman Returns_1992,21010715,1992,30435271,"Keaton, Michael",30345601,"Hamm, Sam",2
-1045,Batman Returns_1992,21010715,1992,30435271,"Keaton, Michael",30375224,"Hingle, Pat",2
-1046,Batman Returns_1992,21010715,1992,30435271,"Keaton, Michael",30429003,"Kane, Bob (I)",2
-1047,Batman Returns_1992,21010715,1992,30435271,"Keaton, Michael",30564616,"Melniker, Benjamin",2
-1048,Batman Returns_1992,21010715,1992,30435271,"Keaton, Michael",30659177,"Peters, Jon (I)",2
-1049,Batman Returns_1992,21010715,1992,30435271,"Keaton, Michael",30861594,"Uslan, Michael (V)",2
-1050,Batman Returns_1992,21010715,1992,30435271,"Keaton, Michael",30895051,"Welch, Bo",2
-1051,Batman Returns_1992,21010715,1992,30471205,"Lancaster, Stuart (I)",30114716,"Burton, Tim (I)",2
-1052,Batman Returns_1992,21010715,1992,30471205,"Lancaster, Stuart (I)",30187389,"Czapsky, Stefan",2
-1053,Batman Returns_1992,21010715,1992,30471205,"Lancaster, Stuart (I)",30214482,"Di Novi, Denise",2
-1054,Batman Returns_1992,21010715,1992,30471205,"Lancaster, Stuart (I)",30243631,"Elfman, Danny",2
-1055,Batman Returns_1992,21010715,1992,30471205,"Lancaster, Stuart (I)",30895051,"Welch, Bo",2
-1056,Batman Returns_1992,21010715,1992,30471205,"Lancaster, Stuart (I)",30926784,"Yeager, Biff (I)",2
-1057,Batman Returns_1992,21010715,1992,30481927,"Lebenzon, Chris",30114716,"Burton, Tim (I)",8
-1058,Batman Returns_1992,21010715,1992,30481927,"Lebenzon, Chris",30187389,"Czapsky, Stefan",2
-1059,Batman Returns_1992,21010715,1992,30481927,"Lebenzon, Chris",30213196,"DeVito, Danny",3
-1060,Batman Returns_1992,21010715,1992,30481927,"Lebenzon, Chris",30214482,"Di Novi, Denise",2
-1061,Batman Returns_1992,21010715,1992,30481927,"Lebenzon, Chris",30228865,"Drescher, Adam (I)",2
-1062,Batman Returns_1992,21010715,1992,30481927,"Lebenzon, Chris",30243631,"Elfman, Danny",7
-1063,Batman Returns_1992,21010715,1992,30481927,"Lebenzon, Chris",30280931,"Franco, Larry J.",3
-1064,Batman Returns_1992,21010715,1992,30481927,"Lebenzon, Chris",30320941,"Gough, Michael (I)",2
-1065,Batman Returns_1992,21010715,1992,30481927,"Lebenzon, Chris",30880655,"Walken, Christopher",2
-1066,Batman Returns_1992,21010715,1992,30481927,"Lebenzon, Chris",30926784,"Yeager, Biff (I)",2
-1067,Batman Returns_1992,21010715,1992,30564616,"Melniker, Benjamin",30114716,"Burton, Tim (I)",3
-1068,Batman Returns_1992,21010715,1992,30564616,"Melniker, Benjamin",30243631,"Elfman, Danny",2
-1069,Batman Returns_1992,21010715,1992,30564616,"Melniker, Benjamin",30320941,"Gough, Michael (I)",3
-1070,Batman Returns_1992,21010715,1992,30564616,"Melniker, Benjamin",30334403,"Guber, Peter",2
-1071,Batman Returns_1992,21010715,1992,30564616,"Melniker, Benjamin",30345601,"Hamm, Sam",2
-1072,Batman Returns_1992,21010715,1992,30564616,"Melniker, Benjamin",30375224,"Hingle, Pat",3
-1073,Batman Returns_1992,21010715,1992,30564616,"Melniker, Benjamin",30429003,"Kane, Bob (I)",3
-1074,Batman Returns_1992,21010715,1992,30564616,"Melniker, Benjamin",30435271,"Keaton, Michael",2
-1075,Batman Returns_1992,21010715,1992,30564616,"Melniker, Benjamin",30659177,"Peters, Jon (I)",2
-1076,Batman Returns_1992,21010715,1992,30564616,"Melniker, Benjamin",30741904,"Sanders, Elizabeth (I)",2
-1077,Batman Returns_1992,21010715,1992,30564616,"Melniker, Benjamin",30861594,"Uslan, Michael (V)",3
-1078,Batman Returns_1992,21010715,1992,30659177,"Peters, Jon (I)",30114716,"Burton, Tim (I)",2
-1079,Batman Returns_1992,21010715,1992,30659177,"Peters, Jon (I)",30243631,"Elfman, Danny",2
-1080,Batman Returns_1992,21010715,1992,30659177,"Peters, Jon (I)",30320941,"Gough, Michael (I)",2
-1081,Batman Returns_1992,21010715,1992,30659177,"Peters, Jon (I)",30334403,"Guber, Peter",2
-1082,Batman Returns_1992,21010715,1992,30659177,"Peters, Jon (I)",30345601,"Hamm, Sam",2
-1083,Batman Returns_1992,21010715,1992,30659177,"Peters, Jon (I)",30375224,"Hingle, Pat",2
-1084,Batman Returns_1992,21010715,1992,30659177,"Peters, Jon (I)",30429003,"Kane, Bob (I)",2
-1085,Batman Returns_1992,21010715,1992,30659177,"Peters, Jon (I)",30435271,"Keaton, Michael",2
-1086,Batman Returns_1992,21010715,1992,30659177,"Peters, Jon (I)",30564616,"Melniker, Benjamin",2
-1087,Batman Returns_1992,21010715,1992,30659177,"Peters, Jon (I)",30861594,"Uslan, Michael (V)",2
-1088,Batman Returns_1992,21010715,1992,30700467,"Reubens, Paul",30114716,"Burton, Tim (I)",2
-1089,Batman Returns_1992,21010715,1992,30700467,"Reubens, Paul",30193322,Darla (II),2
-1090,Batman Returns_1992,21010715,1992,30700467,"Reubens, Paul",30243631,"Elfman, Danny",2
-1091,Batman Returns_1992,21010715,1992,30700467,"Reubens, Paul",30383381,"Hooks, Jan",2
-1092,Batman Returns_1992,21010715,1992,30700467,"Reubens, Paul",30738831,"Salinger, Diane",2
-1093,Batman Returns_1992,21010715,1992,30738831,"Salinger, Diane",30114716,"Burton, Tim (I)",2
-1094,Batman Returns_1992,21010715,1992,30738831,"Salinger, Diane",30193322,Darla (II),2
-1095,Batman Returns_1992,21010715,1992,30738831,"Salinger, Diane",30243631,"Elfman, Danny",2
-1096,Batman Returns_1992,21010715,1992,30738831,"Salinger, Diane",30383381,"Hooks, Jan",2
-1097,Batman Returns_1992,21010715,1992,30738831,"Salinger, Diane",30700467,"Reubens, Paul",2
-1098,Batman Returns_1992,21010715,1992,30741904,"Sanders, Elizabeth (I)",30114716,"Burton, Tim (I)",2
-1099,Batman Returns_1992,21010715,1992,30741904,"Sanders, Elizabeth (I)",30320941,"Gough, Michael (I)",2
-1100,Batman Returns_1992,21010715,1992,30741904,"Sanders, Elizabeth (I)",30375224,"Hingle, Pat",2
-1101,Batman Returns_1992,21010715,1992,30741904,"Sanders, Elizabeth (I)",30429003,"Kane, Bob (I)",2
-1102,Batman Returns_1992,21010715,1992,30741904,"Sanders, Elizabeth (I)",30564616,"Melniker, Benjamin",2
-1103,Batman Returns_1992,21010715,1992,30741904,"Sanders, Elizabeth (I)",30861594,"Uslan, Michael (V)",2
-1104,Batman Returns_1992,21010715,1992,30861594,"Uslan, Michael (V)",30114716,"Burton, Tim (I)",3
-1105,Batman Returns_1992,21010715,1992,30861594,"Uslan, Michael (V)",30243631,"Elfman, Danny",2
-1106,Batman Returns_1992,21010715,1992,30861594,"Uslan, Michael (V)",30320941,"Gough, Michael (I)",3
-1107,Batman Returns_1992,21010715,1992,30861594,"Uslan, Michael (V)",30334403,"Guber, Peter",2
-1108,Batman Returns_1992,21010715,1992,30861594,"Uslan, Michael (V)",30345601,"Hamm, Sam",2
-1109,Batman Returns_1992,21010715,1992,30861594,"Uslan, Michael (V)",30375224,"Hingle, Pat",3
-1110,Batman Returns_1992,21010715,1992,30861594,"Uslan, Michael (V)",30429003,"Kane, Bob (I)",3
-1111,Batman Returns_1992,21010715,1992,30861594,"Uslan, Michael (V)",30435271,"Keaton, Michael",2
-1112,Batman Returns_1992,21010715,1992,30861594,"Uslan, Michael (V)",30564616,"Melniker, Benjamin",3
-1113,Batman Returns_1992,21010715,1992,30861594,"Uslan, Michael (V)",30659177,"Peters, Jon (I)",2
-1114,Batman Returns_1992,21010715,1992,30861594,"Uslan, Michael (V)",30741904,"Sanders, Elizabeth (I)",2
-1115,Batman Returns_1992,21010715,1992,30880655,"Walken, Christopher",30243631,"Elfman, Danny",2
-1116,Batman Returns_1992,21010715,1992,30880655,"Walken, Christopher",30280931,"Franco, Larry J.",2
-1117,Batman Returns_1992,21010715,1992,30880655,"Walken, Christopher",30320941,"Gough, Michael (I)",2
-1118,Batman Returns_1992,21010715,1992,30880655,"Walken, Christopher",30481927,"Lebenzon, Chris",2
-1119,Batman Returns_1992,21010715,1992,30895051,"Welch, Bo",30098032,"Brill, Steven (I)",2
-1120,Batman Returns_1992,21010715,1992,30895051,"Welch, Bo",30114716,"Burton, Tim (I)",3
-1121,Batman Returns_1992,21010715,1992,30895051,"Welch, Bo",30187389,"Czapsky, Stefan",2
-1122,Batman Returns_1992,21010715,1992,30895051,"Welch, Bo",30214482,"Di Novi, Denise",2
-1123,Batman Returns_1992,21010715,1992,30895051,"Welch, Bo",30243631,"Elfman, Danny",3
-1124,Batman Returns_1992,21010715,1992,30895051,"Welch, Bo",30435271,"Keaton, Michael",2
-1125,Batman Returns_1992,21010715,1992,30895051,"Welch, Bo",30471205,"Lancaster, Stuart (I)",2
-1126,Batman Returns_1992,21010715,1992,30895051,"Welch, Bo",30926784,"Yeager, Biff (I)",2
-1127,Batman Returns_1992,21010715,1992,30916412,"Witting, Steve",30114716,"Burton, Tim (I)",2
-1128,Batman Returns_1992,21010715,1992,30916412,"Witting, Steve",30213196,"DeVito, Danny",2
-1129,Batman Returns_1992,21010715,1992,30926784,"Yeager, Biff (I)",30098032,"Brill, Steven (I)",2
-1130,Batman Returns_1992,21010715,1992,30926784,"Yeager, Biff (I)",30114716,"Burton, Tim (I)",3
-1131,Batman Returns_1992,21010715,1992,30926784,"Yeager, Biff (I)",30187389,"Czapsky, Stefan",3
-1132,Batman Returns_1992,21010715,1992,30926784,"Yeager, Biff (I)",30214482,"Di Novi, Denise",3
-1133,Batman Returns_1992,21010715,1992,30926784,"Yeager, Biff (I)",30228865,"Drescher, Adam (I)",2
-1134,Batman Returns_1992,21010715,1992,30926784,"Yeager, Biff (I)",30243631,"Elfman, Danny",2
-1135,Batman Returns_1992,21010715,1992,30926784,"Yeager, Biff (I)",30471205,"Lancaster, Stuart (I)",2
-1136,Batman Returns_1992,21010715,1992,30926784,"Yeager, Biff (I)",30481927,"Lebenzon, Chris",2
-1137,Batman Returns_1992,21010715,1992,30926784,"Yeager, Biff (I)",30895051,"Welch, Bo",2
-1138,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
-1139,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30320941,"Gough, Michael (I)",4
-1140,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30334403,"Guber, Peter",2
-1141,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30340541,"Hagon, Garrick",2
-1142,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30345601,"Hamm, Sam",2
-1143,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30375224,"Hingle, Pat",3
-1144,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30429003,"Kane, Bob (I)",3
-1145,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30435271,"Keaton, Michael",3
-1146,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30564616,"Melniker, Benjamin",3
-1147,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30615205,"Nicholson, Jack (I)",3
-1148,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30659177,"Peters, Jon (I)",2
-1149,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30783008,"Skaaren, Warren",2
-1150,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30828925,"Tan, Philip",2
-1151,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30861594,"Uslan, Michael (V)",3
-1152,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30114716,"Burton, Tim (I)",12
-1153,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30320941,"Gough, Michael (I)",3
-1154,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30334403,"Guber, Peter",2
-1155,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30340541,"Hagon, Garrick",2
-1156,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30345601,"Hamm, Sam",2
-1157,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30375224,"Hingle, Pat",2
-1158,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30429003,"Kane, Bob (I)",2
-1159,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30435271,"Keaton, Michael",3
-1160,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30564616,"Melniker, Benjamin",2
-1161,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30615205,"Nicholson, Jack (I)",2
-1162,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30659177,"Peters, Jon (I)",2
-1163,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30783008,"Skaaren, Warren",2
-1164,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30828925,"Tan, Philip",2
-1165,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30861594,"Uslan, Michael (V)",2
-1166,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30114716,"Burton, Tim (I)",3
-1167,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30243631,"Elfman, Danny",3
-1168,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30334403,"Guber, Peter",2
-1169,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30345601,"Hamm, Sam",2
-1170,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30375224,"Hingle, Pat",3
-1171,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30429003,"Kane, Bob (I)",3
-1172,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30435271,"Keaton, Michael",2
-1173,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30564616,"Melniker, Benjamin",3
-1174,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30659177,"Peters, Jon (I)",2
-1175,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30861594,"Uslan, Michael (V)",3
-1176,Batman_1989,21011181,1989,30334403,"Guber, Peter",30114716,"Burton, Tim (I)",2
-1177,Batman_1989,21011181,1989,30334403,"Guber, Peter",30243631,"Elfman, Danny",2
-1178,Batman_1989,21011181,1989,30334403,"Guber, Peter",30320941,"Gough, Michael (I)",2
-1179,Batman_1989,21011181,1989,30334403,"Guber, Peter",30345601,"Hamm, Sam",2
-1180,Batman_1989,21011181,1989,30334403,"Guber, Peter",30375224,"Hingle, Pat",2
-1181,Batman_1989,21011181,1989,30334403,"Guber, Peter",30429003,"Kane, Bob (I)",2
-1182,Batman_1989,21011181,1989,30334403,"Guber, Peter",30435271,"Keaton, Michael",2
-1183,Batman_1989,21011181,1989,30334403,"Guber, Peter",30564616,"Melniker, Benjamin",2
-1184,Batman_1989,21011181,1989,30334403,"Guber, Peter",30659177,"Peters, Jon (I)",2
-1185,Batman_1989,21011181,1989,30334403,"Guber, Peter",30861594,"Uslan, Michael (V)",2
-1186,Batman_1989,21011181,1989,30340541,"Hagon, Garrick",30114716,"Burton, Tim (I)",2
-1187,Batman_1989,21011181,1989,30340541,"Hagon, Garrick",30243631,"Elfman, Danny",2
-1188,Batman_1989,21011181,1989,30345601,"Hamm, Sam",30114716,"Burton, Tim (I)",2
-1189,Batman_1989,21011181,1989,30345601,"Hamm, Sam",30243631,"Elfman, Danny",2
-1190,Batman_1989,21011181,1989,30345601,"Hamm, Sam",30320941,"Gough, Michael (I)",2
-1191,Batman_1989,21011181,1989,30345601,"Hamm, Sam",30334403,"Guber, Peter",2
-1192,Batman_1989,21011181,1989,30345601,"Hamm, Sam",30375224,"Hingle, Pat",2
-1193,Batman_1989,21011181,1989,30345601,"Hamm, Sam",30429003,"Kane, Bob (I)",2
-1194,Batman_1989,21011181,1989,30345601,"Hamm, Sam",30435271,"Keaton, Michael",2
-1195,Batman_1989,21011181,1989,30345601,"Hamm, Sam",30564616,"Melniker, Benjamin",2
-1196,Batman_1989,21011181,1989,30345601,"Hamm, Sam",30659177,"Peters, Jon (I)",2
-1197,Batman_1989,21011181,1989,30345601,"Hamm, Sam",30861594,"Uslan, Michael (V)",2
-1198,Batman_1989,21011181,1989,30375224,"Hingle, Pat",30114716,"Burton, Tim (I)",3
-1199,Batman_1989,21011181,1989,30375224,"Hingle, Pat",30243631,"Elfman, Danny",2
-1200,Batman_1989,21011181,1989,30375224,"Hingle, Pat",30320941,"Gough, Michael (I)",3
-1201,Batman_1989,21011181,1989,30375224,"Hingle, Pat",30334403,"Guber, Peter",2
-1202,Batman_1989,21011181,1989,30375224,"Hingle, Pat",30345601,"Hamm, Sam",2
-1203,Batman_1989,21011181,1989,30375224,"Hingle, Pat",30429003,"Kane, Bob (I)",3
-1204,Batman_1989,21011181,1989,30375224,"Hingle, Pat",30435271,"Keaton, Michael",2
-1205,Batman_1989,21011181,1989,30375224,"Hingle, Pat",30564616,"Melniker, Benjamin",3
-1206,Batman_1989,21011181,1989,30375224,"Hingle, Pat",30659177,"Peters, Jon (I)",2
-1207,Batman_1989,21011181,1989,30375224,"Hingle, Pat",30861594,"Uslan, Michael (V)",3
-1208,Batman_1989,21011181,1989,30429003,"Kane, Bob (I)",30114716,"Burton, Tim (I)",3
-1209,Batman_1989,21011181,1989,30429003,"Kane, Bob (I)",30243631,"Elfman, Danny",2
-1210,Batman_1989,21011181,1989,30429003,"Kane, Bob (I)",30320941,"Gough, Michael (I)",3
-1211,Batman_1989,21011181,1989,30429003,"Kane, Bob (I)",30334403,"Guber, Peter",2
-1212,Batman_1989,21011181,1989,30429003,"Kane, Bob (I)",30345601,"Hamm, Sam",2
-1213,Batman_1989,21011181,1989,30429003,"Kane, Bob (I)",30375224,"Hingle, Pat",3
-1214,Batman_1989,21011181,1989,30429003,"Kane, Bob (I)",30435271,"Keaton, Michael",2
-1215,Batman_1989,21011181,1989,30429003,"Kane, Bob (I)",30564616,"Melniker, Benjamin",3
-1216,Batman_1989,21011181,1989,30429003,"Kane, Bob (I)",30659177,"Peters, Jon (I)",2
-1217,Batman_1989,21011181,1989,30429003,"Kane, Bob (I)",30861594,"Uslan, Michael (V)",3
-1218,Batman_1989,21011181,1989,30435271,"Keaton, Michael",30114716,"Burton, Tim (I)",3
-1219,Batman_1989,21011181,1989,30435271,"Keaton, Michael",30243631,"Elfman, Danny",3
-1220,Batman_1989,21011181,1989,30435271,"Keaton, Michael",30320941,"Gough, Michael (I)",2
-1221,Batman_1989,21011181,1989,30435271,"Keaton, Michael",30334403,"Guber, Peter",2
-1222,Batman_1989,21011181,1989,30435271,"Keaton, Michael",30345601,"Hamm, Sam",2
-1223,Batman_1989,21011181,1989,30435271,"Keaton, Michael",30375224,"Hingle, Pat",2
-1224,Batman_1989,21011181,1989,30435271,"Keaton, Michael",30429003,"Kane, Bob (I)",2
-1225,Batman_1989,21011181,1989,30435271,"Keaton, Michael",30564616,"Melniker, Benjamin",2
-1226,Batman_1989,21011181,1989,30435271,"Keaton, Michael",30659177,"Peters, Jon (I)",2
-1227,Batman_1989,21011181,1989,30435271,"Keaton, Michael",30783008,"Skaaren, Warren",2
-1228,Batman_1989,21011181,1989,30435271,"Keaton, Michael",30861594,"Uslan, Michael (V)",2
-1229,Batman_1989,21011181,1989,30564616,"Melniker, Benjamin",30114716,"Burton, Tim (I)",3
-1230,Batman_1989,21011181,1989,30564616,"Melniker, Benjamin",30243631,"Elfman, Danny",2
-1231,Batman_1989,21011181,1989,30564616,"Melniker, Benjamin",30320941,"Gough, Michael (I)",3
-1232,Batman_1989,21011181,1989,30564616,"Melniker, Benjamin",30334403,"Guber, Peter",2
-1233,Batman_1989,21011181,1989,30564616,"Melniker, Benjamin",30345601,"Hamm, Sam",2
-1234,Batman_1989,21011181,1989,30564616,"Melniker, Benjamin",30375224,"Hingle, Pat",3
-1235,Batman_1989,21011181,1989,30564616,"Melniker, Benjamin",30429003,"Kane, Bob (I)",3
-1236,Batman_1989,21011181,1989,30564616,"Melniker, Benjamin",30435271,"Keaton, Michael",2
-1237,Batman_1989,21011181,1989,30564616,"Melniker, Benjamin",30659177,"Peters, Jon (I)",2
-1238,Batman_1989,21011181,1989,30564616,"Melniker, Benjamin",30861594,"Uslan, Michael (V)",3
-1239,Batman_1989,21011181,1989,30615205,"Nicholson, Jack (I)",30114716,"Burton, Tim (I)",3
-1240,Batman_1989,21011181,1989,30615205,"Nicholson, Jack (I)",30243631,"Elfman, Danny",2
-1241,Batman_1989,21011181,1989,30659177,"Peters, Jon (I)",30114716,"Burton, Tim (I)",2
-1242,Batman_1989,21011181,1989,30659177,"Peters, Jon (I)",30243631,"Elfman, Danny",2
-1243,Batman_1989,21011181,1989,30659177,"Peters, Jon (I)",30320941,"Gough, Michael (I)",2
-1244,Batman_1989,21011181,1989,30659177,"Peters, Jon (I)",30334403,"Guber, Peter",2
-1245,Batman_1989,21011181,1989,30659177,"Peters, Jon (I)",30345601,"Hamm, Sam",2
-1246,Batman_1989,21011181,1989,30659177,"Peters, Jon (I)",30375224,"Hingle, Pat",2
-1247,Batman_1989,21011181,1989,30659177,"Peters, Jon (I)",30429003,"Kane, Bob (I)",2
-1248,Batman_1989,21011181,1989,30659177,"Peters, Jon (I)",30435271,"Keaton, Michael",2
-1249,Batman_1989,21011181,1989,30659177,"Peters, Jon (I)",30564616,"Melniker, Benjamin",2
-1250,Batman_1989,21011181,1989,30659177,"Peters, Jon (I)",30861594,"Uslan, Michael (V)",2
-1251,Batman_1989,21011181,1989,30783008,"Skaaren, Warren",30114716,"Burton, Tim (I)",2
-1252,Batman_1989,21011181,1989,30783008,"Skaaren, Warren",30243631,"Elfman, Danny",2
-1253,Batman_1989,21011181,1989,30783008,"Skaaren, Warren",30435271,"Keaton, Michael",2
-1254,Batman_1989,21011181,1989,30828925,"Tan, Philip",30114716,"Burton, Tim (I)",2
-1255,Batman_1989,21011181,1989,30828925,"Tan, Philip",30243631,"Elfman, Danny",2
-1256,Batman_1989,21011181,1989,30861594,"Uslan, Michael (V)",30114716,"Burton, Tim (I)",3
-1257,Batman_1989,21011181,1989,30861594,"Uslan, Michael (V)",30243631,"Elfman, Danny",2
-1258,Batman_1989,21011181,1989,30861594,"Uslan, Michael (V)",30320941,"Gough, Michael (I)",3
-1259,Batman_1989,21011181,1989,30861594,"Uslan, Michael (V)",30334403,"Guber, Peter",2
-1260,Batman_1989,21011181,1989,30861594,"Uslan, Michael (V)",30345601,"Hamm, Sam",2
-1261,Batman_1989,21011181,1989,30861594,"Uslan, Michael (V)",30375224,"Hingle, Pat",3
-1262,Batman_1989,21011181,1989,30861594,"Uslan, Michael (V)",30429003,"Kane, Bob (I)",3
-1263,Batman_1989,21011181,1989,30861594,"Uslan, Michael (V)",30435271,"Keaton, Michael",2
-1264,Batman_1989,21011181,1989,30861594,"Uslan, Michael (V)",30564616,"Melniker, Benjamin",3
-1265,Batman_1989,21011181,1989,30861594,"Uslan, Michael (V)",30659177,"Peters, Jon (I)",2
-1266,Cabin Boy_1994,21012581,1994,30114716,"Burton, Tim (I)",30214482,"Di Novi, Denise",6
-1267,Cabin Boy_1994,21012581,1994,30114716,"Burton, Tim (I)",30805549,"Starr, Mike (I)",3
-1268,Cabin Boy_1994,21012581,1994,30114716,"Burton, Tim (I)",30884312,"Walters, Melora",2
-1269,Cabin Boy_1994,21012581,1994,30214482,"Di Novi, Denise",30114716,"Burton, Tim (I)",6
-1270,Cabin Boy_1994,21012581,1994,30214482,"Di Novi, Denise",30805549,"Starr, Mike (I)",3
-1271,Cabin Boy_1994,21012581,1994,30214482,"Di Novi, Denise",30884312,"Walters, Melora",2
-1272,Cabin Boy_1994,21012581,1994,30805549,"Starr, Mike (I)",30114716,"Burton, Tim (I)",3
-1273,Cabin Boy_1994,21012581,1994,30805549,"Starr, Mike (I)",30214482,"Di Novi, Denise",3
-1274,Cabin Boy_1994,21012581,1994,30805549,"Starr, Mike (I)",30884312,"Walters, Melora",2
-1275,Cabin Boy_1994,21012581,1994,30884312,"Walters, Melora",30114716,"Burton, Tim (I)",2
-1276,Cabin Boy_1994,21012581,1994,30884312,"Walters, Melora",30214482,"Di Novi, Denise",2
-1277,Cabin Boy_1994,21012581,1994,30884312,"Walters, Melora",30805549,"Starr, Mike (I)",2
-1278,James and the Giant Peach_1996,21014006,1996,30114716,"Burton, Tim (I)",30188514,"Dahl, Roald",2
-1279,James and the Giant Peach_1996,21014006,1996,30114716,"Burton, Tim (I)",30214482,"Di Novi, Denise",6
-1280,James and the Giant Peach_1996,21014006,1996,30114716,"Burton, Tim (I)",30459639,"Kozachik, Pete",2
-1281,James and the Giant Peach_1996,21014006,1996,30114716,"Burton, Tim (I)",30511906,"Lumley, Joanna",2
-1282,James and the Giant Peach_1996,21014006,1996,30114716,"Burton, Tim (I)",30761674,"Selick, Henry",2
-1283,James and the Giant Peach_1996,21014006,1996,30114716,"Burton, Tim (I)",30805549,"Starr, Mike (I)",3
-1284,James and the Giant Peach_1996,21014006,1996,30114716,"Burton, Tim (I)",30891776,"Webb, Stan (I)",2
-1285,James and the Giant Peach_1996,21014006,1996,30188514,"Dahl, Roald",30114716,"Burton, Tim (I)",2
-1286,James and the Giant Peach_1996,21014006,1996,30214482,"Di Novi, Denise",30114716,"Burton, Tim (I)",6
-1287,James and the Giant Peach_1996,21014006,1996,30214482,"Di Novi, Denise",30761674,"Selick, Henry",2
-1288,James and the Giant Peach_1996,21014006,1996,30214482,"Di Novi, Denise",30805549,"Starr, Mike (I)",3
-1289,James and the Giant Peach_1996,21014006,1996,30214482,"Di Novi, Denise",30891776,"Webb, Stan (I)",2
-1290,James and the Giant Peach_1996,21014006,1996,30459639,"Kozachik, Pete",30114716,"Burton, Tim (I)",2
-1291,James and the Giant Peach_1996,21014006,1996,30459639,"Kozachik, Pete",30511906,"Lumley, Joanna",2
-1292,James and the Giant Peach_1996,21014006,1996,30511906,"Lumley, Joanna",30114716,"Burton, Tim (I)",2
-1293,James and the Giant Peach_1996,21014006,1996,30511906,"Lumley, Joanna",30459639,"Kozachik, Pete",2
-1294,James and the Giant Peach_1996,21014006,1996,30761674,"Selick, Henry",30214482,"Di Novi, Denise",2
-1295,James and the Giant Peach_1996,21014006,1996,30761674,"Selick, Henry",30891776,"Webb, Stan (I)",2
-1296,James and the Giant Peach_1996,21014006,1996,30805549,"Starr, Mike (I)",30114716,"Burton, Tim (I)",3
-1297,James and the Giant Peach_1996,21014006,1996,30805549,"Starr, Mike (I)",30214482,"Di Novi, Denise",3
-1298,James and the Giant Peach_1996,21014006,1996,30891776,"Webb, Stan (I)",30214482,"Di Novi, Denise",2
-1299,James and the Giant Peach_1996,21014006,1996,30891776,"Webb, Stan (I)",30761674,"Selick, Henry",2
-1300,Singles_1992,21014118,1992,30114716,"Burton, Tim (I)",30304562,"Giamatti, Paul",2
-1301,Singles_1992,21014118,1992,30114716,"Burton, Tim (I)",30304601,"Giammarco, Joan",2
-1302,Singles_1992,21014118,1992,30114716,"Burton, Tim (I)",30356721,"Hashimoto, Richard",3
-1303,Singles_1992,21014118,1992,30114716,"Burton, Tim (I)",30545712,"Mazar, Debi",2
-1304,Singles_1992,21014118,1992,30304562,"Giamatti, Paul",30114716,"Burton, Tim (I)",2
-1305,Singles_1992,21014118,1992,30304601,"Giammarco, Joan",30114716,"Burton, Tim (I)",2
-1306,Singles_1992,21014118,1992,30356721,"Hashimoto, Richard",30114716,"Burton, Tim (I)",3
-1307,Singles_1992,21014118,1992,30545712,"Mazar, Debi",30114716,"Burton, Tim (I)",2
-1308,The Nightmare Before Christmas_1993,21017470,1993,30114716,"Burton, Tim (I)",30214482,"Di Novi, Denise",6
-1309,The Nightmare Before Christmas_1993,21017470,1993,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
-1310,The Nightmare Before Christmas_1993,21017470,1993,30114716,"Burton, Tim (I)",30552643,"McDowell, Michael (I)",2
-1311,The Nightmare Before Christmas_1993,21017470,1993,30114716,"Burton, Tim (I)",30627117,"O'Hara, Catherine (I)",2
-1312,The Nightmare Before Christmas_1993,21017470,1993,30114716,"Burton, Tim (I)",30761674,"Selick, Henry",2
-1313,The Nightmare Before Christmas_1993,21017470,1993,30114716,"Burton, Tim (I)",30840372,"Thompson, Caroline (I)",3
-1314,The Nightmare Before Christmas_1993,21017470,1993,30114716,"Burton, Tim (I)",30891776,"Webb, Stan (I)",2
-1315,The Nightmare Before Christmas_1993,21017470,1993,30214482,"Di Novi, Denise",30114716,"Burton, Tim (I)",6
-1316,The Nightmare Before Christmas_1993,21017470,1993,30214482,"Di Novi, Denise",30243631,"Elfman, Danny",3
-1317,The Nightmare Before Christmas_1993,21017470,1993,30214482,"Di Novi, Denise",30761674,"Selick, Henry",2
-1318,The Nightmare Before Christmas_1993,21017470,1993,30214482,"Di Novi, Denise",30840372,"Thompson, Caroline (I)",2
-1319,The Nightmare Before Christmas_1993,21017470,1993,30214482,"Di Novi, Denise",30891776,"Webb, Stan (I)",2
-1320,The Nightmare Before Christmas_1993,21017470,1993,30243631,"Elfman, Danny",30114716,"Burton, Tim (I)",12
-1321,The Nightmare Before Christmas_1993,21017470,1993,30243631,"Elfman, Danny",30214482,"Di Novi, Denise",3
-1322,The Nightmare Before Christmas_1993,21017470,1993,30243631,"Elfman, Danny",30552643,"McDowell, Michael (I)",2
-1323,The Nightmare Before Christmas_1993,21017470,1993,30243631,"Elfman, Danny",30627117,"O'Hara, Catherine (I)",2
-1324,The Nightmare Before Christmas_1993,21017470,1993,30243631,"Elfman, Danny",30840372,"Thompson, Caroline (I)",3
-1325,The Nightmare Before Christmas_1993,21017470,1993,30552643,"McDowell, Michael (I)",30114716,"Burton, Tim (I)",2
-1326,The Nightmare Before Christmas_1993,21017470,1993,30552643,"McDowell, Michael (I)",30243631,"Elfman, Danny",2
-1327,The Nightmare Before Christmas_1993,21017470,1993,30552643,"McDowell, Michael (I)",30627117,"O'Hara, Catherine (I)",2
-1328,The Nightmare Before Christmas_1993,21017470,1993,30627117,"O'Hara, Catherine (I)",30114716,"Burton, Tim (I)",2
-1329,The Nightmare Before Christmas_1993,21017470,1993,30627117,"O'Hara, Catherine (I)",30243631,"Elfman, Danny",2
-1330,The Nightmare Before Christmas_1993,21017470,1993,30627117,"O'Hara, Catherine (I)",30552643,"McDowell, Michael (I)",2
-1331,The Nightmare Before Christmas_1993,21017470,1993,30761674,"Selick, Henry",30214482,"Di Novi, Denise",2
-1332,The Nightmare Before Christmas_1993,21017470,1993,30761674,"Selick, Henry",30891776,"Webb, Stan (I)",2
-1333,The Nightmare Before Christmas_1993,21017470,1993,30840372,"Thompson, Caroline (I)",30114716,"Burton, Tim (I)",3
-1334,The Nightmare Before Christmas_1993,21017470,1993,30840372,"Thompson, Caroline (I)",30214482,"Di Novi, Denise",2
-1335,The Nightmare Before Christmas_1993,21017470,1993,30840372,"Thompson, Caroline (I)",30243631,"Elfman, Danny",3
-1336,The Nightmare Before Christmas_1993,21017470,1993,30891776,"Webb, Stan (I)",30214482,"Di Novi, Denise",2
-1337,The Nightmare Before Christmas_1993,21017470,1993,30891776,"Webb, Stan (I)",30761674,"Selick, Henry",2
+6,Corpse Bride_2005,21000268,2005,30083861,"Bonham Carter, Helena",30114716,"Burton, Tim (I)",4
+7,Corpse Bride_2005,21000268,2005,30083861,"Bonham Carter, Helena",30243631,"Elfman, Danny",4
+8,Corpse Bride_2005,21000268,2005,30083861,"Bonham Carter, Helena",30284905,"Frey, Derek",2
+9,Corpse Bride_2005,21000268,2005,30083861,"Bonham Carter, Helena",30481927,"Lebenzon, Chris",4
+10,Corpse Bride_2005,21000268,2005,30083861,"Bonham Carter, Helena",30552567,"McDowell, Alex (I)",2
+11,Corpse Bride_2005,21000268,2005,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
+12,Corpse Bride_2005,21000268,2005,30114716,"Burton, Tim (I)",30284905,"Frey, Derek",2
+13,Corpse Bride_2005,21000268,2005,30114716,"Burton, Tim (I)",30459639,"Kozachik, Pete",2
+14,Corpse Bride_2005,21000268,2005,30114716,"Burton, Tim (I)",30481927,"Lebenzon, Chris",8
+15,Corpse Bride_2005,21000268,2005,30114716,"Burton, Tim (I)",30511906,"Lumley, Joanna",2
+16,Corpse Bride_2005,21000268,2005,30114716,"Burton, Tim (I)",30552567,"McDowell, Alex (I)",2
+17,Corpse Bride_2005,21000268,2005,30114716,"Burton, Tim (I)",30840372,"Thompson, Caroline (I)",3
+18,Corpse Bride_2005,21000268,2005,30243631,"Elfman, Danny",30284905,"Frey, Derek",2
+19,Corpse Bride_2005,21000268,2005,30243631,"Elfman, Danny",30481927,"Lebenzon, Chris",7
+20,Corpse Bride_2005,21000268,2005,30243631,"Elfman, Danny",30552567,"McDowell, Alex (I)",2
+21,Corpse Bride_2005,21000268,2005,30243631,"Elfman, Danny",30840372,"Thompson, Caroline (I)",3
+22,Corpse Bride_2005,21000268,2005,30284905,"Frey, Derek",30481927,"Lebenzon, Chris",2
+23,Corpse Bride_2005,21000268,2005,30284905,"Frey, Derek",30552567,"McDowell, Alex (I)",2
+24,Corpse Bride_2005,21000268,2005,30459639,"Kozachik, Pete",30511906,"Lumley, Joanna",2
+25,Corpse Bride_2005,21000268,2005,30481927,"Lebenzon, Chris",30552567,"McDowell, Alex (I)",2
+26,Pee-wee's Big Adventure_1985,21001006,1985,30088594,"Bow, Simmy",30114716,"Burton, Tim (I)",2
+27,Pee-wee's Big Adventure_1985,21001006,1985,30088594,"Bow, Simmy",30243631,"Elfman, Danny",2
+28,Pee-wee's Big Adventure_1985,21001006,1985,30088594,"Bow, Simmy",30266601,"Filpi, Carmen",2
+29,Pee-wee's Big Adventure_1985,21001006,1985,30114716,"Burton, Tim (I)",30193322,Darla (II),2
+30,Pee-wee's Big Adventure_1985,21001006,1985,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
+31,Pee-wee's Big Adventure_1985,21001006,1985,30114716,"Burton, Tim (I)",30266601,"Filpi, Carmen",3
+32,Pee-wee's Big Adventure_1985,21001006,1985,30114716,"Burton, Tim (I)",30383381,"Hooks, Jan",2
+33,Pee-wee's Big Adventure_1985,21001006,1985,30114716,"Burton, Tim (I)",30700467,"Reubens, Paul",2
+34,Pee-wee's Big Adventure_1985,21001006,1985,30114716,"Burton, Tim (I)",30738831,"Salinger, Diane",2
+35,Pee-wee's Big Adventure_1985,21001006,1985,30193322,Darla (II),30243631,"Elfman, Danny",2
+36,Pee-wee's Big Adventure_1985,21001006,1985,30193322,Darla (II),30383381,"Hooks, Jan",2
+37,Pee-wee's Big Adventure_1985,21001006,1985,30193322,Darla (II),30700467,"Reubens, Paul",2
+38,Pee-wee's Big Adventure_1985,21001006,1985,30193322,Darla (II),30738831,"Salinger, Diane",2
+39,Pee-wee's Big Adventure_1985,21001006,1985,30243631,"Elfman, Danny",30266601,"Filpi, Carmen",2
+40,Pee-wee's Big Adventure_1985,21001006,1985,30243631,"Elfman, Danny",30383381,"Hooks, Jan",2
+41,Pee-wee's Big Adventure_1985,21001006,1985,30243631,"Elfman, Danny",30700467,"Reubens, Paul",2
+42,Pee-wee's Big Adventure_1985,21001006,1985,30243631,"Elfman, Danny",30738831,"Salinger, Diane",2
+43,Pee-wee's Big Adventure_1985,21001006,1985,30383381,"Hooks, Jan",30700467,"Reubens, Paul",2
+44,Pee-wee's Big Adventure_1985,21001006,1985,30383381,"Hooks, Jan",30738831,"Salinger, Diane",2
+45,Pee-wee's Big Adventure_1985,21001006,1985,30700467,"Reubens, Paul",30738831,"Salinger, Diane",2
+46,Beetlejuice_1988,21001308,1988,30088594,"Bow, Simmy",30114716,"Burton, Tim (I)",2
+47,Beetlejuice_1988,21001308,1988,30088594,"Bow, Simmy",30243631,"Elfman, Danny",2
+48,Beetlejuice_1988,21001308,1988,30088594,"Bow, Simmy",30266601,"Filpi, Carmen",2
+49,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
+50,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30266601,"Filpi, Carmen",3
+51,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30356721,"Hashimoto, Richard",3
+52,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30420536,"Jones, Jeffrey (I)",3
+53,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30435271,"Keaton, Michael",3
+54,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30552643,"McDowell, Michael (I)",2
+55,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30627117,"O'Hara, Catherine (I)",2
+56,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30734668,"Ryder, Winona",2
+57,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30764994,"Shadix, Glenn",2
+58,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30775989,"Sidney, Sylvia (I)",2
+59,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30783008,"Skaaren, Warren",2
+60,Beetlejuice_1988,21001308,1988,30114716,"Burton, Tim (I)",30895051,"Welch, Bo",3
+61,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30266601,"Filpi, Carmen",2
+62,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30356721,"Hashimoto, Richard",2
+63,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30420536,"Jones, Jeffrey (I)",2
+64,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30435271,"Keaton, Michael",3
+65,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30552643,"McDowell, Michael (I)",2
+66,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30627117,"O'Hara, Catherine (I)",2
+67,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30734668,"Ryder, Winona",2
+68,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30764994,"Shadix, Glenn",2
+69,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30775989,"Sidney, Sylvia (I)",2
+70,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30783008,"Skaaren, Warren",2
+71,Beetlejuice_1988,21001308,1988,30243631,"Elfman, Danny",30895051,"Welch, Bo",3
+72,Beetlejuice_1988,21001308,1988,30266601,"Filpi, Carmen",30420536,"Jones, Jeffrey (I)",2
+73,Beetlejuice_1988,21001308,1988,30356721,"Hashimoto, Richard",30734668,"Ryder, Winona",2
+74,Beetlejuice_1988,21001308,1988,30356721,"Hashimoto, Richard",30895051,"Welch, Bo",2
+75,Beetlejuice_1988,21001308,1988,30435271,"Keaton, Michael",30783008,"Skaaren, Warren",2
+76,Beetlejuice_1988,21001308,1988,30435271,"Keaton, Michael",30895051,"Welch, Bo",2
+77,Beetlejuice_1988,21001308,1988,30552643,"McDowell, Michael (I)",30627117,"O'Hara, Catherine (I)",2
+78,Beetlejuice_1988,21001308,1988,30734668,"Ryder, Winona",30895051,"Welch, Bo",2
+79,Planet of the Apes_2001,21001876,2001,30083861,"Bonham Carter, Helena",30114716,"Burton, Tim (I)",4
+80,Planet of the Apes_2001,21001876,2001,30083861,"Bonham Carter, Helena",30243631,"Elfman, Danny",4
+81,Planet of the Apes_2001,21001876,2001,30083861,"Bonham Carter, Helena",30282593,"Frauenfelder, Katterli",3
+82,Planet of the Apes_2001,21001876,2001,30083861,"Bonham Carter, Helena",30481927,"Lebenzon, Chris",4
+83,Planet of the Apes_2001,21001876,2001,30083861,"Bonham Carter, Helena",30727445,"Rousselot, Philippe",3
+84,Planet of the Apes_2001,21001876,2001,30083861,"Bonham Carter, Helena",30728300,"Roy, Deep",3
+85,Planet of the Apes_2001,21001876,2001,30083861,"Bonham Carter, Helena",30932653,"Zanuck, Richard D.",3
+86,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
+87,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30282593,"Frauenfelder, Katterli",3
+88,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30304562,"Giamatti, Paul",2
+89,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30329866,"Grevioux, Kevin",2
+90,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30363542,"Heinrichs, Rick",2
+91,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30481927,"Lebenzon, Chris",8
+92,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30530473,"Marie, Lisa (I)",4
+93,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30727445,"Rousselot, Philippe",3
+94,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30728300,"Roy, Deep",3
+95,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30764994,"Shadix, Glenn",2
+96,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30828925,"Tan, Philip",2
+97,Planet of the Apes_2001,21001876,2001,30114716,"Burton, Tim (I)",30932653,"Zanuck, Richard D.",3
+98,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30282593,"Frauenfelder, Katterli",3
+99,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30363542,"Heinrichs, Rick",2
+100,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30481927,"Lebenzon, Chris",7
+101,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30530473,"Marie, Lisa (I)",3
+102,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30727445,"Rousselot, Philippe",3
+103,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30728300,"Roy, Deep",3
+104,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30764994,"Shadix, Glenn",2
+105,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30828925,"Tan, Philip",2
+106,Planet of the Apes_2001,21001876,2001,30243631,"Elfman, Danny",30932653,"Zanuck, Richard D.",3
+107,Planet of the Apes_2001,21001876,2001,30282593,"Frauenfelder, Katterli",30481927,"Lebenzon, Chris",3
+108,Planet of the Apes_2001,21001876,2001,30282593,"Frauenfelder, Katterli",30727445,"Rousselot, Philippe",3
+109,Planet of the Apes_2001,21001876,2001,30282593,"Frauenfelder, Katterli",30728300,"Roy, Deep",3
+110,Planet of the Apes_2001,21001876,2001,30282593,"Frauenfelder, Katterli",30932653,"Zanuck, Richard D.",3
+111,Planet of the Apes_2001,21001876,2001,30363542,"Heinrichs, Rick",30481927,"Lebenzon, Chris",2
+112,Planet of the Apes_2001,21001876,2001,30363542,"Heinrichs, Rick",30530473,"Marie, Lisa (I)",2
+113,Planet of the Apes_2001,21001876,2001,30481927,"Lebenzon, Chris",30530473,"Marie, Lisa (I)",4
+114,Planet of the Apes_2001,21001876,2001,30481927,"Lebenzon, Chris",30727445,"Rousselot, Philippe",3
+115,Planet of the Apes_2001,21001876,2001,30481927,"Lebenzon, Chris",30728300,"Roy, Deep",3
+116,Planet of the Apes_2001,21001876,2001,30481927,"Lebenzon, Chris",30932653,"Zanuck, Richard D.",3
+117,Planet of the Apes_2001,21001876,2001,30727445,"Rousselot, Philippe",30728300,"Roy, Deep",3
+118,Planet of the Apes_2001,21001876,2001,30727445,"Rousselot, Philippe",30932653,"Zanuck, Richard D.",3
+119,Planet of the Apes_2001,21001876,2001,30728300,"Roy, Deep",30932653,"Zanuck, Richard D.",3
+120,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30083861,"Bonham Carter, Helena",3
+121,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30114716,"Burton, Tim (I)",3
+122,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30243631,"Elfman, Danny",3
+123,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30282593,"Frauenfelder, Katterli",2
+124,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30481927,"Lebenzon, Chris",3
+125,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30682325,"Pyle, Missi",2
+126,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30727445,"Rousselot, Philippe",2
+127,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30728300,"Roy, Deep",2
+128,Big Fish_2003,21004171,2003,30033839,"August, John (I)",30932653,"Zanuck, Richard D.",2
+129,Big Fish_2003,21004171,2003,30083861,"Bonham Carter, Helena",30114716,"Burton, Tim (I)",4
+130,Big Fish_2003,21004171,2003,30083861,"Bonham Carter, Helena",30243631,"Elfman, Danny",4
+131,Big Fish_2003,21004171,2003,30083861,"Bonham Carter, Helena",30282593,"Frauenfelder, Katterli",3
+132,Big Fish_2003,21004171,2003,30083861,"Bonham Carter, Helena",30481927,"Lebenzon, Chris",4
+133,Big Fish_2003,21004171,2003,30083861,"Bonham Carter, Helena",30682325,"Pyle, Missi",2
+134,Big Fish_2003,21004171,2003,30083861,"Bonham Carter, Helena",30727445,"Rousselot, Philippe",3
+135,Big Fish_2003,21004171,2003,30083861,"Bonham Carter, Helena",30728300,"Roy, Deep",3
+136,Big Fish_2003,21004171,2003,30083861,"Bonham Carter, Helena",30932653,"Zanuck, Richard D.",3
+137,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30213196,"DeVito, Danny",4
+138,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
+139,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30282593,"Frauenfelder, Katterli",3
+140,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30481927,"Lebenzon, Chris",8
+141,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30682325,"Pyle, Missi",2
+142,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30727445,"Rousselot, Philippe",3
+143,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30728300,"Roy, Deep",3
+144,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30827397,"Tai, Ada",2
+145,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30827398,"Tai, Arlene",2
+146,Big Fish_2003,21004171,2003,30114716,"Burton, Tim (I)",30932653,"Zanuck, Richard D.",3
+147,Big Fish_2003,21004171,2003,30213196,"DeVito, Danny",30243631,"Elfman, Danny",3
+148,Big Fish_2003,21004171,2003,30213196,"DeVito, Danny",30481927,"Lebenzon, Chris",3
+149,Big Fish_2003,21004171,2003,30243631,"Elfman, Danny",30282593,"Frauenfelder, Katterli",3
+150,Big Fish_2003,21004171,2003,30243631,"Elfman, Danny",30481927,"Lebenzon, Chris",7
+151,Big Fish_2003,21004171,2003,30243631,"Elfman, Danny",30682325,"Pyle, Missi",2
+152,Big Fish_2003,21004171,2003,30243631,"Elfman, Danny",30727445,"Rousselot, Philippe",3
+153,Big Fish_2003,21004171,2003,30243631,"Elfman, Danny",30728300,"Roy, Deep",3
+154,Big Fish_2003,21004171,2003,30243631,"Elfman, Danny",30932653,"Zanuck, Richard D.",3
+155,Big Fish_2003,21004171,2003,30282593,"Frauenfelder, Katterli",30481927,"Lebenzon, Chris",3
+156,Big Fish_2003,21004171,2003,30282593,"Frauenfelder, Katterli",30682325,"Pyle, Missi",2
+157,Big Fish_2003,21004171,2003,30282593,"Frauenfelder, Katterli",30727445,"Rousselot, Philippe",3
+158,Big Fish_2003,21004171,2003,30282593,"Frauenfelder, Katterli",30728300,"Roy, Deep",3
+159,Big Fish_2003,21004171,2003,30282593,"Frauenfelder, Katterli",30932653,"Zanuck, Richard D.",3
+160,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30682325,"Pyle, Missi",2
+161,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30727445,"Rousselot, Philippe",3
+162,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30728300,"Roy, Deep",3
+163,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30827397,"Tai, Ada",2
+164,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30827398,"Tai, Arlene",2
+165,Big Fish_2003,21004171,2003,30481927,"Lebenzon, Chris",30932653,"Zanuck, Richard D.",3
+166,Big Fish_2003,21004171,2003,30682325,"Pyle, Missi",30727445,"Rousselot, Philippe",2
+167,Big Fish_2003,21004171,2003,30682325,"Pyle, Missi",30728300,"Roy, Deep",2
+168,Big Fish_2003,21004171,2003,30682325,"Pyle, Missi",30932653,"Zanuck, Richard D.",2
+169,Big Fish_2003,21004171,2003,30727445,"Rousselot, Philippe",30728300,"Roy, Deep",3
+170,Big Fish_2003,21004171,2003,30727445,"Rousselot, Philippe",30932653,"Zanuck, Richard D.",3
+171,Big Fish_2003,21004171,2003,30728300,"Roy, Deep",30932653,"Zanuck, Richard D.",3
+172,Big Fish_2003,21004171,2003,30827397,"Tai, Ada",30827398,"Tai, Arlene",2
+173,Ed Wood_1994,21004201,1994,30044414,"Banks, Lena",30114716,"Burton, Tim (I)",2
+174,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30115210,"Bush, Tommy (I)",2
+175,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30187389,"Czapsky, Stefan",3
+176,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30210840,"Depp, Johnny",4
+177,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30214482,"Di Novi, Denise",6
+178,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30228865,"Drescher, Adam (I)",2
+179,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30266601,"Filpi, Carmen",3
+180,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30387714,"Howard, Rance",2
+181,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30420536,"Jones, Jeffrey (I)",3
+182,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30471448,"Landau, Martin",2
+183,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30481927,"Lebenzon, Chris",8
+184,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30530473,"Marie, Lisa (I)",4
+185,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30645369,"Parker, Sarah Jessica",2
+186,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30805549,"Starr, Mike (I)",3
+187,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30827397,"Tai, Ada",2
+188,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30827398,"Tai, Arlene",2
+189,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30884312,"Walters, Melora",2
+190,Ed Wood_1994,21004201,1994,30114716,"Burton, Tim (I)",30926784,"Yeager, Biff (I)",3
+191,Ed Wood_1994,21004201,1994,30115210,"Bush, Tommy (I)",30387714,"Howard, Rance",2
+192,Ed Wood_1994,21004201,1994,30115210,"Bush, Tommy (I)",30481927,"Lebenzon, Chris",2
+193,Ed Wood_1994,21004201,1994,30115210,"Bush, Tommy (I)",30530473,"Marie, Lisa (I)",2
+194,Ed Wood_1994,21004201,1994,30115210,"Bush, Tommy (I)",30645369,"Parker, Sarah Jessica",2
+195,Ed Wood_1994,21004201,1994,30187389,"Czapsky, Stefan",30210840,"Depp, Johnny",2
+196,Ed Wood_1994,21004201,1994,30187389,"Czapsky, Stefan",30214482,"Di Novi, Denise",3
+197,Ed Wood_1994,21004201,1994,30187389,"Czapsky, Stefan",30228865,"Drescher, Adam (I)",2
+198,Ed Wood_1994,21004201,1994,30187389,"Czapsky, Stefan",30481927,"Lebenzon, Chris",2
+199,Ed Wood_1994,21004201,1994,30187389,"Czapsky, Stefan",30926784,"Yeager, Biff (I)",3
+200,Ed Wood_1994,21004201,1994,30210840,"Depp, Johnny",30214482,"Di Novi, Denise",2
+201,Ed Wood_1994,21004201,1994,30210840,"Depp, Johnny",30420536,"Jones, Jeffrey (I)",2
+202,Ed Wood_1994,21004201,1994,30210840,"Depp, Johnny",30471448,"Landau, Martin",2
+203,Ed Wood_1994,21004201,1994,30210840,"Depp, Johnny",30481927,"Lebenzon, Chris",3
+204,Ed Wood_1994,21004201,1994,30210840,"Depp, Johnny",30530473,"Marie, Lisa (I)",2
+205,Ed Wood_1994,21004201,1994,30210840,"Depp, Johnny",30926784,"Yeager, Biff (I)",2
+206,Ed Wood_1994,21004201,1994,30214482,"Di Novi, Denise",30228865,"Drescher, Adam (I)",2
+207,Ed Wood_1994,21004201,1994,30214482,"Di Novi, Denise",30481927,"Lebenzon, Chris",2
+208,Ed Wood_1994,21004201,1994,30214482,"Di Novi, Denise",30805549,"Starr, Mike (I)",3
+209,Ed Wood_1994,21004201,1994,30214482,"Di Novi, Denise",30884312,"Walters, Melora",2
+210,Ed Wood_1994,21004201,1994,30214482,"Di Novi, Denise",30926784,"Yeager, Biff (I)",3
+211,Ed Wood_1994,21004201,1994,30228865,"Drescher, Adam (I)",30481927,"Lebenzon, Chris",2
+212,Ed Wood_1994,21004201,1994,30228865,"Drescher, Adam (I)",30926784,"Yeager, Biff (I)",2
+213,Ed Wood_1994,21004201,1994,30266601,"Filpi, Carmen",30420536,"Jones, Jeffrey (I)",2
+214,Ed Wood_1994,21004201,1994,30387714,"Howard, Rance",30481927,"Lebenzon, Chris",2
+215,Ed Wood_1994,21004201,1994,30387714,"Howard, Rance",30530473,"Marie, Lisa (I)",2
+216,Ed Wood_1994,21004201,1994,30387714,"Howard, Rance",30645369,"Parker, Sarah Jessica",2
+217,Ed Wood_1994,21004201,1994,30420536,"Jones, Jeffrey (I)",30471448,"Landau, Martin",2
+218,Ed Wood_1994,21004201,1994,30420536,"Jones, Jeffrey (I)",30481927,"Lebenzon, Chris",2
+219,Ed Wood_1994,21004201,1994,30420536,"Jones, Jeffrey (I)",30530473,"Marie, Lisa (I)",2
+220,Ed Wood_1994,21004201,1994,30471448,"Landau, Martin",30481927,"Lebenzon, Chris",2
+221,Ed Wood_1994,21004201,1994,30471448,"Landau, Martin",30530473,"Marie, Lisa (I)",2
+222,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30530473,"Marie, Lisa (I)",4
+223,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30645369,"Parker, Sarah Jessica",2
+224,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30827397,"Tai, Ada",2
+225,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30827398,"Tai, Arlene",2
+226,Ed Wood_1994,21004201,1994,30481927,"Lebenzon, Chris",30926784,"Yeager, Biff (I)",2
+227,Ed Wood_1994,21004201,1994,30530473,"Marie, Lisa (I)",30645369,"Parker, Sarah Jessica",2
+228,Ed Wood_1994,21004201,1994,30805549,"Starr, Mike (I)",30884312,"Walters, Melora",2
+229,Ed Wood_1994,21004201,1994,30827397,"Tai, Ada",30827398,"Tai, Arlene",2
+230,Edward Scissorhands_1990,21004410,1990,30098032,"Brill, Steven (I)",30114716,"Burton, Tim (I)",2
+231,Edward Scissorhands_1990,21004410,1990,30098032,"Brill, Steven (I)",30187389,"Czapsky, Stefan",2
+232,Edward Scissorhands_1990,21004410,1990,30098032,"Brill, Steven (I)",30214482,"Di Novi, Denise",2
+233,Edward Scissorhands_1990,21004410,1990,30098032,"Brill, Steven (I)",30243631,"Elfman, Danny",2
+234,Edward Scissorhands_1990,21004410,1990,30098032,"Brill, Steven (I)",30471205,"Lancaster, Stuart (I)",2
+235,Edward Scissorhands_1990,21004410,1990,30098032,"Brill, Steven (I)",30895051,"Welch, Bo",2
+236,Edward Scissorhands_1990,21004410,1990,30098032,"Brill, Steven (I)",30926784,"Yeager, Biff (I)",2
+237,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30187389,"Czapsky, Stefan",3
+238,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30210840,"Depp, Johnny",4
+239,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30214482,"Di Novi, Denise",6
+240,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
+241,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30356721,"Hashimoto, Richard",3
+242,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30421463,"Jones, O-Lan",2
+243,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30471205,"Lancaster, Stuart (I)",2
+244,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30734668,"Ryder, Winona",2
+245,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30840372,"Thompson, Caroline (I)",3
+246,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30895051,"Welch, Bo",3
+247,Edward Scissorhands_1990,21004410,1990,30114716,"Burton, Tim (I)",30926784,"Yeager, Biff (I)",3
+248,Edward Scissorhands_1990,21004410,1990,30187389,"Czapsky, Stefan",30210840,"Depp, Johnny",2
+249,Edward Scissorhands_1990,21004410,1990,30187389,"Czapsky, Stefan",30214482,"Di Novi, Denise",3
+250,Edward Scissorhands_1990,21004410,1990,30187389,"Czapsky, Stefan",30243631,"Elfman, Danny",2
+251,Edward Scissorhands_1990,21004410,1990,30187389,"Czapsky, Stefan",30471205,"Lancaster, Stuart (I)",2
+252,Edward Scissorhands_1990,21004410,1990,30187389,"Czapsky, Stefan",30895051,"Welch, Bo",2
+253,Edward Scissorhands_1990,21004410,1990,30187389,"Czapsky, Stefan",30926784,"Yeager, Biff (I)",3
+254,Edward Scissorhands_1990,21004410,1990,30210840,"Depp, Johnny",30214482,"Di Novi, Denise",2
+255,Edward Scissorhands_1990,21004410,1990,30210840,"Depp, Johnny",30243631,"Elfman, Danny",3
+256,Edward Scissorhands_1990,21004410,1990,30210840,"Depp, Johnny",30926784,"Yeager, Biff (I)",2
+257,Edward Scissorhands_1990,21004410,1990,30214482,"Di Novi, Denise",30243631,"Elfman, Danny",3
+258,Edward Scissorhands_1990,21004410,1990,30214482,"Di Novi, Denise",30471205,"Lancaster, Stuart (I)",2
+259,Edward Scissorhands_1990,21004410,1990,30214482,"Di Novi, Denise",30840372,"Thompson, Caroline (I)",2
+260,Edward Scissorhands_1990,21004410,1990,30214482,"Di Novi, Denise",30895051,"Welch, Bo",2
+261,Edward Scissorhands_1990,21004410,1990,30214482,"Di Novi, Denise",30926784,"Yeager, Biff (I)",3
+262,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30356721,"Hashimoto, Richard",2
+263,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30421463,"Jones, O-Lan",2
+264,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30471205,"Lancaster, Stuart (I)",2
+265,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30734668,"Ryder, Winona",2
+266,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30840372,"Thompson, Caroline (I)",3
+267,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30895051,"Welch, Bo",3
+268,Edward Scissorhands_1990,21004410,1990,30243631,"Elfman, Danny",30926784,"Yeager, Biff (I)",2
+269,Edward Scissorhands_1990,21004410,1990,30356721,"Hashimoto, Richard",30734668,"Ryder, Winona",2
+270,Edward Scissorhands_1990,21004410,1990,30356721,"Hashimoto, Richard",30895051,"Welch, Bo",2
+271,Edward Scissorhands_1990,21004410,1990,30471205,"Lancaster, Stuart (I)",30895051,"Welch, Bo",2
+272,Edward Scissorhands_1990,21004410,1990,30471205,"Lancaster, Stuart (I)",30926784,"Yeager, Biff (I)",2
+273,Edward Scissorhands_1990,21004410,1990,30734668,"Ryder, Winona",30895051,"Welch, Bo",2
+274,Edward Scissorhands_1990,21004410,1990,30895051,"Welch, Bo",30926784,"Yeager, Biff (I)",2
+275,Hoffa_1992,21006120,1992,30044414,"Banks, Lena",30114716,"Burton, Tim (I)",2
+276,Hoffa_1992,21006120,1992,30114716,"Burton, Tim (I)",30213196,"DeVito, Danny",4
+277,Hoffa_1992,21006120,1992,30114716,"Burton, Tim (I)",30259891,"Favreau, Jon",2
+278,Hoffa_1992,21006120,1992,30114716,"Burton, Tim (I)",30615205,"Nicholson, Jack (I)",3
+279,Hoffa_1992,21006120,1992,30114716,"Burton, Tim (I)",30916412,"Witting, Steve",2
+280,Hoffa_1992,21006120,1992,30213196,"DeVito, Danny",30615205,"Nicholson, Jack (I)",2
+281,Hoffa_1992,21006120,1992,30213196,"DeVito, Danny",30916412,"Witting, Steve",2
+282,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30115210,"Bush, Tommy (I)",2
+283,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30213196,"DeVito, Danny",4
+284,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
+285,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30280931,"Franco, Larry J.",3
+286,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30387714,"Howard, Rance",2
+287,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30421463,"Jones, O-Lan",2
+288,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30481927,"Lebenzon, Chris",8
+289,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30530473,"Marie, Lisa (I)",4
+290,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30615205,"Nicholson, Jack (I)",3
+291,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30645369,"Parker, Sarah Jessica",2
+292,Mars Attacks!_1996,21008546,1996,30114716,"Burton, Tim (I)",30775989,"Sidney, Sylvia (I)",2
+293,Mars Attacks!_1996,21008546,1996,30115210,"Bush, Tommy (I)",30387714,"Howard, Rance",2
+294,Mars Attacks!_1996,21008546,1996,30115210,"Bush, Tommy (I)",30481927,"Lebenzon, Chris",2
+295,Mars Attacks!_1996,21008546,1996,30115210,"Bush, Tommy (I)",30530473,"Marie, Lisa (I)",2
+296,Mars Attacks!_1996,21008546,1996,30115210,"Bush, Tommy (I)",30645369,"Parker, Sarah Jessica",2
+297,Mars Attacks!_1996,21008546,1996,30213196,"DeVito, Danny",30243631,"Elfman, Danny",3
+298,Mars Attacks!_1996,21008546,1996,30213196,"DeVito, Danny",30280931,"Franco, Larry J.",2
+299,Mars Attacks!_1996,21008546,1996,30213196,"DeVito, Danny",30481927,"Lebenzon, Chris",3
+300,Mars Attacks!_1996,21008546,1996,30213196,"DeVito, Danny",30615205,"Nicholson, Jack (I)",2
+301,Mars Attacks!_1996,21008546,1996,30243631,"Elfman, Danny",30280931,"Franco, Larry J.",3
+302,Mars Attacks!_1996,21008546,1996,30243631,"Elfman, Danny",30421463,"Jones, O-Lan",2
+303,Mars Attacks!_1996,21008546,1996,30243631,"Elfman, Danny",30481927,"Lebenzon, Chris",7
+304,Mars Attacks!_1996,21008546,1996,30243631,"Elfman, Danny",30530473,"Marie, Lisa (I)",3
+305,Mars Attacks!_1996,21008546,1996,30243631,"Elfman, Danny",30615205,"Nicholson, Jack (I)",2
+306,Mars Attacks!_1996,21008546,1996,30243631,"Elfman, Danny",30775989,"Sidney, Sylvia (I)",2
+307,Mars Attacks!_1996,21008546,1996,30280931,"Franco, Larry J.",30481927,"Lebenzon, Chris",3
+308,Mars Attacks!_1996,21008546,1996,30280931,"Franco, Larry J.",30530473,"Marie, Lisa (I)",2
+309,Mars Attacks!_1996,21008546,1996,30387714,"Howard, Rance",30481927,"Lebenzon, Chris",2
+310,Mars Attacks!_1996,21008546,1996,30387714,"Howard, Rance",30530473,"Marie, Lisa (I)",2
+311,Mars Attacks!_1996,21008546,1996,30387714,"Howard, Rance",30645369,"Parker, Sarah Jessica",2
+312,Mars Attacks!_1996,21008546,1996,30481927,"Lebenzon, Chris",30530473,"Marie, Lisa (I)",4
+313,Mars Attacks!_1996,21008546,1996,30481927,"Lebenzon, Chris",30645369,"Parker, Sarah Jessica",2
+314,Mars Attacks!_1996,21008546,1996,30530473,"Marie, Lisa (I)",30645369,"Parker, Sarah Jessica",2
+315,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30210840,"Depp, Johnny",4
+316,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
+317,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30280931,"Franco, Larry J.",3
+318,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30320941,"Gough, Michael (I)",4
+319,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30363542,"Heinrichs, Rick",2
+320,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30420536,"Jones, Jeffrey (I)",3
+321,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30471448,"Landau, Martin",2
+322,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30481927,"Lebenzon, Chris",8
+323,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30483213,"Lee, Christopher (I)",2
+324,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30530473,"Marie, Lisa (I)",4
+325,Sleepy Hollow_1999,21008750,1999,30114716,"Burton, Tim (I)",30880655,"Walken, Christopher",2
+326,Sleepy Hollow_1999,21008750,1999,30210840,"Depp, Johnny",30243631,"Elfman, Danny",3
+327,Sleepy Hollow_1999,21008750,1999,30210840,"Depp, Johnny",30420536,"Jones, Jeffrey (I)",2
+328,Sleepy Hollow_1999,21008750,1999,30210840,"Depp, Johnny",30471448,"Landau, Martin",2
+329,Sleepy Hollow_1999,21008750,1999,30210840,"Depp, Johnny",30481927,"Lebenzon, Chris",3
+330,Sleepy Hollow_1999,21008750,1999,30210840,"Depp, Johnny",30483213,"Lee, Christopher (I)",2
+331,Sleepy Hollow_1999,21008750,1999,30210840,"Depp, Johnny",30530473,"Marie, Lisa (I)",2
+332,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30280931,"Franco, Larry J.",3
+333,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30320941,"Gough, Michael (I)",3
+334,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30363542,"Heinrichs, Rick",2
+335,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30420536,"Jones, Jeffrey (I)",2
+336,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30481927,"Lebenzon, Chris",7
+337,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30483213,"Lee, Christopher (I)",2
+338,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30530473,"Marie, Lisa (I)",3
+339,Sleepy Hollow_1999,21008750,1999,30243631,"Elfman, Danny",30880655,"Walken, Christopher",2
+340,Sleepy Hollow_1999,21008750,1999,30280931,"Franco, Larry J.",30320941,"Gough, Michael (I)",2
+341,Sleepy Hollow_1999,21008750,1999,30280931,"Franco, Larry J.",30481927,"Lebenzon, Chris",3
+342,Sleepy Hollow_1999,21008750,1999,30280931,"Franco, Larry J.",30530473,"Marie, Lisa (I)",2
+343,Sleepy Hollow_1999,21008750,1999,30280931,"Franco, Larry J.",30880655,"Walken, Christopher",2
+344,Sleepy Hollow_1999,21008750,1999,30320941,"Gough, Michael (I)",30481927,"Lebenzon, Chris",2
+345,Sleepy Hollow_1999,21008750,1999,30320941,"Gough, Michael (I)",30880655,"Walken, Christopher",2
+346,Sleepy Hollow_1999,21008750,1999,30363542,"Heinrichs, Rick",30481927,"Lebenzon, Chris",2
+347,Sleepy Hollow_1999,21008750,1999,30363542,"Heinrichs, Rick",30530473,"Marie, Lisa (I)",2
+348,Sleepy Hollow_1999,21008750,1999,30420536,"Jones, Jeffrey (I)",30471448,"Landau, Martin",2
+349,Sleepy Hollow_1999,21008750,1999,30420536,"Jones, Jeffrey (I)",30481927,"Lebenzon, Chris",2
+350,Sleepy Hollow_1999,21008750,1999,30420536,"Jones, Jeffrey (I)",30530473,"Marie, Lisa (I)",2
+351,Sleepy Hollow_1999,21008750,1999,30471448,"Landau, Martin",30481927,"Lebenzon, Chris",2
+352,Sleepy Hollow_1999,21008750,1999,30471448,"Landau, Martin",30530473,"Marie, Lisa (I)",2
+353,Sleepy Hollow_1999,21008750,1999,30481927,"Lebenzon, Chris",30483213,"Lee, Christopher (I)",2
+354,Sleepy Hollow_1999,21008750,1999,30481927,"Lebenzon, Chris",30530473,"Marie, Lisa (I)",4
+355,Sleepy Hollow_1999,21008750,1999,30481927,"Lebenzon, Chris",30880655,"Walken, Christopher",2
+356,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30259891,"Favreau, Jon",2
+357,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30320941,"Gough, Michael (I)",4
+358,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30329866,"Grevioux, Kevin",2
+359,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30375224,"Hingle, Pat",3
+360,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30429003,"Kane, Bob (I)",3
+361,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30545712,"Mazar, Debi",2
+362,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30564616,"Melniker, Benjamin",3
+363,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30741904,"Sanders, Elizabeth (I)",2
+364,Batman Forever_1995,21009857,1995,30114716,"Burton, Tim (I)",30861594,"Uslan, Michael (V)",3
+365,Batman Forever_1995,21009857,1995,30320941,"Gough, Michael (I)",30375224,"Hingle, Pat",3
+366,Batman Forever_1995,21009857,1995,30320941,"Gough, Michael (I)",30429003,"Kane, Bob (I)",3
+367,Batman Forever_1995,21009857,1995,30320941,"Gough, Michael (I)",30564616,"Melniker, Benjamin",3
+368,Batman Forever_1995,21009857,1995,30320941,"Gough, Michael (I)",30741904,"Sanders, Elizabeth (I)",2
+369,Batman Forever_1995,21009857,1995,30320941,"Gough, Michael (I)",30861594,"Uslan, Michael (V)",3
+370,Batman Forever_1995,21009857,1995,30375224,"Hingle, Pat",30429003,"Kane, Bob (I)",3
+371,Batman Forever_1995,21009857,1995,30375224,"Hingle, Pat",30564616,"Melniker, Benjamin",3
+372,Batman Forever_1995,21009857,1995,30375224,"Hingle, Pat",30741904,"Sanders, Elizabeth (I)",2
+373,Batman Forever_1995,21009857,1995,30375224,"Hingle, Pat",30861594,"Uslan, Michael (V)",3
+374,Batman Forever_1995,21009857,1995,30429003,"Kane, Bob (I)",30564616,"Melniker, Benjamin",3
+375,Batman Forever_1995,21009857,1995,30429003,"Kane, Bob (I)",30741904,"Sanders, Elizabeth (I)",2
+376,Batman Forever_1995,21009857,1995,30429003,"Kane, Bob (I)",30861594,"Uslan, Michael (V)",3
+377,Batman Forever_1995,21009857,1995,30564616,"Melniker, Benjamin",30741904,"Sanders, Elizabeth (I)",2
+378,Batman Forever_1995,21009857,1995,30564616,"Melniker, Benjamin",30861594,"Uslan, Michael (V)",3
+379,Batman Forever_1995,21009857,1995,30741904,"Sanders, Elizabeth (I)",30861594,"Uslan, Michael (V)",2
+380,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30083861,"Bonham Carter, Helena",3
+381,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30114716,"Burton, Tim (I)",3
+382,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30243631,"Elfman, Danny",3
+383,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30282593,"Frauenfelder, Katterli",2
+384,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30284905,"Frey, Derek",2
+385,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30481927,"Lebenzon, Chris",3
+386,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30552567,"McDowell, Alex (I)",2
+387,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30682325,"Pyle, Missi",2
+388,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30727445,"Rousselot, Philippe",2
+389,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30728300,"Roy, Deep",2
+390,Charlie and the Chocolate Factory_2005,21009927,2005,30033839,"August, John (I)",30932653,"Zanuck, Richard D.",2
+391,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30114716,"Burton, Tim (I)",4
+392,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30243631,"Elfman, Danny",4
+393,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30282593,"Frauenfelder, Katterli",3
+394,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30284905,"Frey, Derek",2
+395,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30481927,"Lebenzon, Chris",4
+396,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30552567,"McDowell, Alex (I)",2
+397,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30682325,"Pyle, Missi",2
+398,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30727445,"Rousselot, Philippe",3
+399,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30728300,"Roy, Deep",3
+400,Charlie and the Chocolate Factory_2005,21009927,2005,30083861,"Bonham Carter, Helena",30932653,"Zanuck, Richard D.",3
+401,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30188514,"Dahl, Roald",2
+402,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30210840,"Depp, Johnny",4
+403,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
+404,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30282593,"Frauenfelder, Katterli",3
+405,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30284905,"Frey, Derek",2
+406,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30340541,"Hagon, Garrick",2
+407,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30481927,"Lebenzon, Chris",8
+408,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30483213,"Lee, Christopher (I)",2
+409,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30552567,"McDowell, Alex (I)",2
+410,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30682325,"Pyle, Missi",2
+411,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30727445,"Rousselot, Philippe",3
+412,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30728300,"Roy, Deep",3
+413,Charlie and the Chocolate Factory_2005,21009927,2005,30114716,"Burton, Tim (I)",30932653,"Zanuck, Richard D.",3
+414,Charlie and the Chocolate Factory_2005,21009927,2005,30210840,"Depp, Johnny",30243631,"Elfman, Danny",3
+415,Charlie and the Chocolate Factory_2005,21009927,2005,30210840,"Depp, Johnny",30481927,"Lebenzon, Chris",3
+416,Charlie and the Chocolate Factory_2005,21009927,2005,30210840,"Depp, Johnny",30483213,"Lee, Christopher (I)",2
+417,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30282593,"Frauenfelder, Katterli",3
+418,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30284905,"Frey, Derek",2
+419,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30340541,"Hagon, Garrick",2
+420,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30481927,"Lebenzon, Chris",7
+421,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30483213,"Lee, Christopher (I)",2
+422,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30552567,"McDowell, Alex (I)",2
+423,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30682325,"Pyle, Missi",2
+424,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30727445,"Rousselot, Philippe",3
+425,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30728300,"Roy, Deep",3
+426,Charlie and the Chocolate Factory_2005,21009927,2005,30243631,"Elfman, Danny",30932653,"Zanuck, Richard D.",3
+427,Charlie and the Chocolate Factory_2005,21009927,2005,30282593,"Frauenfelder, Katterli",30481927,"Lebenzon, Chris",3
+428,Charlie and the Chocolate Factory_2005,21009927,2005,30282593,"Frauenfelder, Katterli",30682325,"Pyle, Missi",2
+429,Charlie and the Chocolate Factory_2005,21009927,2005,30282593,"Frauenfelder, Katterli",30727445,"Rousselot, Philippe",3
+430,Charlie and the Chocolate Factory_2005,21009927,2005,30282593,"Frauenfelder, Katterli",30728300,"Roy, Deep",3
+431,Charlie and the Chocolate Factory_2005,21009927,2005,30282593,"Frauenfelder, Katterli",30932653,"Zanuck, Richard D.",3
+432,Charlie and the Chocolate Factory_2005,21009927,2005,30284905,"Frey, Derek",30481927,"Lebenzon, Chris",2
+433,Charlie and the Chocolate Factory_2005,21009927,2005,30284905,"Frey, Derek",30552567,"McDowell, Alex (I)",2
+434,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30483213,"Lee, Christopher (I)",2
+435,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30552567,"McDowell, Alex (I)",2
+436,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30682325,"Pyle, Missi",2
+437,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30727445,"Rousselot, Philippe",3
+438,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30728300,"Roy, Deep",3
+439,Charlie and the Chocolate Factory_2005,21009927,2005,30481927,"Lebenzon, Chris",30932653,"Zanuck, Richard D.",3
+440,Charlie and the Chocolate Factory_2005,21009927,2005,30682325,"Pyle, Missi",30727445,"Rousselot, Philippe",2
+441,Charlie and the Chocolate Factory_2005,21009927,2005,30682325,"Pyle, Missi",30728300,"Roy, Deep",2
+442,Charlie and the Chocolate Factory_2005,21009927,2005,30682325,"Pyle, Missi",30932653,"Zanuck, Richard D.",2
+443,Charlie and the Chocolate Factory_2005,21009927,2005,30727445,"Rousselot, Philippe",30728300,"Roy, Deep",3
+444,Charlie and the Chocolate Factory_2005,21009927,2005,30727445,"Rousselot, Philippe",30932653,"Zanuck, Richard D.",3
+445,Charlie and the Chocolate Factory_2005,21009927,2005,30728300,"Roy, Deep",30932653,"Zanuck, Richard D.",3
+446,Batman Returns_1992,21010715,1992,30098032,"Brill, Steven (I)",30114716,"Burton, Tim (I)",2
+447,Batman Returns_1992,21010715,1992,30098032,"Brill, Steven (I)",30187389,"Czapsky, Stefan",2
+448,Batman Returns_1992,21010715,1992,30098032,"Brill, Steven (I)",30214482,"Di Novi, Denise",2
+449,Batman Returns_1992,21010715,1992,30098032,"Brill, Steven (I)",30243631,"Elfman, Danny",2
+450,Batman Returns_1992,21010715,1992,30098032,"Brill, Steven (I)",30471205,"Lancaster, Stuart (I)",2
+451,Batman Returns_1992,21010715,1992,30098032,"Brill, Steven (I)",30895051,"Welch, Bo",2
+452,Batman Returns_1992,21010715,1992,30098032,"Brill, Steven (I)",30926784,"Yeager, Biff (I)",2
+453,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30187389,"Czapsky, Stefan",3
+454,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30193322,Darla (II),2
+455,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30213196,"DeVito, Danny",4
+456,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30214482,"Di Novi, Denise",6
+457,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30228865,"Drescher, Adam (I)",2
+458,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
+459,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30280931,"Franco, Larry J.",3
+460,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30304601,"Giammarco, Joan",2
+461,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30320941,"Gough, Michael (I)",4
+462,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30334403,"Guber, Peter",2
+463,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30345601,"Hamm, Sam",2
+464,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30375224,"Hingle, Pat",3
+465,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30383381,"Hooks, Jan",2
+466,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30429003,"Kane, Bob (I)",3
+467,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30435271,"Keaton, Michael",3
+468,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30471205,"Lancaster, Stuart (I)",2
+469,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30481927,"Lebenzon, Chris",8
+470,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30564616,"Melniker, Benjamin",3
+471,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30659177,"Peters, Jon (I)",2
+472,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30700467,"Reubens, Paul",2
+473,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30738831,"Salinger, Diane",2
+474,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30741904,"Sanders, Elizabeth (I)",2
+475,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30861594,"Uslan, Michael (V)",3
+476,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30880655,"Walken, Christopher",2
+477,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30895051,"Welch, Bo",3
+478,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30916412,"Witting, Steve",2
+479,Batman Returns_1992,21010715,1992,30114716,"Burton, Tim (I)",30926784,"Yeager, Biff (I)",3
+480,Batman Returns_1992,21010715,1992,30187389,"Czapsky, Stefan",30214482,"Di Novi, Denise",3
+481,Batman Returns_1992,21010715,1992,30187389,"Czapsky, Stefan",30228865,"Drescher, Adam (I)",2
+482,Batman Returns_1992,21010715,1992,30187389,"Czapsky, Stefan",30243631,"Elfman, Danny",2
+483,Batman Returns_1992,21010715,1992,30187389,"Czapsky, Stefan",30471205,"Lancaster, Stuart (I)",2
+484,Batman Returns_1992,21010715,1992,30187389,"Czapsky, Stefan",30481927,"Lebenzon, Chris",2
+485,Batman Returns_1992,21010715,1992,30187389,"Czapsky, Stefan",30895051,"Welch, Bo",2
+486,Batman Returns_1992,21010715,1992,30187389,"Czapsky, Stefan",30926784,"Yeager, Biff (I)",3
+487,Batman Returns_1992,21010715,1992,30193322,Darla (II),30243631,"Elfman, Danny",2
+488,Batman Returns_1992,21010715,1992,30193322,Darla (II),30383381,"Hooks, Jan",2
+489,Batman Returns_1992,21010715,1992,30193322,Darla (II),30700467,"Reubens, Paul",2
+490,Batman Returns_1992,21010715,1992,30193322,Darla (II),30738831,"Salinger, Diane",2
+491,Batman Returns_1992,21010715,1992,30213196,"DeVito, Danny",30243631,"Elfman, Danny",3
+492,Batman Returns_1992,21010715,1992,30213196,"DeVito, Danny",30280931,"Franco, Larry J.",2
+493,Batman Returns_1992,21010715,1992,30213196,"DeVito, Danny",30481927,"Lebenzon, Chris",3
+494,Batman Returns_1992,21010715,1992,30213196,"DeVito, Danny",30916412,"Witting, Steve",2
+495,Batman Returns_1992,21010715,1992,30214482,"Di Novi, Denise",30228865,"Drescher, Adam (I)",2
+496,Batman Returns_1992,21010715,1992,30214482,"Di Novi, Denise",30243631,"Elfman, Danny",3
+497,Batman Returns_1992,21010715,1992,30214482,"Di Novi, Denise",30471205,"Lancaster, Stuart (I)",2
+498,Batman Returns_1992,21010715,1992,30214482,"Di Novi, Denise",30481927,"Lebenzon, Chris",2
+499,Batman Returns_1992,21010715,1992,30214482,"Di Novi, Denise",30895051,"Welch, Bo",2
+500,Batman Returns_1992,21010715,1992,30214482,"Di Novi, Denise",30926784,"Yeager, Biff (I)",3
+501,Batman Returns_1992,21010715,1992,30228865,"Drescher, Adam (I)",30481927,"Lebenzon, Chris",2
+502,Batman Returns_1992,21010715,1992,30228865,"Drescher, Adam (I)",30926784,"Yeager, Biff (I)",2
+503,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30280931,"Franco, Larry J.",3
+504,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30320941,"Gough, Michael (I)",3
+505,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30334403,"Guber, Peter",2
+506,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30345601,"Hamm, Sam",2
+507,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30375224,"Hingle, Pat",2
+508,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30383381,"Hooks, Jan",2
+509,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30429003,"Kane, Bob (I)",2
+510,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30435271,"Keaton, Michael",3
+511,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30471205,"Lancaster, Stuart (I)",2
+512,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30481927,"Lebenzon, Chris",7
+513,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30564616,"Melniker, Benjamin",2
+514,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30659177,"Peters, Jon (I)",2
+515,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30700467,"Reubens, Paul",2
+516,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30738831,"Salinger, Diane",2
+517,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30861594,"Uslan, Michael (V)",2
+518,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30880655,"Walken, Christopher",2
+519,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30895051,"Welch, Bo",3
+520,Batman Returns_1992,21010715,1992,30243631,"Elfman, Danny",30926784,"Yeager, Biff (I)",2
+521,Batman Returns_1992,21010715,1992,30280931,"Franco, Larry J.",30320941,"Gough, Michael (I)",2
+522,Batman Returns_1992,21010715,1992,30280931,"Franco, Larry J.",30481927,"Lebenzon, Chris",3
+523,Batman Returns_1992,21010715,1992,30280931,"Franco, Larry J.",30880655,"Walken, Christopher",2
+524,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30334403,"Guber, Peter",2
+525,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30345601,"Hamm, Sam",2
+526,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30375224,"Hingle, Pat",3
+527,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30429003,"Kane, Bob (I)",3
+528,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30435271,"Keaton, Michael",2
+529,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30481927,"Lebenzon, Chris",2
+530,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30564616,"Melniker, Benjamin",3
+531,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30659177,"Peters, Jon (I)",2
+532,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30741904,"Sanders, Elizabeth (I)",2
+533,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30861594,"Uslan, Michael (V)",3
+534,Batman Returns_1992,21010715,1992,30320941,"Gough, Michael (I)",30880655,"Walken, Christopher",2
+535,Batman Returns_1992,21010715,1992,30334403,"Guber, Peter",30345601,"Hamm, Sam",2
+536,Batman Returns_1992,21010715,1992,30334403,"Guber, Peter",30375224,"Hingle, Pat",2
+537,Batman Returns_1992,21010715,1992,30334403,"Guber, Peter",30429003,"Kane, Bob (I)",2
+538,Batman Returns_1992,21010715,1992,30334403,"Guber, Peter",30435271,"Keaton, Michael",2
+539,Batman Returns_1992,21010715,1992,30334403,"Guber, Peter",30564616,"Melniker, Benjamin",2
+540,Batman Returns_1992,21010715,1992,30334403,"Guber, Peter",30659177,"Peters, Jon (I)",2
+541,Batman Returns_1992,21010715,1992,30334403,"Guber, Peter",30861594,"Uslan, Michael (V)",2
+542,Batman Returns_1992,21010715,1992,30345601,"Hamm, Sam",30375224,"Hingle, Pat",2
+543,Batman Returns_1992,21010715,1992,30345601,"Hamm, Sam",30429003,"Kane, Bob (I)",2
+544,Batman Returns_1992,21010715,1992,30345601,"Hamm, Sam",30435271,"Keaton, Michael",2
+545,Batman Returns_1992,21010715,1992,30345601,"Hamm, Sam",30564616,"Melniker, Benjamin",2
+546,Batman Returns_1992,21010715,1992,30345601,"Hamm, Sam",30659177,"Peters, Jon (I)",2
+547,Batman Returns_1992,21010715,1992,30345601,"Hamm, Sam",30861594,"Uslan, Michael (V)",2
+548,Batman Returns_1992,21010715,1992,30375224,"Hingle, Pat",30429003,"Kane, Bob (I)",3
+549,Batman Returns_1992,21010715,1992,30375224,"Hingle, Pat",30435271,"Keaton, Michael",2
+550,Batman Returns_1992,21010715,1992,30375224,"Hingle, Pat",30564616,"Melniker, Benjamin",3
+551,Batman Returns_1992,21010715,1992,30375224,"Hingle, Pat",30659177,"Peters, Jon (I)",2
+552,Batman Returns_1992,21010715,1992,30375224,"Hingle, Pat",30741904,"Sanders, Elizabeth (I)",2
+553,Batman Returns_1992,21010715,1992,30375224,"Hingle, Pat",30861594,"Uslan, Michael (V)",3
+554,Batman Returns_1992,21010715,1992,30383381,"Hooks, Jan",30700467,"Reubens, Paul",2
+555,Batman Returns_1992,21010715,1992,30383381,"Hooks, Jan",30738831,"Salinger, Diane",2
+556,Batman Returns_1992,21010715,1992,30429003,"Kane, Bob (I)",30435271,"Keaton, Michael",2
+557,Batman Returns_1992,21010715,1992,30429003,"Kane, Bob (I)",30564616,"Melniker, Benjamin",3
+558,Batman Returns_1992,21010715,1992,30429003,"Kane, Bob (I)",30659177,"Peters, Jon (I)",2
+559,Batman Returns_1992,21010715,1992,30429003,"Kane, Bob (I)",30741904,"Sanders, Elizabeth (I)",2
+560,Batman Returns_1992,21010715,1992,30429003,"Kane, Bob (I)",30861594,"Uslan, Michael (V)",3
+561,Batman Returns_1992,21010715,1992,30435271,"Keaton, Michael",30564616,"Melniker, Benjamin",2
+562,Batman Returns_1992,21010715,1992,30435271,"Keaton, Michael",30659177,"Peters, Jon (I)",2
+563,Batman Returns_1992,21010715,1992,30435271,"Keaton, Michael",30861594,"Uslan, Michael (V)",2
+564,Batman Returns_1992,21010715,1992,30435271,"Keaton, Michael",30895051,"Welch, Bo",2
+565,Batman Returns_1992,21010715,1992,30471205,"Lancaster, Stuart (I)",30895051,"Welch, Bo",2
+566,Batman Returns_1992,21010715,1992,30471205,"Lancaster, Stuart (I)",30926784,"Yeager, Biff (I)",2
+567,Batman Returns_1992,21010715,1992,30481927,"Lebenzon, Chris",30880655,"Walken, Christopher",2
+568,Batman Returns_1992,21010715,1992,30481927,"Lebenzon, Chris",30926784,"Yeager, Biff (I)",2
+569,Batman Returns_1992,21010715,1992,30564616,"Melniker, Benjamin",30659177,"Peters, Jon (I)",2
+570,Batman Returns_1992,21010715,1992,30564616,"Melniker, Benjamin",30741904,"Sanders, Elizabeth (I)",2
+571,Batman Returns_1992,21010715,1992,30564616,"Melniker, Benjamin",30861594,"Uslan, Michael (V)",3
+572,Batman Returns_1992,21010715,1992,30659177,"Peters, Jon (I)",30861594,"Uslan, Michael (V)",2
+573,Batman Returns_1992,21010715,1992,30700467,"Reubens, Paul",30738831,"Salinger, Diane",2
+574,Batman Returns_1992,21010715,1992,30741904,"Sanders, Elizabeth (I)",30861594,"Uslan, Michael (V)",2
+575,Batman Returns_1992,21010715,1992,30895051,"Welch, Bo",30926784,"Yeager, Biff (I)",2
+576,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
+577,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30320941,"Gough, Michael (I)",4
+578,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30334403,"Guber, Peter",2
+579,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30340541,"Hagon, Garrick",2
+580,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30345601,"Hamm, Sam",2
+581,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30375224,"Hingle, Pat",3
+582,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30429003,"Kane, Bob (I)",3
+583,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30435271,"Keaton, Michael",3
+584,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30564616,"Melniker, Benjamin",3
+585,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30615205,"Nicholson, Jack (I)",3
+586,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30659177,"Peters, Jon (I)",2
+587,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30783008,"Skaaren, Warren",2
+588,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30828925,"Tan, Philip",2
+589,Batman_1989,21011181,1989,30114716,"Burton, Tim (I)",30861594,"Uslan, Michael (V)",3
+590,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30320941,"Gough, Michael (I)",3
+591,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30334403,"Guber, Peter",2
+592,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30340541,"Hagon, Garrick",2
+593,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30345601,"Hamm, Sam",2
+594,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30375224,"Hingle, Pat",2
+595,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30429003,"Kane, Bob (I)",2
+596,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30435271,"Keaton, Michael",3
+597,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30564616,"Melniker, Benjamin",2
+598,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30615205,"Nicholson, Jack (I)",2
+599,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30659177,"Peters, Jon (I)",2
+600,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30783008,"Skaaren, Warren",2
+601,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30828925,"Tan, Philip",2
+602,Batman_1989,21011181,1989,30243631,"Elfman, Danny",30861594,"Uslan, Michael (V)",2
+603,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30334403,"Guber, Peter",2
+604,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30345601,"Hamm, Sam",2
+605,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30375224,"Hingle, Pat",3
+606,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30429003,"Kane, Bob (I)",3
+607,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30435271,"Keaton, Michael",2
+608,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30564616,"Melniker, Benjamin",3
+609,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30659177,"Peters, Jon (I)",2
+610,Batman_1989,21011181,1989,30320941,"Gough, Michael (I)",30861594,"Uslan, Michael (V)",3
+611,Batman_1989,21011181,1989,30334403,"Guber, Peter",30345601,"Hamm, Sam",2
+612,Batman_1989,21011181,1989,30334403,"Guber, Peter",30375224,"Hingle, Pat",2
+613,Batman_1989,21011181,1989,30334403,"Guber, Peter",30429003,"Kane, Bob (I)",2
+614,Batman_1989,21011181,1989,30334403,"Guber, Peter",30435271,"Keaton, Michael",2
+615,Batman_1989,21011181,1989,30334403,"Guber, Peter",30564616,"Melniker, Benjamin",2
+616,Batman_1989,21011181,1989,30334403,"Guber, Peter",30659177,"Peters, Jon (I)",2
+617,Batman_1989,21011181,1989,30334403,"Guber, Peter",30861594,"Uslan, Michael (V)",2
+618,Batman_1989,21011181,1989,30345601,"Hamm, Sam",30375224,"Hingle, Pat",2
+619,Batman_1989,21011181,1989,30345601,"Hamm, Sam",30429003,"Kane, Bob (I)",2
+620,Batman_1989,21011181,1989,30345601,"Hamm, Sam",30435271,"Keaton, Michael",2
+621,Batman_1989,21011181,1989,30345601,"Hamm, Sam",30564616,"Melniker, Benjamin",2
+622,Batman_1989,21011181,1989,30345601,"Hamm, Sam",30659177,"Peters, Jon (I)",2
+623,Batman_1989,21011181,1989,30345601,"Hamm, Sam",30861594,"Uslan, Michael (V)",2
+624,Batman_1989,21011181,1989,30375224,"Hingle, Pat",30429003,"Kane, Bob (I)",3
+625,Batman_1989,21011181,1989,30375224,"Hingle, Pat",30435271,"Keaton, Michael",2
+626,Batman_1989,21011181,1989,30375224,"Hingle, Pat",30564616,"Melniker, Benjamin",3
+627,Batman_1989,21011181,1989,30375224,"Hingle, Pat",30659177,"Peters, Jon (I)",2
+628,Batman_1989,21011181,1989,30375224,"Hingle, Pat",30861594,"Uslan, Michael (V)",3
+629,Batman_1989,21011181,1989,30429003,"Kane, Bob (I)",30435271,"Keaton, Michael",2
+630,Batman_1989,21011181,1989,30429003,"Kane, Bob (I)",30564616,"Melniker, Benjamin",3
+631,Batman_1989,21011181,1989,30429003,"Kane, Bob (I)",30659177,"Peters, Jon (I)",2
+632,Batman_1989,21011181,1989,30429003,"Kane, Bob (I)",30861594,"Uslan, Michael (V)",3
+633,Batman_1989,21011181,1989,30435271,"Keaton, Michael",30564616,"Melniker, Benjamin",2
+634,Batman_1989,21011181,1989,30435271,"Keaton, Michael",30659177,"Peters, Jon (I)",2
+635,Batman_1989,21011181,1989,30435271,"Keaton, Michael",30783008,"Skaaren, Warren",2
+636,Batman_1989,21011181,1989,30435271,"Keaton, Michael",30861594,"Uslan, Michael (V)",2
+637,Batman_1989,21011181,1989,30564616,"Melniker, Benjamin",30659177,"Peters, Jon (I)",2
+638,Batman_1989,21011181,1989,30564616,"Melniker, Benjamin",30861594,"Uslan, Michael (V)",3
+639,Batman_1989,21011181,1989,30659177,"Peters, Jon (I)",30861594,"Uslan, Michael (V)",2
+640,Cabin Boy_1994,21012581,1994,30114716,"Burton, Tim (I)",30214482,"Di Novi, Denise",6
+641,Cabin Boy_1994,21012581,1994,30114716,"Burton, Tim (I)",30805549,"Starr, Mike (I)",3
+642,Cabin Boy_1994,21012581,1994,30114716,"Burton, Tim (I)",30884312,"Walters, Melora",2
+643,Cabin Boy_1994,21012581,1994,30214482,"Di Novi, Denise",30805549,"Starr, Mike (I)",3
+644,Cabin Boy_1994,21012581,1994,30214482,"Di Novi, Denise",30884312,"Walters, Melora",2
+645,Cabin Boy_1994,21012581,1994,30805549,"Starr, Mike (I)",30884312,"Walters, Melora",2
+646,James and the Giant Peach_1996,21014006,1996,30114716,"Burton, Tim (I)",30188514,"Dahl, Roald",2
+647,James and the Giant Peach_1996,21014006,1996,30114716,"Burton, Tim (I)",30214482,"Di Novi, Denise",6
+648,James and the Giant Peach_1996,21014006,1996,30114716,"Burton, Tim (I)",30459639,"Kozachik, Pete",2
+649,James and the Giant Peach_1996,21014006,1996,30114716,"Burton, Tim (I)",30511906,"Lumley, Joanna",2
+650,James and the Giant Peach_1996,21014006,1996,30114716,"Burton, Tim (I)",30761674,"Selick, Henry",2
+651,James and the Giant Peach_1996,21014006,1996,30114716,"Burton, Tim (I)",30805549,"Starr, Mike (I)",3
+652,James and the Giant Peach_1996,21014006,1996,30114716,"Burton, Tim (I)",30891776,"Webb, Stan (I)",2
+653,James and the Giant Peach_1996,21014006,1996,30214482,"Di Novi, Denise",30761674,"Selick, Henry",2
+654,James and the Giant Peach_1996,21014006,1996,30214482,"Di Novi, Denise",30805549,"Starr, Mike (I)",3
+655,James and the Giant Peach_1996,21014006,1996,30214482,"Di Novi, Denise",30891776,"Webb, Stan (I)",2
+656,James and the Giant Peach_1996,21014006,1996,30459639,"Kozachik, Pete",30511906,"Lumley, Joanna",2
+657,James and the Giant Peach_1996,21014006,1996,30761674,"Selick, Henry",30891776,"Webb, Stan (I)",2
+658,Singles_1992,21014118,1992,30114716,"Burton, Tim (I)",30304562,"Giamatti, Paul",2
+659,Singles_1992,21014118,1992,30114716,"Burton, Tim (I)",30304601,"Giammarco, Joan",2
+660,Singles_1992,21014118,1992,30114716,"Burton, Tim (I)",30356721,"Hashimoto, Richard",3
+661,Singles_1992,21014118,1992,30114716,"Burton, Tim (I)",30545712,"Mazar, Debi",2
+662,The Nightmare Before Christmas_1993,21017470,1993,30114716,"Burton, Tim (I)",30214482,"Di Novi, Denise",6
+663,The Nightmare Before Christmas_1993,21017470,1993,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
+664,The Nightmare Before Christmas_1993,21017470,1993,30114716,"Burton, Tim (I)",30552643,"McDowell, Michael (I)",2
+665,The Nightmare Before Christmas_1993,21017470,1993,30114716,"Burton, Tim (I)",30627117,"O'Hara, Catherine (I)",2
+666,The Nightmare Before Christmas_1993,21017470,1993,30114716,"Burton, Tim (I)",30761674,"Selick, Henry",2
+667,The Nightmare Before Christmas_1993,21017470,1993,30114716,"Burton, Tim (I)",30840372,"Thompson, Caroline (I)",3
+668,The Nightmare Before Christmas_1993,21017470,1993,30114716,"Burton, Tim (I)",30891776,"Webb, Stan (I)",2
+669,The Nightmare Before Christmas_1993,21017470,1993,30214482,"Di Novi, Denise",30243631,"Elfman, Danny",3
+670,The Nightmare Before Christmas_1993,21017470,1993,30214482,"Di Novi, Denise",30761674,"Selick, Henry",2
+671,The Nightmare Before Christmas_1993,21017470,1993,30214482,"Di Novi, Denise",30840372,"Thompson, Caroline (I)",2
+672,The Nightmare Before Christmas_1993,21017470,1993,30214482,"Di Novi, Denise",30891776,"Webb, Stan (I)",2
+673,The Nightmare Before Christmas_1993,21017470,1993,30243631,"Elfman, Danny",30552643,"McDowell, Michael (I)",2
+674,The Nightmare Before Christmas_1993,21017470,1993,30243631,"Elfman, Danny",30627117,"O'Hara, Catherine (I)",2
+675,The Nightmare Before Christmas_1993,21017470,1993,30243631,"Elfman, Danny",30840372,"Thompson, Caroline (I)",3
+676,The Nightmare Before Christmas_1993,21017470,1993,30552643,"McDowell, Michael (I)",30627117,"O'Hara, Catherine (I)",2
+677,The Nightmare Before Christmas_1993,21017470,1993,30761674,"Selick, Henry",30891776,"Webb, Stan (I)",2

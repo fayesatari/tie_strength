@@ -1,0 +1,286 @@
+,Code 1,Crew 1_name,Code2,Crew 2_name,Tie strength
+0,30033839,"August, John (I)",30083861,"Bonham Carter, Helena",3
+1,30033839,"August, John (I)",30114716,"Burton, Tim (I)",3
+2,30033839,"August, John (I)",30243631,"Elfman, Danny",3
+3,30033839,"August, John (I)",30284905,"Frey, Derek",2
+4,30033839,"August, John (I)",30481927,"Lebenzon, Chris",3
+5,30033839,"August, John (I)",30552567,"McDowell, Alex (I)",2
+6,30083861,"Bonham Carter, Helena",30114716,"Burton, Tim (I)",4
+7,30083861,"Bonham Carter, Helena",30243631,"Elfman, Danny",4
+8,30083861,"Bonham Carter, Helena",30284905,"Frey, Derek",2
+9,30083861,"Bonham Carter, Helena",30481927,"Lebenzon, Chris",4
+10,30083861,"Bonham Carter, Helena",30552567,"McDowell, Alex (I)",2
+11,30114716,"Burton, Tim (I)",30243631,"Elfman, Danny",12
+12,30114716,"Burton, Tim (I)",30284905,"Frey, Derek",2
+13,30114716,"Burton, Tim (I)",30459639,"Kozachik, Pete",2
+14,30114716,"Burton, Tim (I)",30481927,"Lebenzon, Chris",8
+15,30114716,"Burton, Tim (I)",30511906,"Lumley, Joanna",2
+16,30114716,"Burton, Tim (I)",30552567,"McDowell, Alex (I)",2
+17,30114716,"Burton, Tim (I)",30840372,"Thompson, Caroline (I)",3
+18,30243631,"Elfman, Danny",30284905,"Frey, Derek",2
+19,30243631,"Elfman, Danny",30481927,"Lebenzon, Chris",7
+20,30243631,"Elfman, Danny",30552567,"McDowell, Alex (I)",2
+21,30243631,"Elfman, Danny",30840372,"Thompson, Caroline (I)",3
+22,30284905,"Frey, Derek",30481927,"Lebenzon, Chris",2
+23,30284905,"Frey, Derek",30552567,"McDowell, Alex (I)",2
+24,30459639,"Kozachik, Pete",30511906,"Lumley, Joanna",2
+25,30481927,"Lebenzon, Chris",30552567,"McDowell, Alex (I)",2
+26,30088594,"Bow, Simmy",30114716,"Burton, Tim (I)",2
+27,30088594,"Bow, Simmy",30243631,"Elfman, Danny",2
+28,30088594,"Bow, Simmy",30266601,"Filpi, Carmen",2
+29,30114716,"Burton, Tim (I)",30193322,Darla (II),2
+31,30114716,"Burton, Tim (I)",30266601,"Filpi, Carmen",3
+32,30114716,"Burton, Tim (I)",30383381,"Hooks, Jan",2
+33,30114716,"Burton, Tim (I)",30700467,"Reubens, Paul",2
+34,30114716,"Burton, Tim (I)",30738831,"Salinger, Diane",2
+35,30193322,Darla (II),30243631,"Elfman, Danny",2
+36,30193322,Darla (II),30383381,"Hooks, Jan",2
+37,30193322,Darla (II),30700467,"Reubens, Paul",2
+38,30193322,Darla (II),30738831,"Salinger, Diane",2
+39,30243631,"Elfman, Danny",30266601,"Filpi, Carmen",2
+40,30243631,"Elfman, Danny",30383381,"Hooks, Jan",2
+41,30243631,"Elfman, Danny",30700467,"Reubens, Paul",2
+42,30243631,"Elfman, Danny",30738831,"Salinger, Diane",2
+43,30383381,"Hooks, Jan",30700467,"Reubens, Paul",2
+44,30383381,"Hooks, Jan",30738831,"Salinger, Diane",2
+45,30700467,"Reubens, Paul",30738831,"Salinger, Diane",2
+51,30114716,"Burton, Tim (I)",30356721,"Hashimoto, Richard",3
+52,30114716,"Burton, Tim (I)",30420536,"Jones, Jeffrey (I)",3
+53,30114716,"Burton, Tim (I)",30435271,"Keaton, Michael",3
+54,30114716,"Burton, Tim (I)",30552643,"McDowell, Michael (I)",2
+55,30114716,"Burton, Tim (I)",30627117,"O'Hara, Catherine (I)",2
+56,30114716,"Burton, Tim (I)",30734668,"Ryder, Winona",2
+57,30114716,"Burton, Tim (I)",30764994,"Shadix, Glenn",2
+58,30114716,"Burton, Tim (I)",30775989,"Sidney, Sylvia (I)",2
+59,30114716,"Burton, Tim (I)",30783008,"Skaaren, Warren",2
+60,30114716,"Burton, Tim (I)",30895051,"Welch, Bo",3
+62,30243631,"Elfman, Danny",30356721,"Hashimoto, Richard",2
+63,30243631,"Elfman, Danny",30420536,"Jones, Jeffrey (I)",2
+64,30243631,"Elfman, Danny",30435271,"Keaton, Michael",3
+65,30243631,"Elfman, Danny",30552643,"McDowell, Michael (I)",2
+66,30243631,"Elfman, Danny",30627117,"O'Hara, Catherine (I)",2
+67,30243631,"Elfman, Danny",30734668,"Ryder, Winona",2
+68,30243631,"Elfman, Danny",30764994,"Shadix, Glenn",2
+69,30243631,"Elfman, Danny",30775989,"Sidney, Sylvia (I)",2
+70,30243631,"Elfman, Danny",30783008,"Skaaren, Warren",2
+71,30243631,"Elfman, Danny",30895051,"Welch, Bo",3
+72,30266601,"Filpi, Carmen",30420536,"Jones, Jeffrey (I)",2
+73,30356721,"Hashimoto, Richard",30734668,"Ryder, Winona",2
+74,30356721,"Hashimoto, Richard",30895051,"Welch, Bo",2
+75,30435271,"Keaton, Michael",30783008,"Skaaren, Warren",2
+76,30435271,"Keaton, Michael",30895051,"Welch, Bo",2
+77,30552643,"McDowell, Michael (I)",30627117,"O'Hara, Catherine (I)",2
+78,30734668,"Ryder, Winona",30895051,"Welch, Bo",2
+81,30083861,"Bonham Carter, Helena",30282593,"Frauenfelder, Katterli",3
+83,30083861,"Bonham Carter, Helena",30727445,"Rousselot, Philippe",3
+84,30083861,"Bonham Carter, Helena",30728300,"Roy, Deep",3
+85,30083861,"Bonham Carter, Helena",30932653,"Zanuck, Richard D.",3
+87,30114716,"Burton, Tim (I)",30282593,"Frauenfelder, Katterli",3
+88,30114716,"Burton, Tim (I)",30304562,"Giamatti, Paul",2
+89,30114716,"Burton, Tim (I)",30329866,"Grevioux, Kevin",2
+90,30114716,"Burton, Tim (I)",30363542,"Heinrichs, Rick",2
+92,30114716,"Burton, Tim (I)",30530473,"Marie, Lisa (I)",4
+93,30114716,"Burton, Tim (I)",30727445,"Rousselot, Philippe",3
+94,30114716,"Burton, Tim (I)",30728300,"Roy, Deep",3
+96,30114716,"Burton, Tim (I)",30828925,"Tan, Philip",2
+97,30114716,"Burton, Tim (I)",30932653,"Zanuck, Richard D.",3
+98,30243631,"Elfman, Danny",30282593,"Frauenfelder, Katterli",3
+99,30243631,"Elfman, Danny",30363542,"Heinrichs, Rick",2
+101,30243631,"Elfman, Danny",30530473,"Marie, Lisa (I)",3
+102,30243631,"Elfman, Danny",30727445,"Rousselot, Philippe",3
+103,30243631,"Elfman, Danny",30728300,"Roy, Deep",3
+105,30243631,"Elfman, Danny",30828925,"Tan, Philip",2
+106,30243631,"Elfman, Danny",30932653,"Zanuck, Richard D.",3
+107,30282593,"Frauenfelder, Katterli",30481927,"Lebenzon, Chris",3
+108,30282593,"Frauenfelder, Katterli",30727445,"Rousselot, Philippe",3
+109,30282593,"Frauenfelder, Katterli",30728300,"Roy, Deep",3
+110,30282593,"Frauenfelder, Katterli",30932653,"Zanuck, Richard D.",3
+111,30363542,"Heinrichs, Rick",30481927,"Lebenzon, Chris",2
+112,30363542,"Heinrichs, Rick",30530473,"Marie, Lisa (I)",2
+113,30481927,"Lebenzon, Chris",30530473,"Marie, Lisa (I)",4
+114,30481927,"Lebenzon, Chris",30727445,"Rousselot, Philippe",3
+115,30481927,"Lebenzon, Chris",30728300,"Roy, Deep",3
+116,30481927,"Lebenzon, Chris",30932653,"Zanuck, Richard D.",3
+117,30727445,"Rousselot, Philippe",30728300,"Roy, Deep",3
+118,30727445,"Rousselot, Philippe",30932653,"Zanuck, Richard D.",3
+119,30728300,"Roy, Deep",30932653,"Zanuck, Richard D.",3
+123,30033839,"August, John (I)",30282593,"Frauenfelder, Katterli",2
+125,30033839,"August, John (I)",30682325,"Pyle, Missi",2
+126,30033839,"August, John (I)",30727445,"Rousselot, Philippe",2
+127,30033839,"August, John (I)",30728300,"Roy, Deep",2
+128,30033839,"August, John (I)",30932653,"Zanuck, Richard D.",2
+133,30083861,"Bonham Carter, Helena",30682325,"Pyle, Missi",2
+137,30114716,"Burton, Tim (I)",30213196,"DeVito, Danny",4
+141,30114716,"Burton, Tim (I)",30682325,"Pyle, Missi",2
+144,30114716,"Burton, Tim (I)",30827397,"Tai, Ada",2
+145,30114716,"Burton, Tim (I)",30827398,"Tai, Arlene",2
+147,30213196,"DeVito, Danny",30243631,"Elfman, Danny",3
+148,30213196,"DeVito, Danny",30481927,"Lebenzon, Chris",3
+151,30243631,"Elfman, Danny",30682325,"Pyle, Missi",2
+156,30282593,"Frauenfelder, Katterli",30682325,"Pyle, Missi",2
+160,30481927,"Lebenzon, Chris",30682325,"Pyle, Missi",2
+163,30481927,"Lebenzon, Chris",30827397,"Tai, Ada",2
+164,30481927,"Lebenzon, Chris",30827398,"Tai, Arlene",2
+166,30682325,"Pyle, Missi",30727445,"Rousselot, Philippe",2
+167,30682325,"Pyle, Missi",30728300,"Roy, Deep",2
+168,30682325,"Pyle, Missi",30932653,"Zanuck, Richard D.",2
+172,30827397,"Tai, Ada",30827398,"Tai, Arlene",2
+173,30044414,"Banks, Lena",30114716,"Burton, Tim (I)",2
+174,30114716,"Burton, Tim (I)",30115210,"Bush, Tommy (I)",2
+175,30114716,"Burton, Tim (I)",30187389,"Czapsky, Stefan",3
+176,30114716,"Burton, Tim (I)",30210840,"Depp, Johnny",4
+177,30114716,"Burton, Tim (I)",30214482,"Di Novi, Denise",6
+178,30114716,"Burton, Tim (I)",30228865,"Drescher, Adam (I)",2
+180,30114716,"Burton, Tim (I)",30387714,"Howard, Rance",2
+182,30114716,"Burton, Tim (I)",30471448,"Landau, Martin",2
+185,30114716,"Burton, Tim (I)",30645369,"Parker, Sarah Jessica",2
+186,30114716,"Burton, Tim (I)",30805549,"Starr, Mike (I)",3
+189,30114716,"Burton, Tim (I)",30884312,"Walters, Melora",2
+190,30114716,"Burton, Tim (I)",30926784,"Yeager, Biff (I)",3
+191,30115210,"Bush, Tommy (I)",30387714,"Howard, Rance",2
+192,30115210,"Bush, Tommy (I)",30481927,"Lebenzon, Chris",2
+193,30115210,"Bush, Tommy (I)",30530473,"Marie, Lisa (I)",2
+194,30115210,"Bush, Tommy (I)",30645369,"Parker, Sarah Jessica",2
+195,30187389,"Czapsky, Stefan",30210840,"Depp, Johnny",2
+196,30187389,"Czapsky, Stefan",30214482,"Di Novi, Denise",3
+197,30187389,"Czapsky, Stefan",30228865,"Drescher, Adam (I)",2
+198,30187389,"Czapsky, Stefan",30481927,"Lebenzon, Chris",2
+199,30187389,"Czapsky, Stefan",30926784,"Yeager, Biff (I)",3
+200,30210840,"Depp, Johnny",30214482,"Di Novi, Denise",2
+201,30210840,"Depp, Johnny",30420536,"Jones, Jeffrey (I)",2
+202,30210840,"Depp, Johnny",30471448,"Landau, Martin",2
+203,30210840,"Depp, Johnny",30481927,"Lebenzon, Chris",3
+204,30210840,"Depp, Johnny",30530473,"Marie, Lisa (I)",2
+205,30210840,"Depp, Johnny",30926784,"Yeager, Biff (I)",2
+206,30214482,"Di Novi, Denise",30228865,"Drescher, Adam (I)",2
+207,30214482,"Di Novi, Denise",30481927,"Lebenzon, Chris",2
+208,30214482,"Di Novi, Denise",30805549,"Starr, Mike (I)",3
+209,30214482,"Di Novi, Denise",30884312,"Walters, Melora",2
+210,30214482,"Di Novi, Denise",30926784,"Yeager, Biff (I)",3
+211,30228865,"Drescher, Adam (I)",30481927,"Lebenzon, Chris",2
+212,30228865,"Drescher, Adam (I)",30926784,"Yeager, Biff (I)",2
+214,30387714,"Howard, Rance",30481927,"Lebenzon, Chris",2
+215,30387714,"Howard, Rance",30530473,"Marie, Lisa (I)",2
+216,30387714,"Howard, Rance",30645369,"Parker, Sarah Jessica",2
+217,30420536,"Jones, Jeffrey (I)",30471448,"Landau, Martin",2
+218,30420536,"Jones, Jeffrey (I)",30481927,"Lebenzon, Chris",2
+219,30420536,"Jones, Jeffrey (I)",30530473,"Marie, Lisa (I)",2
+220,30471448,"Landau, Martin",30481927,"Lebenzon, Chris",2
+221,30471448,"Landau, Martin",30530473,"Marie, Lisa (I)",2
+223,30481927,"Lebenzon, Chris",30645369,"Parker, Sarah Jessica",2
+226,30481927,"Lebenzon, Chris",30926784,"Yeager, Biff (I)",2
+227,30530473,"Marie, Lisa (I)",30645369,"Parker, Sarah Jessica",2
+228,30805549,"Starr, Mike (I)",30884312,"Walters, Melora",2
+230,30098032,"Brill, Steven (I)",30114716,"Burton, Tim (I)",2
+231,30098032,"Brill, Steven (I)",30187389,"Czapsky, Stefan",2
+232,30098032,"Brill, Steven (I)",30214482,"Di Novi, Denise",2
+233,30098032,"Brill, Steven (I)",30243631,"Elfman, Danny",2
+234,30098032,"Brill, Steven (I)",30471205,"Lancaster, Stuart (I)",2
+235,30098032,"Brill, Steven (I)",30895051,"Welch, Bo",2
+236,30098032,"Brill, Steven (I)",30926784,"Yeager, Biff (I)",2
+242,30114716,"Burton, Tim (I)",30421463,"Jones, O-Lan",2
+243,30114716,"Burton, Tim (I)",30471205,"Lancaster, Stuart (I)",2
+250,30187389,"Czapsky, Stefan",30243631,"Elfman, Danny",2
+251,30187389,"Czapsky, Stefan",30471205,"Lancaster, Stuart (I)",2
+252,30187389,"Czapsky, Stefan",30895051,"Welch, Bo",2
+255,30210840,"Depp, Johnny",30243631,"Elfman, Danny",3
+257,30214482,"Di Novi, Denise",30243631,"Elfman, Danny",3
+258,30214482,"Di Novi, Denise",30471205,"Lancaster, Stuart (I)",2
+259,30214482,"Di Novi, Denise",30840372,"Thompson, Caroline (I)",2
+260,30214482,"Di Novi, Denise",30895051,"Welch, Bo",2
+263,30243631,"Elfman, Danny",30421463,"Jones, O-Lan",2
+264,30243631,"Elfman, Danny",30471205,"Lancaster, Stuart (I)",2
+268,30243631,"Elfman, Danny",30926784,"Yeager, Biff (I)",2
+271,30471205,"Lancaster, Stuart (I)",30895051,"Welch, Bo",2
+272,30471205,"Lancaster, Stuart (I)",30926784,"Yeager, Biff (I)",2
+274,30895051,"Welch, Bo",30926784,"Yeager, Biff (I)",2
+277,30114716,"Burton, Tim (I)",30259891,"Favreau, Jon",2
+278,30114716,"Burton, Tim (I)",30615205,"Nicholson, Jack (I)",3
+279,30114716,"Burton, Tim (I)",30916412,"Witting, Steve",2
+280,30213196,"DeVito, Danny",30615205,"Nicholson, Jack (I)",2
+281,30213196,"DeVito, Danny",30916412,"Witting, Steve",2
+285,30114716,"Burton, Tim (I)",30280931,"Franco, Larry J.",3
+298,30213196,"DeVito, Danny",30280931,"Franco, Larry J.",2
+301,30243631,"Elfman, Danny",30280931,"Franco, Larry J.",3
+305,30243631,"Elfman, Danny",30615205,"Nicholson, Jack (I)",2
+307,30280931,"Franco, Larry J.",30481927,"Lebenzon, Chris",3
+308,30280931,"Franco, Larry J.",30530473,"Marie, Lisa (I)",2
+318,30114716,"Burton, Tim (I)",30320941,"Gough, Michael (I)",4
+323,30114716,"Burton, Tim (I)",30483213,"Lee, Christopher (I)",2
+325,30114716,"Burton, Tim (I)",30880655,"Walken, Christopher",2
+330,30210840,"Depp, Johnny",30483213,"Lee, Christopher (I)",2
+333,30243631,"Elfman, Danny",30320941,"Gough, Michael (I)",3
+337,30243631,"Elfman, Danny",30483213,"Lee, Christopher (I)",2
+339,30243631,"Elfman, Danny",30880655,"Walken, Christopher",2
+340,30280931,"Franco, Larry J.",30320941,"Gough, Michael (I)",2
+343,30280931,"Franco, Larry J.",30880655,"Walken, Christopher",2
+344,30320941,"Gough, Michael (I)",30481927,"Lebenzon, Chris",2
+345,30320941,"Gough, Michael (I)",30880655,"Walken, Christopher",2
+353,30481927,"Lebenzon, Chris",30483213,"Lee, Christopher (I)",2
+355,30481927,"Lebenzon, Chris",30880655,"Walken, Christopher",2
+359,30114716,"Burton, Tim (I)",30375224,"Hingle, Pat",3
+360,30114716,"Burton, Tim (I)",30429003,"Kane, Bob (I)",3
+361,30114716,"Burton, Tim (I)",30545712,"Mazar, Debi",2
+362,30114716,"Burton, Tim (I)",30564616,"Melniker, Benjamin",3
+363,30114716,"Burton, Tim (I)",30741904,"Sanders, Elizabeth (I)",2
+364,30114716,"Burton, Tim (I)",30861594,"Uslan, Michael (V)",3
+365,30320941,"Gough, Michael (I)",30375224,"Hingle, Pat",3
+366,30320941,"Gough, Michael (I)",30429003,"Kane, Bob (I)",3
+367,30320941,"Gough, Michael (I)",30564616,"Melniker, Benjamin",3
+368,30320941,"Gough, Michael (I)",30741904,"Sanders, Elizabeth (I)",2
+369,30320941,"Gough, Michael (I)",30861594,"Uslan, Michael (V)",3
+370,30375224,"Hingle, Pat",30429003,"Kane, Bob (I)",3
+371,30375224,"Hingle, Pat",30564616,"Melniker, Benjamin",3
+372,30375224,"Hingle, Pat",30741904,"Sanders, Elizabeth (I)",2
+373,30375224,"Hingle, Pat",30861594,"Uslan, Michael (V)",3
+374,30429003,"Kane, Bob (I)",30564616,"Melniker, Benjamin",3
+375,30429003,"Kane, Bob (I)",30741904,"Sanders, Elizabeth (I)",2
+376,30429003,"Kane, Bob (I)",30861594,"Uslan, Michael (V)",3
+377,30564616,"Melniker, Benjamin",30741904,"Sanders, Elizabeth (I)",2
+378,30564616,"Melniker, Benjamin",30861594,"Uslan, Michael (V)",3
+379,30741904,"Sanders, Elizabeth (I)",30861594,"Uslan, Michael (V)",2
+401,30114716,"Burton, Tim (I)",30188514,"Dahl, Roald",2
+406,30114716,"Burton, Tim (I)",30340541,"Hagon, Garrick",2
+419,30243631,"Elfman, Danny",30340541,"Hagon, Garrick",2
+460,30114716,"Burton, Tim (I)",30304601,"Giammarco, Joan",2
+462,30114716,"Burton, Tim (I)",30334403,"Guber, Peter",2
+463,30114716,"Burton, Tim (I)",30345601,"Hamm, Sam",2
+471,30114716,"Burton, Tim (I)",30659177,"Peters, Jon (I)",2
+505,30243631,"Elfman, Danny",30334403,"Guber, Peter",2
+506,30243631,"Elfman, Danny",30345601,"Hamm, Sam",2
+507,30243631,"Elfman, Danny",30375224,"Hingle, Pat",2
+509,30243631,"Elfman, Danny",30429003,"Kane, Bob (I)",2
+513,30243631,"Elfman, Danny",30564616,"Melniker, Benjamin",2
+514,30243631,"Elfman, Danny",30659177,"Peters, Jon (I)",2
+517,30243631,"Elfman, Danny",30861594,"Uslan, Michael (V)",2
+524,30320941,"Gough, Michael (I)",30334403,"Guber, Peter",2
+525,30320941,"Gough, Michael (I)",30345601,"Hamm, Sam",2
+528,30320941,"Gough, Michael (I)",30435271,"Keaton, Michael",2
+531,30320941,"Gough, Michael (I)",30659177,"Peters, Jon (I)",2
+535,30334403,"Guber, Peter",30345601,"Hamm, Sam",2
+536,30334403,"Guber, Peter",30375224,"Hingle, Pat",2
+537,30334403,"Guber, Peter",30429003,"Kane, Bob (I)",2
+538,30334403,"Guber, Peter",30435271,"Keaton, Michael",2
+539,30334403,"Guber, Peter",30564616,"Melniker, Benjamin",2
+540,30334403,"Guber, Peter",30659177,"Peters, Jon (I)",2
+541,30334403,"Guber, Peter",30861594,"Uslan, Michael (V)",2
+542,30345601,"Hamm, Sam",30375224,"Hingle, Pat",2
+543,30345601,"Hamm, Sam",30429003,"Kane, Bob (I)",2
+544,30345601,"Hamm, Sam",30435271,"Keaton, Michael",2
+545,30345601,"Hamm, Sam",30564616,"Melniker, Benjamin",2
+546,30345601,"Hamm, Sam",30659177,"Peters, Jon (I)",2
+547,30345601,"Hamm, Sam",30861594,"Uslan, Michael (V)",2
+549,30375224,"Hingle, Pat",30435271,"Keaton, Michael",2
+551,30375224,"Hingle, Pat",30659177,"Peters, Jon (I)",2
+556,30429003,"Kane, Bob (I)",30435271,"Keaton, Michael",2
+558,30429003,"Kane, Bob (I)",30659177,"Peters, Jon (I)",2
+561,30435271,"Keaton, Michael",30564616,"Melniker, Benjamin",2
+562,30435271,"Keaton, Michael",30659177,"Peters, Jon (I)",2
+563,30435271,"Keaton, Michael",30861594,"Uslan, Michael (V)",2
+569,30564616,"Melniker, Benjamin",30659177,"Peters, Jon (I)",2
+572,30659177,"Peters, Jon (I)",30861594,"Uslan, Michael (V)",2
+650,30114716,"Burton, Tim (I)",30761674,"Selick, Henry",2
+652,30114716,"Burton, Tim (I)",30891776,"Webb, Stan (I)",2
+653,30214482,"Di Novi, Denise",30761674,"Selick, Henry",2
+655,30214482,"Di Novi, Denise",30891776,"Webb, Stan (I)",2
+657,30761674,"Selick, Henry",30891776,"Webb, Stan (I)",2

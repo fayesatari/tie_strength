@@ -84,17 +84,21 @@ try:
           elif second not in crewDF[first]:
             crewDF[first][second] = 1
           else: 
-            crewDF[first][second] += 1 
+            if(crewDF[first][second]>0):
+              crewDF[first][second] += 1 
           if second not in crewDF:
             crewDF[second]={}
             crewDF[second][first] = -1
+          elif first not in crewDF[second]:
+            crewDF[second][first] = -1
           
-          FinalValues.append([])
-          tmparr =[datamovie['Movie'] , datamovie['MovieCode'] , datamovie['Year'],
+          if(crewDF[first][second] > 0) : 
+            FinalValues.append([])
+            tmparr =[datamovie['Movie'] , datamovie['MovieCode'] , datamovie['Year'],
                            first , movie.loc[movie['newcode'].eq(first), 'Crew'].values[0],
                            second ,movie.loc[movie['newcode'].eq(second), 'Crew'].values[0], 1]
-          FinalValues[y]= tmparr
-          y=y+1
+            FinalValues[y]= tmparr
+            y=y+1
      
     z=z+1         
   
@@ -107,11 +111,13 @@ except ValueError:
 try:
   for row in FinalValues:
     tieval = crewDF[row[3]][row[5]]  
-    if(tieval == -1): 
-      tieval = int(crewDF[row[5]][row[3]])
+    #if(tieval == -1): 
+     # tieval = int(crewDF[row[5]][row[3]])
     if(tieval>1):
       row[7]=tieval
       results.append(row)
+
+  #pd.DataFrame(results).to_csv('./files/results.csv')  
 except ValueError:
   print("Error in preparing  final results." )
   input("Press enter to exit ")
@@ -119,9 +125,14 @@ except ValueError:
 # save matrix and final result in file  
 try:
   print("Start Saving the results of " + str(len(results)) + " data.")
-  dfresult = pd.DataFrame(results ,columns=['Movie','MovieCode','Year','Crew 1_name','Code 1','Crew 2_name','Code2', 'Tie strength']) 
+  dfresult = pd.DataFrame(results ,columns=['Movie','MovieCode','Year','Code 1','Crew 1_name','Code2','Crew 2_name', 'Tie strength']) 
   dfresult.to_csv('./files/output-result.csv') 
-  #crewDF.to_csv('./files/output-matrix.csv') 
+  
+  dfresult1 = dfresult[['Code 1','Crew 1_name','Code2','Crew 2_name', 'Tie strength']]
+  dfresult1.drop_duplicates(inplace=True)
+  print("Start Saving the results 1 of " + str(len(dfresult1)) + " data.")
+  dfresult1.to_csv('./files/output-result-1.csv') 
+
   now = datetime.now() 
   input( "End of process in " +  now.strftime("%H:%M:%S") + ".  Press enter to exit ")
 except ValueError:
